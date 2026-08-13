@@ -1,0 +1,45 @@
+name: Fetch Live player board API
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/fetch-live-board-api.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch API
+        run: |
+          pip install -q requests
+          python - <<'PY'
+          import json, pathlib, requests
+          base='https://cpbv-community.com2us.com'
+          h={'User-Agent':'Mozilla/5.0 Chrome/151 Safari/537.36','Accept-Language':'ko-KR,ko;q=0.9','Referer':base+'/board/37','X-Requested-With':'XMLHttpRequest'}
+          s=requests.Session(); s.headers.update(h)
+          payload={'e_type':'board1','idx':'37','header':'','lang':'ko','selectType':'1','page_size':'100','page_num':'1','is_mobile':'0','viewChk':'LIST'}
+          r=s.post(base+'/board/list/getBoardContents',data=payload,timeout=60); r.raise_for_status()
+          data=r.json()
+          pathlib.Path('research').mkdir(exist_ok=True)
+          pathlib.Path('research/live_board37_api.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
+          rows=[]
+          for x in (data.get('top_data') or [])+(data.get('data') or []):
+              rows.append({'idx':x.get('idx'),'title':x.get('title'),'date':x.get('ymdhm_regdate'),'board_idx':x.get('board_idx')})
+          pathlib.Path('research/live_board37_posts.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2),encoding='utf-8')
+          print(json.dumps(rows[:100],ensure_ascii=False,indent=2))
+          PY
+      - name: Commit result
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add research/live_board37_api.json research/live_board37_posts.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: fetch Live player board API'
+            git push
+          fi
