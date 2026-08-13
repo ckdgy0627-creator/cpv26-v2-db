@@ -19,6 +19,7 @@ jobs:
           mkdir -p research
           python - <<'PY'
           import html, re, urllib.request
+          from urllib.parse import urljoin
           pages = [
             'https://cpbv-community.com2us.com/board/3/275486',
             'https://cpbv-community.com2us.com/board/3/277364',
@@ -28,10 +29,18 @@ jobs:
           for page in pages:
               req=urllib.request.Request(page,headers=ua)
               raw=urllib.request.urlopen(req,timeout=30).read().decode('utf-8','ignore')
-              urls=re.findall(r'https?[^\"\'<> ]+?(?:png|jpg|jpeg|webp)', raw, flags=re.I)
-              urls=[html.unescape(u).replace('\\/','/') for u in urls]
+              raw=html.unescape(raw).replace('\\/','/')
+              patterns = [
+                  r'https?[^\"\'<> ]+?(?:png|jpg|jpeg|webp)',
+                  r'/webdev/community_cpbv22/(?:upload|image)/[^\"\'<> ]+?(?:png|jpg|jpeg|webp)',
+              ]
+              urls=[]
+              for pat in patterns:
+                  urls.extend(re.findall(pat, raw, flags=re.I))
+              urls=[urljoin('https://hive-fn.qpyou.cn',u) if u.startswith('/') else u for u in urls]
               unique=[]
               for u in urls:
+                  u=u.rstrip('\\')
                   if u not in unique and ('upload' in u or 'qpyou' in u): unique.append(u)
               out.append('PAGE '+page)
               out.extend(f'{i:03d} {u}' for i,u in enumerate(unique,1))
