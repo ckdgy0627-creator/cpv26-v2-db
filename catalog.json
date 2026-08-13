@@ -1,11 +1,18 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
-  "catalogVersion": "catalog-2026.08.13.2",
+  "revision": 3,
+  "catalogVersion": "catalog-2026.08.13.3",
   "activeCardSetId": "2026_V2",
-  "publishedAt": "2026-08-13T11:45:07+09:00",
+  "publishedAt": "2026-08-13T16:33:00+09:00",
   "playersUrl": "https://raw.githubusercontent.com/ckdgy0627-creator/cpv26-v2-db/main/players.json",
   "playersSha256": "59e1c59caa3620e64066d3350c09e010200661e84526135b8b67bf129427ec42",
+  "liveHitRules": {
+    "teamSynergyBonusPercent": 100,
+    "teamSynergyVerified": false,
+    "collectionBonusPercent": 100,
+    "selectionRateBonusMaxPercent": 200,
+    "sourceUrl": "https://cpbv-community.com2us.com/board/all/22592"
+  },
   "cardSets": [
     {
       "cardSetId": "2026_V2",
