@@ -1,0 +1,45 @@
+name: OCR V2 new hitter table boxes
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/ocr-v2-new-boxes.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  ocr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install OCR
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-kor
+          pip install -q pillow pytesseract
+      - name: OCR fixed columns
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageEnhance, ImageOps
+          import pytesseract
+          img=Image.open('research/v2_targets/live10_new_batters.png').convert('RGB')
+          cuts=[0,150,535,img.width]
+          parts=[]
+          for j in range(3):
+              crop=img.crop((cuts[j],0,cuts[j+1],img.height)).resize(((cuts[j+1]-cuts[j])*4,img.height*4))
+              crop=ImageEnhance.Contrast(ImageOps.grayscale(crop)).enhance(2.3)
+              lang='eng' if j in (0,2) else 'kor+eng'
+              txt=pytesseract.image_to_string(crop,lang=lang,config='--oem 1 --psm 6')
+              parts += [f'## COL{j+1} x={cuts[j]}..{cuts[j+1]}','```text',txt.strip(),'```','']
+          Path('research/v2_targets/new_columns.md').write_text('\n'.join(parts),encoding='utf-8')
+          PY
+      - name: Commit
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add research/v2_targets/new_columns.md
+          if ! git diff --cached --quiet; then git commit -m 'chore: improve V2 new hitter OCR'; git push; fi
