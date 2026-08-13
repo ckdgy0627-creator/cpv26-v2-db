@@ -1,0 +1,59 @@
+name: OCR V2 table boxes
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/ocr-v2-boxes.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  ocr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install OCR
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-kor
+          pip install -q pillow pytesseract
+      - name: OCR boxes and fixed columns
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from PIL import Image, ImageEnhance, ImageOps
+          import pytesseract
+          from pytesseract import Output
+          p=Path('research/v2_targets/live10_position_batters.png')
+          img=Image.open(p).convert('RGB')
+          scale=3
+          big=img.resize((img.width*scale,img.height*scale))
+          gray=ImageEnhance.Contrast(ImageOps.grayscale(big)).enhance(2.2)
+          d=pytesseract.image_to_data(gray,lang='kor+eng',config='--oem 1 --psm 6',output_type=Output.DICT)
+          rows=['i\ttext\tconf\tleft\ttop\twidth\theight\tblock\tpar\tline\tword']
+          for i,t in enumerate(d['text']):
+              t=t.strip()
+              if t:
+                  rows.append('\t'.join(map(str,[i,t,d['conf'][i],d['left'][i]//scale,d['top'][i]//scale,d['width'][i]//scale,d['height'][i]//scale,d['block_num'][i],d['par_num'][i],d['line_num'][i],d['word_num'][i]])))
+          out=Path('research/v2_targets/position_boxes.tsv')
+          out.write_text('\n'.join(rows),encoding='utf-8')
+          # Also split image into 4 broad vertical columns and OCR separately.
+          cuts=[0,170,570,755,img.width]
+          parts=[]
+          for j in range(4):
+              crop=img.crop((cuts[j],0,cuts[j+1],img.height)).resize(((cuts[j+1]-cuts[j])*3,img.height*3))
+              crop=ImageEnhance.Contrast(ImageOps.grayscale(crop)).enhance(2.3)
+              lang='eng' if j in (0,2,3) else 'kor+eng'
+              txt=pytesseract.image_to_string(crop,lang=lang,config='--oem 1 --psm 6')
+              parts += [f'## COL{j+1} x={cuts[j]}..{cuts[j+1]}','```text',txt.strip(),'```','']
+          Path('research/v2_targets/position_columns.md').write_text('\n'.join(parts),encoding='utf-8')
+          PY
+      - name: Commit
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add research/v2_targets/position_*
+          if ! git diff --cached --quiet; then git commit -m 'chore: improve V2 position OCR'; git push; fi
