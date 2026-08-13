@@ -1,6 +1,1 @@
-{
-  "schemaVersion": 1,
-  "dbVersion": "players-2026.08.13.1",
-  "publishedAt": "2026-08-13T10:28:00+09:00",
-  "records": []
-}
+{"schemaVersion":1,"dbVersion":"players-2026.08.13.2","publishedAt":"2026-08-13T11:37:54+09:00","records":[{"koreanName":"김규성","aliases":[],"team":"KIA"},{"koreanName":"박정우","aliases":[],"team":"KIA"},{"koreanName":"변우혁","aliases":[],"team":"KIA"},{"koreanName":"하주석","aliases":[],"team":"KIA"},{"koreanName":"도태훈","aliases":[],"team":"NC"},{"koreanName":"박시원","aliases":["박시원S"],"team":"NC"},{"koreanName":"블레인","aliases":[],"team":"NC"},{"koreanName":"천재환","aliases":[],"team":"NC"},{"koreanName":"고명준","aliases":[],"team":"SSG"},{"koreanName":"임근우","aliases":[],"team":"SSG"},{"koreanName":"류현인","aliases":[],"team":"kt"},{"koreanName":"안치영","aliases":[],"team":"kt"},{"koreanName":"김대한","aliases":[],"team":"두산"},{"koreanName":"류승민","aliases":[],"team":"두산"},{"koreanName":"세베리노","aliases":[],"team":"두산"},{"koreanName":"오명진","aliases":[],"team":"두산"},{"koreanName":"김동혁","aliases":["김동혁S"],"team":"롯데"},{"koreanName":"장두성","aliases":[],"team":"롯데"},{"koreanName":"김현준","aliases":["김현준S"],"team":"삼성"},{"koreanName":"심재훈","aliases":[],"team":"삼성"},{"koreanName":"양우현","aliases":[],"team":"삼성"},{"koreanName":"장승현","aliases":[],"team":"삼성"},{"koreanName":"박주홍","aliases":["박주홍S"],"team":"키움"},{"koreanName":"안치홍","aliases":[],"team":"키움"},{"koreanName":"추재현","aliases":[],"team":"키움"},{"koreanName":"히우라","aliases":[],"team":"키움"},{"koreanName":"박정현","aliases":["박정현S"],"team":"한화"}]}
