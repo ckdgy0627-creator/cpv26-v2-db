@@ -1,0 +1,66 @@
+name: OCR V2 official target tables
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/ocr-v2-targets.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  ocr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install OCR
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-kor
+          pip install -q requests pillow pytesseract
+      - name: Download and OCR target tables
+        run: |
+          python - <<'PY'
+          import io, hashlib, pathlib, requests
+          from PIL import Image, ImageEnhance, ImageOps, ImageFilter
+          import pytesseract
+
+          targets = {
+            'live09_candidate_161940': 'https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260720_161940_image.png',
+            'live09_candidate_161942': 'https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260720_161942_image.png',
+            'live10_new_batters': 'https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260804_165853_image.png',
+            'live10_position_batters': 'https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260804_165916_image.png',
+          }
+          out = pathlib.Path('research/v2_targets')
+          out.mkdir(parents=True, exist_ok=True)
+          report=[]
+          h={'User-Agent':'Mozilla/5.0 Chrome/151 Safari/537.36','Referer':'https://cpbv-community.com2us.com/'}
+          for name,url in targets.items():
+              r=requests.get(url,headers=h,timeout=45); r.raise_for_status()
+              raw=r.content
+              img=Image.open(io.BytesIO(raw)).convert('RGB')
+              img.save(out/f'{name}.png')
+              gray=ImageOps.grayscale(img)
+              if max(gray.size)<3200: gray=gray.resize((gray.width*2,gray.height*2))
+              gray=ImageEnhance.Contrast(gray).enhance(2.0).filter(ImageFilter.SHARPEN)
+              texts=[]
+              for psm in (6,11,4):
+                  t=pytesseract.image_to_string(gray,lang='kor+eng',config=f'--oem 1 --psm {psm}')
+                  texts.append((psm,t))
+              report += [f'## {name}',f'URL: {url}',f'SIZE: {img.width}x{img.height}',f'SHA256: {hashlib.sha256(raw).hexdigest()}']
+              for psm,t in texts:
+                  report += [f'### PSM {psm}','```text',t.strip(),'```']
+              report.append('')
+          (out/'ocr.md').write_text('\n'.join(report),encoding='utf-8')
+          PY
+      - name: Commit OCR research
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add research/v2_targets/
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: OCR official 2026 V2 tables'
+            git push
+          fi
