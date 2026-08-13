@@ -1,0 +1,51 @@
+name: Scrape Live player board
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/scrape-live-board.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Live player ability board
+        run: |
+          python - <<'PY'
+          import re, html, pathlib, requests
+          from bs4 import BeautifulSoup
+          u='https://cpbv-community.com2us.com/board/37'
+          h={'User-Agent':'Mozilla/5.0 Chrome/151 Safari/537.36','Accept-Language':'ko-KR,ko;q=0.9'}
+          r=requests.get(u,headers=h,timeout=60)
+          print(r.status_code, len(r.text))
+          pathlib.Path('research').mkdir(exist_ok=True)
+          pathlib.Path('research/live_board37_raw.html').write_text(r.text,encoding='utf-8')
+          soup=BeautifulSoup(r.text,'html.parser')
+          rows=[]
+          seen=set()
+          for a in soup.find_all('a',href=True):
+              href=a['href']
+              txt=' '.join(a.stripped_strings)
+              m=re.search(r'/board/(?:37|all)/(\d+)',href)
+              if m and m.group(1) not in seen:
+                  seen.add(m.group(1)); rows.append((m.group(1),txt,href))
+          out=['id\ttitle\thref']+[f'{i}\t{t}\t{h}' for i,t,h in rows]
+          pathlib.Path('research/live_board37_links.tsv').write_text('\n'.join(out),encoding='utf-8')
+          print('\n'.join(out[:100]))
+          PY
+        shell: bash
+      - name: Commit result
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add research/live_board37_*
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: scrape Live player ability board'
+            git push
+          fi
