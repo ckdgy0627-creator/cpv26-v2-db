@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "catalogVersion": "catalog-2026.08.13.1",
+  "activeCardSetId": "2026_V2",
+  "publishedAt": "2026-08-13T10:28:00+09:00",
+  "playersUrl": "https://raw.githubusercontent.com/ckdgy0627-creator/cpv26-v2-db/main/players.json",
+  "playersSha256": "6277e71c7c5f299e5bd29a6df777da0ea0cfa7d4f1ed53f9862a434950fcf7e1",
+  "cardSets": [
+    {
+      "cardSetId": "2026_V2",
+      "cardSetLabel": "2026 V2",
+      "effectiveFrom": "2026-07-21",
+      "effectiveTo": null,
+      "dbVersion": "2026.10.1",
+      "liveUpdateNo": 10,
+      "dataUrl": "https://raw.githubusercontent.com/ckdgy0627-creator/cpv26-v2-db/main/cards/2026_v2.json",
+      "sha256": "e82b938fea3b1667616647dd6f7591e04cbe5cdc4ceccaa16087421293b80aea",
+      "officialNoticeUrl": "https://cpbv-community.com2us.com/board/3/277364"
+    }
+  ]
+}
