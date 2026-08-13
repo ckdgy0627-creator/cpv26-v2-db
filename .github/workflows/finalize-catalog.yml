@@ -1,0 +1,48 @@
+name: Finalize remote DB catalog
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/finalize-catalog.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild SHA-256 and revision
+        run: |
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          from datetime import datetime, timezone, timedelta
+
+          p_players=Path('players.json')
+          p_cards=Path('cards/2026_v2.json')
+          cat=Path('catalog.json')
+          obj=json.loads(cat.read_text(encoding='utf-8'))
+          obj['revision']=2
+          obj['catalogVersion']='catalog-2026.08.13.2'
+          obj['publishedAt']=datetime.now(timezone(timedelta(hours=9))).replace(microsecond=0).isoformat()
+          obj['playersSha256']=hashlib.sha256(p_players.read_bytes()).hexdigest()
+          for cs in obj['cardSets']:
+              if cs['cardSetId']=='2026_V2':
+                  cs['dbVersion']='2026.10.2'
+                  cs['liveUpdateNo']=10
+                  cs['sha256']=hashlib.sha256(p_cards.read_bytes()).hexdigest()
+          cat.write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(cat.read_text(encoding='utf-8'))
+          PY
+      - name: Commit catalog
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'db: finalize 2026 V2 revision 2 catalog'
+            git push
+          fi
