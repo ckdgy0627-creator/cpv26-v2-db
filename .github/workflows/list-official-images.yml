@@ -1,0 +1,49 @@
+name: List official notice images
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/list-official-images.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  list-images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract image URLs
+        run: |
+          mkdir -p research
+          python - <<'PY'
+          import html, re, urllib.request
+          pages = [
+            'https://cpbv-community.com2us.com/board/3/275486',
+            'https://cpbv-community.com2us.com/board/3/277364',
+          ]
+          ua={'User-Agent':'Mozilla/5.0 Chrome/151 Safari/537.36'}
+          out=[]
+          for page in pages:
+              req=urllib.request.Request(page,headers=ua)
+              raw=urllib.request.urlopen(req,timeout=30).read().decode('utf-8','ignore')
+              urls=re.findall(r'https?[^\"\'<> ]+?(?:png|jpg|jpeg|webp)', raw, flags=re.I)
+              urls=[html.unescape(u).replace('\\/','/') for u in urls]
+              unique=[]
+              for u in urls:
+                  if u not in unique and ('upload' in u or 'qpyou' in u): unique.append(u)
+              out.append('PAGE '+page)
+              out.extend(f'{i:03d} {u}' for i,u in enumerate(unique,1))
+              out.append('')
+          open('research/image_urls.txt','w',encoding='utf-8').write('\n'.join(out))
+          PY
+      - name: Commit URL list
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add research/image_urls.txt
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: list official notice image URLs'
+            git push
+          fi
