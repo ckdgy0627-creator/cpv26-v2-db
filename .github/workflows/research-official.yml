@@ -1,0 +1,43 @@
+name: Research official Live notices
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'tools/research_official.py'
+      - '.github/workflows/research-official.yml'
+  schedule:
+    - cron: '17 0,6,12,18 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Korean OCR
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-kor
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pillow pytesseract
+
+      - name: Fetch and OCR official notices
+        run: python tools/research_official.py
+
+      - name: Commit research result
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add research/
+          if git diff --cached --quiet; then
+            echo 'No research changes'
+          else
+            git commit -m 'chore: refresh official Live notice research'
+            git push
+          fi
