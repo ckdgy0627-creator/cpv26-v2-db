@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "cardSeason": "2026 V2",
+  "dbVersion": "2026.10.1",
+  "liveUpdateNo": 10,
+  "effectiveDate": "2026-08-05",
+  "dataUrl": "https://raw.githubusercontent.com/ckdgy0627-creator/cpv26-v2-db/main/v2_database.json",
+  "sha256": "706510f60b9865a9637ead33dba8c133e07a472653bbee021c2584dbd05229eb",
+  "officialNoticeUrl": "https://cpbv-community.com2us.com/board/3/277364"
+}
