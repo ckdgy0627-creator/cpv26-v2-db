@@ -1,1 +1,402 @@
-{"schemaVersion":1,"dbVersion":"players-2026.08.13.2","publishedAt":"2026-08-13T11:37:54+09:00","records":[{"koreanName":"김규성","aliases":[],"team":"KIA"},{"koreanName":"박정우","aliases":[],"team":"KIA"},{"koreanName":"변우혁","aliases":[],"team":"KIA"},{"koreanName":"하주석","aliases":[],"team":"KIA"},{"koreanName":"도태훈","aliases":[],"team":"NC"},{"koreanName":"박시원","aliases":["박시원S"],"team":"NC"},{"koreanName":"블레인","aliases":[],"team":"NC"},{"koreanName":"천재환","aliases":[],"team":"NC"},{"koreanName":"고명준","aliases":[],"team":"SSG"},{"koreanName":"임근우","aliases":[],"team":"SSG"},{"koreanName":"류현인","aliases":[],"team":"kt"},{"koreanName":"안치영","aliases":[],"team":"kt"},{"koreanName":"김대한","aliases":[],"team":"두산"},{"koreanName":"류승민","aliases":[],"team":"두산"},{"koreanName":"세베리노","aliases":[],"team":"두산"},{"koreanName":"오명진","aliases":[],"team":"두산"},{"koreanName":"김동혁","aliases":["김동혁S"],"team":"롯데"},{"koreanName":"장두성","aliases":[],"team":"롯데"},{"koreanName":"김현준","aliases":["김현준S"],"team":"삼성"},{"koreanName":"심재훈","aliases":[],"team":"삼성"},{"koreanName":"양우현","aliases":[],"team":"삼성"},{"koreanName":"장승현","aliases":[],"team":"삼성"},{"koreanName":"박주홍","aliases":["박주홍S"],"team":"키움"},{"koreanName":"안치홍","aliases":[],"team":"키움"},{"koreanName":"추재현","aliases":[],"team":"키움"},{"koreanName":"히우라","aliases":[],"team":"키움"},{"koreanName":"박정현","aliases":["박정현S"],"team":"한화"}]}
+{
+  "schemaVersion": 1,
+  "dbVersion": "players-2026.08.14.1",
+  "publishedAt": "2026-08-14T16:46:33+09:00",
+  "records": [
+    {
+      "koreanName": "김규성",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "김도영",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "김선빈",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "김호령",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "나성범",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "박정우",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "변우혁",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "하주석",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "한준수",
+      "aliases": [],
+      "team": "KIA"
+    },
+    {
+      "koreanName": "김상수",
+      "aliases": [
+        "김상수",
+        "김상수S"
+      ],
+      "team": "KT"
+    },
+    {
+      "koreanName": "류현인",
+      "aliases": [],
+      "team": "kt"
+    },
+    {
+      "koreanName": "안치영",
+      "aliases": [],
+      "team": "kt"
+    },
+    {
+      "koreanName": "안현민",
+      "aliases": [],
+      "team": "KT"
+    },
+    {
+      "koreanName": "장성우",
+      "aliases": [],
+      "team": "KT"
+    },
+    {
+      "koreanName": "최원준",
+      "aliases": [
+        "최원준",
+        "최원준B"
+      ],
+      "team": "KT"
+    },
+    {
+      "koreanName": "힐리어드",
+      "aliases": [],
+      "team": "KT"
+    },
+    {
+      "koreanName": "문보경",
+      "aliases": [],
+      "team": "LG"
+    },
+    {
+      "koreanName": "박동원",
+      "aliases": [],
+      "team": "LG"
+    },
+    {
+      "koreanName": "박해민",
+      "aliases": [],
+      "team": "LG"
+    },
+    {
+      "koreanName": "송찬의",
+      "aliases": [],
+      "team": "LG"
+    },
+    {
+      "koreanName": "오스틴",
+      "aliases": [],
+      "team": "LG"
+    },
+    {
+      "koreanName": "오지환",
+      "aliases": [],
+      "team": "LG"
+    },
+    {
+      "koreanName": "전민재",
+      "aliases": [],
+      "team": "LG"
+    },
+    {
+      "koreanName": "홍창기",
+      "aliases": [],
+      "team": "LG"
+    },
+    {
+      "koreanName": "김주원",
+      "aliases": [],
+      "team": "NC"
+    },
+    {
+      "koreanName": "도태훈",
+      "aliases": [],
+      "team": "NC"
+    },
+    {
+      "koreanName": "박건우",
+      "aliases": [
+        "박건우",
+        "박건우B"
+      ],
+      "team": "NC"
+    },
+    {
+      "koreanName": "박민우",
+      "aliases": [],
+      "team": "NC"
+    },
+    {
+      "koreanName": "박시원",
+      "aliases": [
+        "박시원S"
+      ],
+      "team": "NC"
+    },
+    {
+      "koreanName": "블레인",
+      "aliases": [],
+      "team": "NC"
+    },
+    {
+      "koreanName": "천재환",
+      "aliases": [],
+      "team": "NC"
+    },
+    {
+      "koreanName": "고명준",
+      "aliases": [],
+      "team": "SSG"
+    },
+    {
+      "koreanName": "박성한",
+      "aliases": [],
+      "team": "SSG"
+    },
+    {
+      "koreanName": "에레디아",
+      "aliases": [],
+      "team": "SSG"
+    },
+    {
+      "koreanName": "임근우",
+      "aliases": [],
+      "team": "SSG"
+    },
+    {
+      "koreanName": "최정",
+      "aliases": [],
+      "team": "SSG"
+    },
+    {
+      "koreanName": "최지훈",
+      "aliases": [],
+      "team": "SSG"
+    },
+    {
+      "koreanName": "김대한",
+      "aliases": [],
+      "team": "두산"
+    },
+    {
+      "koreanName": "류승민",
+      "aliases": [],
+      "team": "두산"
+    },
+    {
+      "koreanName": "박준순",
+      "aliases": [],
+      "team": "두산"
+    },
+    {
+      "koreanName": "박찬호",
+      "aliases": [
+        "박찬호",
+        "박찬호S"
+      ],
+      "team": "두산"
+    },
+    {
+      "koreanName": "세베리노",
+      "aliases": [],
+      "team": "두산"
+    },
+    {
+      "koreanName": "양의지",
+      "aliases": [],
+      "team": "두산"
+    },
+    {
+      "koreanName": "오명진",
+      "aliases": [],
+      "team": "두산"
+    },
+    {
+      "koreanName": "이유찬",
+      "aliases": [],
+      "team": "두산"
+    },
+    {
+      "koreanName": "정수빈",
+      "aliases": [],
+      "team": "두산"
+    },
+    {
+      "koreanName": "김동혁",
+      "aliases": [
+        "김동혁S"
+      ],
+      "team": "롯데"
+    },
+    {
+      "koreanName": "레이예스",
+      "aliases": [
+        "레이예스",
+        "레이예스S"
+      ],
+      "team": "롯데"
+    },
+    {
+      "koreanName": "장두성",
+      "aliases": [],
+      "team": "롯데"
+    },
+    {
+      "koreanName": "구자욱",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "김지찬",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "김현준",
+      "aliases": [
+        "김현준S"
+      ],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "디아즈",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "류지혁",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "박승규",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "심재훈",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "양우현",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "이재현",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "장승현",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "전병우",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "최형우",
+      "aliases": [],
+      "team": "삼성"
+    },
+    {
+      "koreanName": "박주홍",
+      "aliases": [
+        "박주홍S"
+      ],
+      "team": "키움"
+    },
+    {
+      "koreanName": "서건창",
+      "aliases": [],
+      "team": "키움"
+    },
+    {
+      "koreanName": "안치홍",
+      "aliases": [],
+      "team": "키움"
+    },
+    {
+      "koreanName": "추재현",
+      "aliases": [],
+      "team": "키움"
+    },
+    {
+      "koreanName": "히우라",
+      "aliases": [],
+      "team": "키움"
+    },
+    {
+      "koreanName": "강백호",
+      "aliases": [],
+      "team": "한화"
+    },
+    {
+      "koreanName": "김태연",
+      "aliases": [],
+      "team": "한화"
+    },
+    {
+      "koreanName": "노시환",
+      "aliases": [],
+      "team": "한화"
+    },
+    {
+      "koreanName": "문현빈",
+      "aliases": [],
+      "team": "한화"
+    },
+    {
+      "koreanName": "박정현",
+      "aliases": [
+        "박정현S"
+      ],
+      "team": "한화"
+    },
+    {
+      "koreanName": "심우준",
+      "aliases": [],
+      "team": "한화"
+    },
+    {
+      "koreanName": "페라자",
+      "aliases": [],
+      "team": "한화"
+    },
+    {
+      "koreanName": "허인서",
+      "aliases": [],
+      "team": "한화"
+    }
+  ]
+}

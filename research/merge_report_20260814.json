@@ -1,0 +1,437 @@
+{
+  "seedCount": 47,
+  "addedCards": [
+    {
+      "team": "SSG",
+      "name": "박성한",
+      "position": "SS"
+    },
+    {
+      "team": "KT",
+      "name": "힐리어드",
+      "position": "LF"
+    },
+    {
+      "team": "KIA",
+      "name": "김도영",
+      "position": "3B"
+    },
+    {
+      "team": "LG",
+      "name": "오스틴",
+      "position": "1B"
+    },
+    {
+      "team": "KT",
+      "name": "최원준B",
+      "position": "RF"
+    },
+    {
+      "team": "NC",
+      "name": "박민우",
+      "position": "2B"
+    },
+    {
+      "team": "NC",
+      "name": "김주원",
+      "position": "SS"
+    },
+    {
+      "team": "한화",
+      "name": "페라자",
+      "position": "RF"
+    },
+    {
+      "team": "두산",
+      "name": "박찬호S",
+      "position": "SS"
+    },
+    {
+      "team": "한화",
+      "name": "문현빈",
+      "position": "LF"
+    },
+    {
+      "team": "삼성",
+      "name": "류지혁",
+      "position": "2B"
+    },
+    {
+      "team": "롯데",
+      "name": "레이예스S",
+      "position": "LF"
+    },
+    {
+      "team": "두산",
+      "name": "정수빈",
+      "position": "CF"
+    },
+    {
+      "team": "KIA",
+      "name": "김호령",
+      "position": "CF"
+    },
+    {
+      "team": "한화",
+      "name": "허인서",
+      "position": "C"
+    },
+    {
+      "team": "KIA",
+      "name": "한준수",
+      "position": "C"
+    },
+    {
+      "team": "SSG",
+      "name": "최정",
+      "position": "3B"
+    },
+    {
+      "team": "LG",
+      "name": "전민재",
+      "position": "SS"
+    },
+    {
+      "team": "KIA",
+      "name": "나성범",
+      "position": "RF"
+    },
+    {
+      "team": "한화",
+      "name": "강백호",
+      "position": "DH"
+    },
+    {
+      "team": "LG",
+      "name": "송찬의",
+      "position": "LF"
+    },
+    {
+      "team": "삼성",
+      "name": "김지찬",
+      "position": "CF"
+    },
+    {
+      "team": "삼성",
+      "name": "디아즈",
+      "position": "1B"
+    },
+    {
+      "team": "한화",
+      "name": "심우준",
+      "position": "SS"
+    },
+    {
+      "team": "삼성",
+      "name": "박승규",
+      "position": "RF"
+    },
+    {
+      "team": "키움",
+      "name": "서건창",
+      "position": "2B"
+    },
+    {
+      "team": "두산",
+      "name": "박준순",
+      "position": "2B"
+    },
+    {
+      "team": "한화",
+      "name": "노시환",
+      "position": "3B"
+    },
+    {
+      "team": "KT",
+      "name": "김상수S",
+      "position": "2B"
+    },
+    {
+      "team": "두산",
+      "name": "이유찬",
+      "position": "LF"
+    },
+    {
+      "team": "LG",
+      "name": "오지환",
+      "position": "SS"
+    },
+    {
+      "team": "LG",
+      "name": "박해민",
+      "position": "CF"
+    },
+    {
+      "team": "삼성",
+      "name": "구자욱",
+      "position": "LF"
+    },
+    {
+      "team": "SSG",
+      "name": "에레디아",
+      "position": "LF"
+    },
+    {
+      "team": "NC",
+      "name": "박건우B",
+      "position": "RF"
+    },
+    {
+      "team": "한화",
+      "name": "김태연",
+      "position": "1B"
+    },
+    {
+      "team": "LG",
+      "name": "홍창기",
+      "position": "RF"
+    },
+    {
+      "team": "두산",
+      "name": "양의지",
+      "position": "C"
+    },
+    {
+      "team": "KIA",
+      "name": "김선빈",
+      "position": "2B"
+    },
+    {
+      "team": "삼성",
+      "name": "최형우",
+      "position": "DH"
+    },
+    {
+      "team": "삼성",
+      "name": "이재현",
+      "position": "SS"
+    },
+    {
+      "team": "KT",
+      "name": "안현민",
+      "position": "RF"
+    },
+    {
+      "team": "LG",
+      "name": "박동원",
+      "position": "3B"
+    },
+    {
+      "team": "삼성",
+      "name": "전병우",
+      "position": "3B"
+    },
+    {
+      "team": "KT",
+      "name": "장성우",
+      "position": "C"
+    },
+    {
+      "team": "LG",
+      "name": "문보경",
+      "position": "DH"
+    },
+    {
+      "team": "SSG",
+      "name": "최지훈",
+      "position": "CF"
+    }
+  ],
+  "alreadyPresentSamePosition": [],
+  "addedPlayers": [
+    {
+      "team": "SSG",
+      "name": "박성한"
+    },
+    {
+      "team": "KT",
+      "name": "힐리어드"
+    },
+    {
+      "team": "KIA",
+      "name": "김도영"
+    },
+    {
+      "team": "LG",
+      "name": "오스틴"
+    },
+    {
+      "team": "KT",
+      "name": "최원준"
+    },
+    {
+      "team": "NC",
+      "name": "박민우"
+    },
+    {
+      "team": "NC",
+      "name": "김주원"
+    },
+    {
+      "team": "한화",
+      "name": "페라자"
+    },
+    {
+      "team": "두산",
+      "name": "박찬호"
+    },
+    {
+      "team": "한화",
+      "name": "문현빈"
+    },
+    {
+      "team": "삼성",
+      "name": "류지혁"
+    },
+    {
+      "team": "롯데",
+      "name": "레이예스"
+    },
+    {
+      "team": "두산",
+      "name": "정수빈"
+    },
+    {
+      "team": "KIA",
+      "name": "김호령"
+    },
+    {
+      "team": "한화",
+      "name": "허인서"
+    },
+    {
+      "team": "KIA",
+      "name": "한준수"
+    },
+    {
+      "team": "SSG",
+      "name": "최정"
+    },
+    {
+      "team": "LG",
+      "name": "전민재"
+    },
+    {
+      "team": "KIA",
+      "name": "나성범"
+    },
+    {
+      "team": "한화",
+      "name": "강백호"
+    },
+    {
+      "team": "LG",
+      "name": "송찬의"
+    },
+    {
+      "team": "삼성",
+      "name": "김지찬"
+    },
+    {
+      "team": "삼성",
+      "name": "디아즈"
+    },
+    {
+      "team": "한화",
+      "name": "심우준"
+    },
+    {
+      "team": "삼성",
+      "name": "박승규"
+    },
+    {
+      "team": "키움",
+      "name": "서건창"
+    },
+    {
+      "team": "두산",
+      "name": "박준순"
+    },
+    {
+      "team": "한화",
+      "name": "노시환"
+    },
+    {
+      "team": "KT",
+      "name": "김상수"
+    },
+    {
+      "team": "두산",
+      "name": "이유찬"
+    },
+    {
+      "team": "LG",
+      "name": "오지환"
+    },
+    {
+      "team": "LG",
+      "name": "박해민"
+    },
+    {
+      "team": "삼성",
+      "name": "구자욱"
+    },
+    {
+      "team": "SSG",
+      "name": "에레디아"
+    },
+    {
+      "team": "NC",
+      "name": "박건우"
+    },
+    {
+      "team": "한화",
+      "name": "김태연"
+    },
+    {
+      "team": "LG",
+      "name": "홍창기"
+    },
+    {
+      "team": "두산",
+      "name": "양의지"
+    },
+    {
+      "team": "KIA",
+      "name": "김선빈"
+    },
+    {
+      "team": "삼성",
+      "name": "최형우"
+    },
+    {
+      "team": "삼성",
+      "name": "이재현"
+    },
+    {
+      "team": "KT",
+      "name": "안현민"
+    },
+    {
+      "team": "LG",
+      "name": "박동원"
+    },
+    {
+      "team": "삼성",
+      "name": "전병우"
+    },
+    {
+      "team": "KT",
+      "name": "장성우"
+    },
+    {
+      "team": "LG",
+      "name": "문보경"
+    },
+    {
+      "team": "SSG",
+      "name": "최지훈"
+    }
+  ],
+  "conflicts": [],
+  "activeHitterRecords": 74,
+  "activeUniqueHitterCards": 74,
+  "verifiedActiveHitterCards": 74,
+  "playersMasterCount": 74,
+  "catalogRevision": 4
+}

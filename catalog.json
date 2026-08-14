@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
-  "catalogVersion": "catalog-2026.08.13.3",
+  "revision": 4,
+  "catalogVersion": "catalog-2026.08.14.1",
   "activeCardSetId": "2026_V2",
-  "publishedAt": "2026-08-13T16:33:00+09:00",
+  "publishedAt": "2026-08-14T16:46:33+09:00",
   "playersUrl": "https://raw.githubusercontent.com/ckdgy0627-creator/cpv26-v2-db/main/players.json",
-  "playersSha256": "59e1c59caa3620e64066d3350c09e010200661e84526135b8b67bf129427ec42",
+  "playersSha256": "ab373f0d49f3d03bba275627ba3ae7a46e972a32b6feee7dc1cb6c07d3ec2eb2",
   "liveHitRules": {
     "teamSynergyBonusPercent": 100,
     "teamSynergyVerified": false,
@@ -19,11 +19,20 @@
       "cardSetLabel": "2026 V2",
       "effectiveFrom": "2026-07-21",
       "effectiveTo": null,
-      "dbVersion": "2026.10.2",
+      "dbVersion": "2026.10.3",
       "liveUpdateNo": 10,
       "dataUrl": "https://raw.githubusercontent.com/ckdgy0627-creator/cpv26-v2-db/main/cards/2026_v2.json",
-      "sha256": "21da39920f080adeaa43cba27e6454a5d95d6ba5143229fc15d272dcb7140a06",
+      "sha256": "85a5e975574306ced515941e18f78d4b56c083a89b00f49b92204317748734b8",
       "officialNoticeUrl": "https://cpbv-community.com2us.com/board/3/277364"
     }
-  ]
+  ],
+  "gameCatalogObservation": {
+    "cardSetId": "2026_V2",
+    "observedAt": "2026-08-14T14:34:00+09:00",
+    "filter": "선수 도감 > 라이브V2 > 2026 > 전체",
+    "ownedOrRegisteredCount": 178,
+    "totalCardCount": 427,
+    "sourceType": "IN_GAME_SCREENSHOT",
+    "note": "427은 투수 포함 전체 2026 V2 카드 수. CPV26 Helper 카드 DB는 현재 라이브 히트용 타자 포지션부터 검증 확장 중."
+  }
 }
