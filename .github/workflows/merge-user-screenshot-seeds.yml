@@ -1,0 +1,238 @@
+name: Merge verified 2026 V2 in-game screenshot hitters
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/merge-user-screenshot-seeds.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Merge verified hitter cards safely
+        run: |
+          python - <<'PY'
+          import json, hashlib, pathlib
+          from datetime import datetime, timezone, timedelta
+
+          ROOT = pathlib.Path('.')
+          players_path = ROOT / 'players.json'
+          cards_path = ROOT / 'cards/2026_v2.json'
+          catalog_path = ROOT / 'catalog.json'
+          report_path = ROOT / 'research/merge_report_20260814.json'
+          source_url = 'https://github.com/ckdgy0627-creator/cpv26-v2-db/blob/main/research/user_in_game_screenshots_20260814.md'
+
+          seeds = [
+            {'team':'SSG','name':'박성한','position':'SS','aliases':[]},
+            {'team':'KT','name':'힐리어드','position':'LF','aliases':[]},
+            {'team':'KIA','name':'김도영','position':'3B','aliases':[]},
+            {'team':'LG','name':'오스틴','position':'1B','aliases':[]},
+            {'team':'KT','name':'최원준B','position':'RF','aliases':['최원준']},
+            {'team':'NC','name':'박민우','position':'2B','aliases':[]},
+            {'team':'NC','name':'김주원','position':'SS','aliases':[]},
+            {'team':'한화','name':'페라자','position':'RF','aliases':[]},
+            {'team':'두산','name':'박찬호S','position':'SS','aliases':['박찬호']},
+            {'team':'한화','name':'문현빈','position':'LF','aliases':[]},
+            {'team':'삼성','name':'류지혁','position':'2B','aliases':[]},
+            {'team':'롯데','name':'레이예스S','position':'LF','aliases':['레이예스']},
+            {'team':'두산','name':'정수빈','position':'CF','aliases':[]},
+            {'team':'KIA','name':'김호령','position':'CF','aliases':[]},
+            {'team':'한화','name':'허인서','position':'C','aliases':[]},
+            {'team':'KIA','name':'한준수','position':'C','aliases':[]},
+            {'team':'SSG','name':'최정','position':'3B','aliases':[]},
+            {'team':'LG','name':'전민재','position':'SS','aliases':[]},
+            {'team':'KIA','name':'나성범','position':'RF','aliases':[]},
+            {'team':'한화','name':'강백호','position':'DH','aliases':[]},
+            {'team':'LG','name':'송찬의','position':'LF','aliases':[]},
+            {'team':'삼성','name':'김지찬','position':'CF','aliases':[]},
+            {'team':'삼성','name':'디아즈','position':'1B','aliases':[]},
+            {'team':'한화','name':'심우준','position':'SS','aliases':[]},
+            {'team':'삼성','name':'박승규','position':'RF','aliases':[]},
+            {'team':'키움','name':'서건창','position':'2B','aliases':[]},
+            {'team':'두산','name':'박준순','position':'2B','aliases':[]},
+            {'team':'한화','name':'노시환','position':'3B','aliases':[]},
+            {'team':'KT','name':'김상수S','position':'2B','aliases':['김상수']},
+            {'team':'두산','name':'이유찬','position':'LF','aliases':[]},
+            {'team':'LG','name':'오지환','position':'SS','aliases':[]},
+            {'team':'LG','name':'박해민','position':'CF','aliases':[]},
+            {'team':'삼성','name':'구자욱','position':'LF','aliases':[]},
+            {'team':'SSG','name':'에레디아','position':'LF','aliases':[]},
+            {'team':'NC','name':'박건우B','position':'RF','aliases':['박건우']},
+            {'team':'한화','name':'김태연','position':'1B','aliases':[]},
+            {'team':'LG','name':'홍창기','position':'RF','aliases':[]},
+            {'team':'두산','name':'양의지','position':'C','aliases':[]},
+            {'team':'KIA','name':'김선빈','position':'2B','aliases':[]},
+            {'team':'삼성','name':'최형우','position':'DH','aliases':[]},
+            {'team':'삼성','name':'이재현','position':'SS','aliases':[]},
+            {'team':'KT','name':'안현민','position':'RF','aliases':[]},
+            {'team':'LG','name':'박동원','position':'3B','aliases':[]},
+            {'team':'삼성','name':'전병우','position':'3B','aliases':[]},
+            {'team':'KT','name':'장성우','position':'C','aliases':[]},
+            {'team':'LG','name':'문보경','position':'DH','aliases':[]},
+            {'team':'SSG','name':'최지훈','position':'CF','aliases':[]},
+          ]
+
+          team_alias = {
+            'kia':'kia','기아':'kia','kia타이거즈':'kia','기아타이거즈':'kia',
+            'kt':'kt','ktwiz':'kt','kt위즈':'kt',
+            'lg':'lg','lg트윈스':'lg',
+            'nc':'nc','nc다이노스':'nc',
+            'ssg':'ssg','ssg랜더스':'ssg',
+            '두산':'두산','두산베어스':'두산',
+            '롯데':'롯데','롯데자이언츠':'롯데',
+            '삼성':'삼성','삼성라이온즈':'삼성',
+            '키움':'키움','키움히어로즈':'키움',
+            '한화':'한화','한화이글스':'한화',
+          }
+          def nt(s):
+            k = str(s or '').strip().lower().replace(' ','')
+            return team_alias.get(k,k)
+          def nn(s):
+            return str(s or '').strip().lower().replace(' ','').replace("'26",'')
+          def names(rec):
+            return {nn(rec.get('playerName') or rec.get('koreanName'))} | {nn(x) for x in rec.get('aliases',[]) if x}
+          def dump_bytes(obj):
+            return (json.dumps(obj, ensure_ascii=False, indent=2) + '\n').encode('utf-8')
+          def write_json(path,obj):
+            path.write_bytes(dump_bytes(obj))
+          def sha256(path):
+            return hashlib.sha256(path.read_bytes()).hexdigest()
+
+          players = json.loads(players_path.read_text(encoding='utf-8'))
+          cards = json.loads(cards_path.read_text(encoding='utf-8'))
+          catalog = json.loads(catalog_path.read_text(encoding='utf-8'))
+
+          added_cards=[]; existing_cards=[]; conflicts=[]; added_players=[]
+          today='2026-08-14'
+
+          for s in seeds:
+            target_names={nn(s['name'])}|{nn(a) for a in s['aliases']}
+            active=[]
+            for r in cards.get('records',[]):
+              if nt(r.get('team')) != nt(s['team']):
+                continue
+              if not (names(r) & target_names):
+                continue
+              ef=r.get('effectiveFrom','0000-00-00'); et=r.get('effectiveTo')
+              if ef <= today and (not et or today <= et):
+                active.append(r)
+            if active:
+              same=[r for r in active if r.get('position')==s['position']]
+              if same:
+                existing_cards.append({'team':s['team'],'name':s['name'],'position':s['position']})
+                for r in same:
+                  r.setdefault('verification','OFFICIAL' if r.get('sourceUrl','').startswith('https://cpbv-community.com2us.com/') else 'VERIFIED')
+              else:
+                conflicts.append({'seed':s,'active':active})
+              continue
+
+            cards.setdefault('records',[]).append({
+              'playerName':s['name'],
+              'aliases':s['aliases'],
+              'team':s['team'],
+              'position':s['position'],
+              'effectiveFrom':'2026-07-21',
+              'effectiveTo':None,
+              'liveUpdateNo':9,
+              'sourceUrl':source_url,
+              'verified':True,
+              'verification':'IN_GAME_SCREENSHOT'
+            })
+            added_cards.append({'team':s['team'],'name':s['name'],'position':s['position']})
+
+            # Player master: prefer unsuffixed alias as Korean display name when available.
+            canonical=s['aliases'][0] if s['aliases'] else s['name']
+            match=None
+            for p in players.get('records',[]):
+              if nt(p.get('team'))==nt(s['team']) and (names(p) & target_names):
+                match=p; break
+            if match is None:
+              players.setdefault('records',[]).append({
+                'koreanName':canonical,
+                'aliases':sorted(set(([s['name']] if canonical!=s['name'] else []) + s['aliases'])),
+                'team':s['team']
+              })
+              added_players.append({'team':s['team'],'name':canonical})
+            else:
+              aliases=set(match.get('aliases',[]))
+              if s['name'] != match.get('koreanName'): aliases.add(s['name'])
+              for a in s['aliases']:
+                if a != match.get('koreanName'): aliases.add(a)
+              match['aliases']=sorted(aliases)
+
+          report={
+            'seedCount':len(seeds),
+            'addedCards':added_cards,
+            'alreadyPresentSamePosition':existing_cards,
+            'addedPlayers':added_players,
+            'conflicts':conflicts,
+          }
+          report_path.parent.mkdir(exist_ok=True)
+          write_json(report_path,report)
+
+          if conflicts:
+            print(json.dumps(report,ensure_ascii=False,indent=2))
+            raise SystemExit('CONFLICT: existing active DB position differs from in-game screenshot seed; refusing to publish')
+
+          kst=timezone(timedelta(hours=9))
+          now=datetime.now(kst).replace(microsecond=0).isoformat()
+          players['dbVersion']='players-2026.08.14.1'
+          players['publishedAt']=now
+          cards['dbVersion']='2026.10.3'
+          cards['publishedAt']=now
+          cards['sourceLabel']='CPV26 Helper 2026 V2 카드 DB · 10차 Live + 인게임 도감 교차검증'
+
+          # Stable sort: team then name then effectiveFrom.
+          cards['records'].sort(key=lambda r:(nt(r.get('team')),nn(r.get('playerName')),r.get('effectiveFrom','')))
+          players['records'].sort(key=lambda p:(nt(p.get('team')),nn(p.get('koreanName'))))
+
+          write_json(players_path,players)
+          write_json(cards_path,cards)
+
+          catalog['revision']=int(catalog.get('revision',0))+1
+          catalog['catalogVersion']='catalog-2026.08.14.1'
+          catalog['publishedAt']=now
+          catalog['playersSha256']=sha256(players_path)
+          catalog['gameCatalogObservation']={
+            'cardSetId':'2026_V2',
+            'observedAt':'2026-08-14T14:34:00+09:00',
+            'filter':'선수 도감 > 라이브V2 > 2026 > 전체',
+            'ownedOrRegisteredCount':178,
+            'totalCardCount':427,
+            'sourceType':'IN_GAME_SCREENSHOT',
+            'note':'427은 투수 포함 전체 2026 V2 카드 수. CPV26 Helper 카드 DB는 현재 라이브 히트용 타자 포지션부터 검증 확장 중.'
+          }
+          for entry in catalog.get('cardSets',[]):
+            if entry.get('cardSetId')=='2026_V2':
+              entry['dbVersion']='2026.10.3'
+              entry['sha256']=sha256(cards_path)
+          write_json(catalog_path,catalog)
+
+          # Append coverage to report after successful publish preparation.
+          active=[r for r in cards['records'] if r.get('effectiveFrom','')<=today and (not r.get('effectiveTo') or today<=r['effectiveTo'])]
+          uniq={(nt(r.get('team')),nn(r.get('playerName'))) for r in active}
+          report['activeHitterRecords']=len(active)
+          report['activeUniqueHitterCards']=len(uniq)
+          report['verifiedActiveHitterCards']=len({(nt(r.get('team')),nn(r.get('playerName'))) for r in active if r.get('verified')})
+          report['playersMasterCount']=len(players['records'])
+          report['catalogRevision']=catalog['revision']
+          write_json(report_path,report)
+          print(json.dumps(report,ensure_ascii=False,indent=2))
+          PY
+
+      - name: Commit database update
+        run: |
+          git config user.name 'cpv26-db-bot'
+          git config user.email 'cpv26-db-bot@users.noreply.github.com'
+          git add players.json cards/2026_v2.json catalog.json research/merge_report_20260814.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: add 47 in-game verified 2026 V2 hitters'
+            git push
+          fi
