@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "catalogVersion": "catalog-2026.08.14.1",
+  "revision": 4,
+  "activeCardSetId": "2026_V2",
+  "playerMasterCount": 74,
+  "observedGameTotalCards": 427,
+  "observedAt": "2026-08-14T14:34:00+09:00",
+  "cardSets": [
+    {
+      "cardSetId": "2026_V2",
+      "recordCount": 93,
+      "currentHitterCardCount": 74,
+      "currentVerifiedCount": 74,
+      "currentOfficialCount": 27,
+      "currentInGameCount": 47,
+      "sha256": "85a5e975574306ced515941e18f78d4b56c083a89b00f49b92204317748734b8"
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}
