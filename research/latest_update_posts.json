@@ -1,4 +1,83 @@
 {
-  "posts": [],
-  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  "posts": [
+    {
+      "idx": "286202",
+      "title": "[업데이트] 14차 Live 업데이트 안내",
+      "regdate": "2026-09-22 18:00",
+      "url": "https://cpbv-community.com2us.com/board/3/286202"
+    },
+    {
+      "idx": "285435",
+      "title": "[업데이트]13차 Live 업데이트 안내 [09/15(화) 18:50 내용추가]",
+      "regdate": "2026-09-15 18:50",
+      "url": "https://cpbv-community.com2us.com/board/3/285435"
+    },
+    {
+      "idx": "280255",
+      "title": "[업데이트] 12차 Live 업데이트 안내",
+      "regdate": "2026-09-01 18:00",
+      "url": "https://cpbv-community.com2us.com/board/3/280255"
+    },
+    {
+      "idx": "278793",
+      "title": "[업데이트] 11차 Live 업데이트 안내",
+      "regdate": "2026-08-18 18:30",
+      "url": "https://cpbv-community.com2us.com/board/3/278793"
+    },
+    {
+      "idx": "277364",
+      "title": "[업데이트] 10차 Live 업데이트 안내",
+      "regdate": "2026-08-04 18:21",
+      "url": "https://cpbv-community.com2us.com/board/3/277364"
+    },
+    {
+      "idx": "275486",
+      "title": "[업데이트] 9차 Live 업데이트 안내",
+      "regdate": "2026-07-20 18:00",
+      "url": "https://cpbv-community.com2us.com/board/3/275486"
+    },
+    {
+      "idx": "266019",
+      "title": "[업데이트] 8차 Live 업데이트 안내",
+      "regdate": "2026-07-07 18:00",
+      "url": "https://cpbv-community.com2us.com/board/3/266019"
+    },
+    {
+      "idx": "259354",
+      "title": "[업데이트] V.5.03.00 &amp; 7차 Live 업데이트 안내",
+      "regdate": "2026-06-23 18:30",
+      "url": "https://cpbv-community.com2us.com/board/3/259354"
+    },
+    {
+      "idx": "251160",
+      "title": "[업데이트] 6차 Live 업데이트 안내",
+      "regdate": "2026-06-09 18:00",
+      "url": "https://cpbv-community.com2us.com/board/3/251160"
+    },
+    {
+      "idx": "248839",
+      "title": "[업데이트] V.5.02.00 &amp; 5차 Live 업데이트 안내",
+      "regdate": "2026-05-26 19:05",
+      "url": "https://cpbv-community.com2us.com/board/3/248839"
+    },
+    {
+      "idx": "242302",
+      "title": "[업데이트] 4차 Live 업데이트 안내",
+      "regdate": "2026-05-12 18:00",
+      "url": "https://cpbv-community.com2us.com/board/3/242302"
+    },
+    {
+      "idx": "236142",
+      "title": "[업데이트] 3차 Live 업데이트 안내",
+      "regdate": "2026-04-28 18:00",
+      "url": "https://cpbv-community.com2us.com/board/3/236142"
+    },
+    {
+      "idx": "215978",
+      "title": "[업데이트] 2차 Live 업데이트 안내",
+      "regdate": "2026-04-14 18:30",
+      "url": "https://cpbv-community.com2us.com/board/3/215978"
+    }
+  ],
+  "error": null
 }
