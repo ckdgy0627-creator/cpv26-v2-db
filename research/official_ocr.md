@@ -1162,6 +1162,384 @@ Cc
 구릉 26
 ```
 
+## 2026_live15_286977
+- source: https://cpbv-community.com2us.com/board/3/286977
+
+업로드 이미지: 19개
+
+### image 2
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173740_image.jpeg
+- file: research/images/2026_live15_286977_02_ea11a5d27f.jpg
+- size: 780x200
+- sha256: ea11a5d27f5657b4110b4104594cd98014a9992b6213d24f2558f3ed86218d82
+```text
+' ~ -…- ^ 프로야구 26,
+' 4? 「 7
+별 . 8 - o
+_ 에에 sa ) _ 1 *
+```
+
+### image 5
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173839_image.png
+- file: research/images/2026_live15_286977_05_edaf25a40b.png
+- size: 533x532
+- sha256: edaf25a40bbfb3afa410f04a929e99f8ddea67ab47a5a4132b6e187a0abc7e97
+```text
+소속팀 선수 이름 포지션
+LG 고우석 RP
+NC 오태양 CF
+NC 이재학 SP
+NC 클레빈저 SP
+SSG 안재연 28
+키움 염승원 28
+한화 정은원 28
+한화 원종혁 RP
+```
+
+### image 6
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173846_image.png
+- file: research/images/2026_live15_286977_06_1dbe775332.png
+- size: 721x587
+- sha256: 1dbe77533261181c1b11ba04f380ae895402762e4a18274eecf23bf420b7e2d3
+```text
+소속팀
+선수 이름
+기존 포지션
+변경 포지션
+KIA
+이호연
+18
+28
+KIA
+카스트로
+나
+18
+장준원
+kt
+out
+3B
+55
+LG
+DH
+3B
+문보경
+LG
+최원영
+CF
+LF
+두산
+오명진
+18
+28
+롯데
+김동혁5
+CF
+RF
+한화
+Tu
+으미
+나
+RF
+한화
+최인호
+RF
+CF
+```
+
+### image 7
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173853_image.png
+- file: research/images/2026_live15_286977_07_dd7e94d794.png
+- size: 722x643
+- sha256: dd7e94d794eb46d6cfc8e72bcfc590f4db7673f9cf6b332f3ff3cc13282e24d4
+```text
+소속팀
+선수 이름
+기존 포지션
+변경 포지션
+KIA
+김태형
+SP
+RP
+kt
+무요익
+vcold
+SP
+RP
+LG
+박시원5
+RP
+SP
+LG
+이정용
+SP
+RP
+NC
+SP
+RP
+원종해
+삼성
+김백산
+SP
+RP
+키움
+김
+ut
+[=]
+ot
+SP
+RP
+한화
+황준서
+RP
+SP
+한화
+이민우
+CP
+RP
+한화
+짐머맨
+SP
+RP
+```
+
+### image 8
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173903_image.png
+- file: research/images/2026_live15_286977_08_d9c78e8cbc.png
+- size: 685x1157
+- sha256: d9c78e8cbcbdc616a9e1f8c6b6acea682b31ccc1f0635375ec0d20c29bb0d6ae
+```text
+[빅게임헌터] 임팩트 신규 리스트 (18명)
+KIA 윤석민5 SP 78
+KIA(oHEH) 한대화 38 76
+kt 황재균 3B 78
+LG 이진영8 RF 78
+LG 봉중근 SP 78
+NC 손아섭 DH 72
+SSG 추신수 RF 79
+SSG 조형우 C 76
+두산 박치국 RP 72
+두산 곽빈 SP 80
+두산 민병헌 RF 75
+롯데 최동원 SP 79
+롯데 윤동희 RF 76
+삼성 최원태 SP 75
+삼성 이승엽 18 79
+키움 강정호 38 79
+한화 박찬호8 SP 79
+한화 정근우 28 77
+```
+
+### image 9
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173908_image.png
+- file: research/images/2026_live15_286977_09_d8c3e4e084.png
+- size: 681x294
+- sha256: d8c3e4e08448e958c1c346f93ce9704582a525b0203487ce0de62c18bb3e6552
+```text
+[여름사나이] 임팩트 신규 리스트 (3명)
+LG 문정빈 18 74
+키움 한현희 RP 73
+```
+
+### image 10
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173916_image.png
+- file: research/images/2026_live15_286977_10_1c3c365f40.png
+- size: 682x234
+- sha256: 1c3c365f403b736573453b579e5e60af33189dc45eafa71f7adfbcc26d403401
+```text
+[가을사나이]
+one
+ㅋㅋ
+신규 리스트 (2명)
+종합 오버롤
+김상수$
+76
+NC
+구창모
+SP
+77
+|
+```
+
+### image 11
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173921_image.png
+- file: research/images/2026_live15_286977_11_acf5aa186a.png
+- size: 682x168
+- sha256: acf5aa186a35fb56cd1dedfdc6056467d6128b61375025f9c03858fac2f82084
+```text
+[얼리스타터]
+OIMHE 시
+ㅋㅋ
+| =
+규 리스트 (1명)
+종합 오버롤 |
+키움
+안치홍
+28
+73
+```
+
+### image 12
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173929_image.png
+- file: research/images/2026_live15_286977_12_6ffa7216d3.png
+- size: 1282x477
+- sha256: 6ffa7216d31fef12254300daa4ac394da0e19bd39305d7d45040540273b61b51
+```text
+스킬 아이콘 및 이름
+“~
+전화 늦
+파워.
+om =
+력치가
+[2/2/3/3/4/4/5/5/6/6] 증가합니다.
+슬로우 스타트 (타자)
+6이닝부터 정확, 선구. 인내 능력치가 추가로
+[1/2/3/4/5/6/8/10/12/14] 증가합니다.
+```
+
+### image 13
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173933_image.png
+- file: research/images/2026_live15_286977_13_acb7069987.png
+- size: 1282x483
+- sha256: acb7069987cc7d2b2215918732f3653e1ae91d3b8e0eb588c421acb67791e682
+```text
+스킬 아이콘 및 이름
+구위, 제구 능력치가
+[2/3/4/5/6/7/8/9/10/11] 증가합니다.
+선발 투수일 때 5이닝부터 변화 능력치가 추가로
+슬로우 스타트 (투수) [5/5/5/5/5/6/7/8/9/10] 증가합니다.
+중계, 마무리 투수일 때 득점권 위기 상황에서
+변화 능력치가 추가로
+[5/5/5/5/5/6/7/8/9/10] 증가합니다.
+```
+
+### image 14
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173941_image.png
+- file: research/images/2026_live15_286977_14_3456182f99.png
+- size: 691x467
+- sha256: 3456182f9976fc04709dd4e682825012e04edc82c4a72e06b4fbe927dc74e739
+```text
+슬로우스타터] 임팩트 신규 리스트 (6명)
+소속팀
+선수 이름
+포지션
+종합 오버롤
+KIA
+전상현
+RP
+71
+NC
+AIS
+LoT
+RP
+72
+SSG
+김민
+RP
+72
+롯데
+정현수
+RP
+70
+삼성
+장찬희
+RP
+71
+한화
+채은성
+18
+72
+```
+
+### image 16
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_173954_image.png
+- file: research/images/2026_live15_286977_16_3ad4f3d021.png
+- size: 804x638
+- sha256: 3ad4f3d02185d39ee55aae2aee48dcc051016d77adf6b2c32203853333b1f268
+```text
+제작 재료
+획득 라커룸 포인트
+슬로우스타터 임팩트 카드 1
+구단 무관 5성 카드 x10
+300 한계 돌파 카드 ×1
+강화 카드
+합계 x1000
+10
+코인
+합계 x200
+훈련 경험치
+합계 x5,000,000
+sys
+wee
+파권 x1000
+포인트 /10,000,000
+```
+
+### image 17
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_174005_image.png
+- file: research/images/2026_live15_286977_17_39250eecf9.png
+- size: 891x1205
+- sha256: 39250eecf9314302b041729de57afa5af4800f90f3c8c08827d33906224b76c9
+```text
+A 7
+콜든글러브 트로피 생산량은 등록된 최소 인원을 기준으로 고정됩니다.
+선수 제거 또는 추가로 인한 변경 사항은 다음 생산 단계부터 반영됩니다.
+등록된 골든글러브 선수가 0명인 경우 진행 중인 탐색이 초기화됩니다.
+ie. Bite wis. ok: oe,
+BD eo en + 아그 OBR SP - 를 gps CP i
+Lor + 별시 더 | 259. Be 내 Si? °° WS
+Oe Ny ~ es ia 도 | | ca Me
+/ och ii \4 | eee! iy ao 16 4 i\
+| eNOS ji Li Pew | te 개] \ x “i
+| . . Ng —— ye Wee Sea | SS. 때 . & "했
+, 2 1 = . 르 주 , ㆍ OSS: \ Oa Od
+: ese) Rate) (beetle | ciel) Bw |)
+골든글러브 골든글러브 골든글러브 골든글러브 골든글러브
+15명 208 253 303 353
+획득 후 개방 획득 후 개방 획득 후 개방 획득 후 개방 획득 후 개방
+골든글러브 등록 명수 골든글러브 트로피 생산량
+```
+
+### image 18
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260929_174013_image.png
+- file: research/images/2026_live15_286977_18_f859ce3080.png
+- size: 919x362
+- sha256: f859ce3080dc0efca80b75122847a37232d1f5922b7850eb03fbdccbe9a87395
+```text
+출석 인원
+기존 보상
+개선 보상
+0
+라이브 스카우트 티켓 ×1
+3~5성 시즌 카드 구
+다선택팩 (1
+노노 1 1
+4
+포인트 x50,000
+포인트 /100,000
+8
+3~5성 시즌 카드 구
+다선택팩 y 4
+노노 1 1
+라이브 스카우트 티켓 x2
+12
+= x100
+= x120
+15
+스타 x50
+스타 x60
+```
+
+### image 19
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
+- file: research/images/2026_live15_286977_19_de4b4525e1.png
+- size: 780x200
+- sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
+```text
+| 컴투
+스프로야구
+구릉 26
+```
+
 ## 2026_live14_286202
 - source: https://cpbv-community.com2us.com/board/3/286202
 
@@ -11726,926 +12104,6 @@ lid
 - file: research/images/2026_live04_242302_40_fe2c1d517f.png
 - size: 780x200
 - sha256: fe2c1d517f2f2e8bc920e110a95ac7dce19f8e5936db531c640d471fad5d910b
-```text
-| 컴투
-스프로야구
-구릉 26
-```
-
-## 2026_live03_236142
-- source: https://cpbv-community.com2us.com/board/3/236142
-
-업로드 이미지: 21개
-
-### image 2
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_181021_260410V26780port24.jpg
-- file: research/images/2026_live03_236142_02_36706aec87.jpg
-- size: 780x200
-- sha256: 36706aec87a81d5c4457b01895cb10023c52471057874169e12829724a38bee6
-```text
-0 ~— EG, S _ 3 38§©53™/:~ >» as ㆍ
-- 4 QQ " 초크 t | ^ .프로야구 26,
-— ~ 주 고도 a ;
-= ' _% 시 4 ㆍ ail
-“LIVE SO
-: 1 — | ; 때 개 ~ ㅣ ㆍ
-se Kemal -
-```
-
-### image 5
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_172855_image.png
-- file: research/images/2026_live03_236142_05_39190f1802.png
-- size: 489x774
-- sha256: 39190f18027d991927330ff4101e1c7a9494ab1b8806c980e3cef6a9be8d7457
-```text
-소속팀 선수 이름 포지션
-16 우강훈 RP
-NC 임지민 RP
-SSG 장지훈5 RP
-두산 손아섭 DH
-두산 윤준호 C
-롯데 박정민 RP
-삼성 장찬희 RP
-키움 김지석5 38
-키움 최재영 55
-키움 정세영 SP
-```
-
-### image 6
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_180627_image.png
-- file: research/images/2026_live03_236142_06_c35796e2a5.png
-- size: 607x218
-- sha256: c35796e2a58c3991a80d27f480424509e68da802be315dce0cb064b91d1bfe96
-```text
-소속팀
-실명
-가명
-포지션
-두산
-벤자민
-벤릭
-SP
-한화
-쿠싱
-쿠건
-CP
-```
-
-### image 7
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173203_image.png
-- file: research/images/2026_live03_236142_07_c438ccae20.png
-- size: 955x2048
-- sha256: c438ccae20cae89bdeadcac8056c23c49d6e7589b1ed3ebde782f8787ab44e5b
-```text
-17:34
-[>
-. +. 2 oo
-ㆍ “
-oa oy
-2/ㅜ7]1---ㅡ
-fe
-a ---…~
-314 eA @
-cl
-aE
-0.
-|
-ae lia lian
-om, =
-개 ㆍ 새 캐티.
-~ 서시 ca
-SO Nee a AAR
-데일리 보너스
-반복과제
-27 29
-리그
-보상
-년
-『
-ae
-tl
-개
-|
-|
-[AE 1
-~10
-~40
-x2
-a
-MASTER 2
-의
-(”
-=
-|
-Zw
-2
-마스터 2
-~10
-~40
-x2
-x2
-/
-이
-2
-me
-MASTER 3
-‘by
-11111
-A
-SS
-마스터 3
-~10
-~40
-x2
-x2
-See ees
-MAJOR 1
-의
-|
-메이저 1
-×2
-×2
-~14
-~50
-소니939라이태사성,
-의
-MAJOR 2
-[
-메이저 2
-×2
-x2
-~14
-~50
-대세태리이니
-ee
-~
-| 0003 |
-| =
-의
-|
-|
-|
-메이저 3
-×2
-×2
-~14
-~50
-```
-
-### image 8
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173209_image.png
-- file: research/images/2026_live03_236142_08_c0b806e923.png
-- size: 955x2048
-- sha256: c0b806e923378e79f14c054649f4bb1c3223454dfcd2ea187bbb166041c8b9fa
-```text
-17:34
-—
-——
-~~
-개 Pee,
-ee:
-68
-* —
-2 |
-= | [ee
-LAI
-ee
-4 72
-ee
-a
-Ja
--……
-i
-i 거에
-SRR 1 =P
-st ae
-~ —
-oe .여 캐트
-~ hee
-반복과제
-리그
-데일리 보너스
-리그
-보상
-lis
-oH
-100
-2 수)
-「
-|
-|
-SA
-———
-Et 1
-x2
-x2
-x2
-x2
-14006
-100
-ALLSTAR
-BASEBALL LEAGUE
-6
-is LA & 때
-ES
-LA
-—
-타 2
-x2
-x2
-x2
-x2
-ALLSTAR
-11300
-100
-ye agrs —
-「
-LSA
-ae
-타 3
-×2
-×2
-×2
-×2
-Ni
-100
-Exp
-CHALLENGER
-d
-WAX 1
-x2
-x2
-x2
-x2
-PON
-ye
-100
-CHALLENGER:
-d
-|
-|
-x2
-x2
-x2
-|
-x2
-MAA 2
-ie)
-100
-CHALLENGER
-d
-HAA 3
-x2
-x2
-x2
-x2
-```
-
-### image 9
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173217_image.png
-- file: research/images/2026_live03_236142_09_0aac6381c6.png
-- size: 955x2048
-- sha256: 0aac6381c6390c4f3ce9b4b3eba796e4fbd3510af313257919c925b509f504bb
-```text
-17:34 S 00)
-’ a an BASS 2 ml = pee 폴 호 .
-0 | = . 가
-매매 1 -, ~ 1 hl
-= 7 ee, : LISP 기 os ~” 저때 때 -구2
-532 게로 우시사 으아 기이 “ 나오 어어 ew 1 이 =x
-데일리 보너스 반복과제 리그 순위
-리그 보상
-^ 서 ca i ae
-Gis |) = |B) AF
-월드 클래스 1 ×2 ×2 ×2 | x? x
-7 ON “0 “ts 3
-- |e / |B AF
-월드 클래스 2 ×2 ×2 ×2 | x2 ae
-수 7 cs ¥
-fs, 2) =| AR AK
-월드 클래스 3 ×2 ×2 x2 x2 x
-\ 1 a ;
-@ Jajs|slale
-》 sss = | 년
-챔피언스 1 ×2 ×2 | x2 | x2 x
-nA > & WY 고 조합
-챔피언스 2 ×2 ×2 ×2 | ×2 ×
-mlals|s ale
-Bae g ~ = ~~ || ㄴ
-챔피언스 3 ×2 ×2 ×2 | x2 x
-```
-
-### image 10
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173115_image.png
-- file: research/images/2026_live03_236142_10_723ae7f286.png
-- size: 588x3646
-- sha256: 723ae7f286ce592d4ebc3a725c5fff6636d569724304e4c853255cba34b29bc3
-```text
-등급 아이템명
-ou
-AEF x1,500
-eZ] 코인 x500
-500 특훈 카드 x1
-다이마1
-5성 시즌 카드 구단선택팩 1
-난선택팩
-5성 타자 포지션 특훈 Je x1
-5성 제작 카드 ×2
-AEF x1,200
-eZ] 코인 x500
-500 특훈 카드 x1
-다이아2
-5성 시즌 카드 구단선택팩 1
-난선택팩
-5성 타자 포지션 특훈 카드 x1
-5성 제작 카드 ×2
-AEF x1,000
-eZ] 코인 x500
-500 특훈 카드 x1
-다이아3
-5성 시즌 카드 구단선택팩 1
-난선택팩
-5성 타자 포지션 특훈 카드 x1
-5성 제작 카드 ×2
-AEF x900
-AWel2| 코인 x400
-250 특훈 7l= x1
-플래티넘1
-시즌 5성 포지션 선택팩 ×1
-ce
-5성 타자 포지션 특훈 카드 x1
-5성 제작 카드 ×2
-스타 x850
-AWel2| 코인 x400
-250 특훈 7l= x1
-플래티넘2
-시즌 5성 포지션 선택팩 ×1
-ce
-5성 타자 포지션 특훈 카드 x1
-5성 제작 카드 ×2
-AEF x800
-at212] 코인 x400
-250 특훈 7l= x1
-플래티넘3
-시즌 5성 포지션 선택팩 1
-ce
-5성 타자 포지션 특훈 카드 x1
-5성 제작 카드 ×2
-AEF x750
-Wel2) 코인 x350
-골드1 100 특훈 7t£ x1
-시즌 5성 포지션 선택팩 1
-ce
-543 제작 EE x2
-AEF x700
-Wel2) 코인 x350
-골드2 100 특훈 7t£ x1
-시즌 5성 포지션 선택팩 1
-ce
-543 제작 EE x2
-AE x600
-Wel2) 코인 x350
-253 100 특훈 7t£ x1
-시즌 5성 포지션 선택팩 1
-ce
-543 제작 EE x2
-```
-
-### image 11
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173135_image.png
-- file: research/images/2026_live03_236142_11_8812ab124c.png
-- size: 1079x2048
-- sha256: 8812ab124ccb25460c84e2a048a0c377dc9761fdb890674795500a9297378d9e
-```text
-18:08 & Ti}
-랭킹 EIT
-Bu 보상
-—
-x
-일일 보상
-시즌 등급
-con
-ㅅ
-L
-순우
-통합 랭킹 보상
-드근
-(= — |
-@A7| 포인트
-보상
-Ni
-+0
-AUS
-| GOLD
-—Sn oe
-1900 ~ 2099
-=
-x 750
-x 350
-x]
-) = ~
-NY
-‘wa + Ciireay
-+i00
-| 6000
-1700 ~1899
-S| ie
-ac
-x 700
-x 350
-x1
-——
-lI
-/ ~ 후
-2
-+100
-그게
-때 | 0
-1550 ~ 1699
-=acC
-—
-ll
-x 600
-x 350
-x1
-Y
->—— 4
-TL 10
-(aw
-lan
-[ SILVER |
-)
-SUZ
-1400 ~ 1549
-실버|
-x 550
-x 300
-x1
-SS,
-mam Cites 10
-)
-[ SILVER |
-U)
-1300 ~ 1399
-실버||
-x 500
-x 300
-x1
-ey 4
-Tr ee)
-)
-[ SILVER |
-<< eS
-1200 ~ 1299
-실버|||
-× 450
-x 300
-x1
-```
-
-### image 12
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173140_image.png
-- file: research/images/2026_live03_236142_12_98ebb6e78b.png
-- size: 1080x2048
-- sha256: 98ebb6e78bcd76410e60a67d6999ade737ffdbee6c203ebc26dcec75ac4d4508
-```text
-18:07 & EH)
-랭킹 EIT
-일일 보상
-AO
-통합 랭킹 보상
-시즌 등급
-노턴
-두근
-oe
-MH7| 포인트
-보상
-0 |
-¥
-7s
-%
-DIAMOND)
-4000 ~ 9999
-oto
-x 1,500
-x 500
-x1
-0 |
-et PS
-onsen 12
-DIAMOND
-=| i=
-3400 ~ 3999
-다이아|
-x 1,200
-x 500
-x1
-cy
-MS
-‘we * mines \ 7)
-DIAMOND
-|| Pa
-3000 ~ 3399
-%
-다이아|||
-x 1,000
-x 500
-x1
-(Wo
-250
-Y=
-ore)
-[PLATINUM |
-2600 ~ 2999
-SUA
-Schell
-x 900
-x 400
-x1
-250
-y
->—— 4
-ram Coane 1 7)
-[PLATINUM |
-~ 08 |.
-2350 ~ 2599
-플래티넘||
-×850
-× 400
-×1
-250
-EXP
-주
-rr)
-—
-(PLATINUM)
-— an _—
-2100 ~ 2349
-x 800
-x 400
-x1
-플래티넘|||
-```
-
-### image 13
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173259_image.png
-- file: research/images/2026_live03_236142_13_6b30faa854.png
-- size: 589x1264
-- sha256: 6b30faa8545921b5fad58483c6cdb7f5874624c0b2e127b575563942e5c4fea9
-```text
-등급 아이템명
-atel2l 코인 x50
-임팩트 등급 보호권 x1
-다이아 |
-100 특훈 카드 %4
-5성+5 강화 카드 ×1
-atel2l 코인 x50
-강화 크리티컬 고급 뱃지 x1
-플래티넘 |
-100 특훈 카드 ×2
-5성+3 강화 카드 ×1
-atel2l 코인 x50
-골드 1 강화 성공 고급 뱃지 x1
-100 특훈 카드 ×2
-atelA2l 코인 x30
-실버 1 강화 복구 고급 뱃지 x1
-100 특훈 카드 ×1
-스타 x500
-브론즈 1 4He2] A] 코인 x30
-100 특훈 카드 x1
-```
-
-### image 14
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173338_image.png
-- file: research/images/2026_live03_236142_14_14e52d8558.png
-- size: 1440x1987
-- sha256: 14e52d855813211b6825f8f4227c0280790f5e7c5f6cab8870e5f5839fda97d9
-```text
-실시간 매치
-랭킹 보상
-등급 보상
-순위 보상
-직접 플레이
-seu 랭킹 보상
-=—1
-oS E&I
-랭킹 스코어
-보상
-¥ >
-개
-44
-| SILVER |
-~ 08 |.
-실버|
-ss
-애자 el
-~
-개 © Marcy
-44
-| SILVER
-a Se
-실버|||
-oo 지호
-Po am,
-100
-y
-ㅠㅠ
-개 © Marry
-제
-44
-| BRONZE
-SUZ
-브로즈|
-Le ===
-에 제 지호
-주
-W PY — perm
-HERI? «Marcy
-44
-| BRONZE
-Si | 1
-브로즈||
-a
-x 30
-```
-
-### image 15
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173345_image.png
-- file: research/images/2026_live03_236142_15_f8ed68fbdc.png
-- size: 1440x1962
-- sha256: f8ed68fbdc6acaecdc65df8b84041987fc8ef1eb1cd18602377f6c607512eadf
-```text
-실시간 매지
-랭킹 보상
-등급 보상
-순위 보상
-지저 =
-oe 22
-레이
-연승 미션
-Su 랭킹 보상
-두구
-i — |
-랭킹 스코어
-보상
-100
-EXP
-0) ~” LOS
-니케 + 다
-(me
-| GOLD
-1800 ~ 1899
-Ss
-SUZ
-at
-x 50
-x]
-x2
-—
-지카 비견
-| goLp | 》
-SWZ
-1700 ~ 1799
-at 2
-—
-lI
-x 350
-x 40
-KAKK
-0) ~ 」 ®
-개 티다
-| 5마| 》
-1600 ~1699
-잭 |
-Fill
-x 400
-x 60
-x]
-100
-VC 그
-개다 태사
-£4
-「 기
-| SILVER | 》
-eS
-“S =
-1500 ~ 1599
-실버|
-x 30
-x]
-x |
-```
-
-### image 16
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173351_image.png
-- file: research/images/2026_live03_236142_16_c32eed29d7.png
-- size: 1440x1955
-- sha256: c32eed29d71455e3c09d02509a4dc64a1923a4fc72bbcecd1c74aad0f1083d73
-```text
-실시간 매지
-랭킹 보상
-등급 보상
-순위 보상
-직접 플레이
-연승 미션
-Su 랭킹 보상
-두구
-i — |
-랭킹 스코어
-보상
-100
-pees
-레바
-ow)
-%
-고
-DIAMONG| >
-2400 ~ 9999
-—| 7 |=
-다이아!
-x 50
-x]
-x4
-aN
-기타 태자
-we)
-%,
-[DIAMONg| >
-— =
-2300 ~ 2399
-x 350
-x 90
-x]
-다이아||
-en
-4
-[Listens]
-4
-SS)
-DIAMOND] >
-SUA
-2200 ~ 2299
-다이아|||
-×400
-x 80
-x]
-i ㅣ
-@ WEP? ty
-4g
-+100
-[PLATINUM] >
-2100 ~ 2199
-eS
-~~! F |
-x 50
-x]
-x2
-플래티넘|
-```
-
-### image 17
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173359_image.png
-- file: research/images/2026_live03_236142_17_ce4105613a.png
-- size: 1054x150
-- sha256: ce4105613a58365ca70e8f38e85d1b2a81f23cc8dd8021a856f8ab7209db1774
-```text
-| 아이템명 | 필요 홈런 코인 | 구매 가능 횟수 | 판매 기간 |
-좌타 해결사 임팩트 구단선택팩 x1 6,000 Ala 당 13] ~ 06/27(£) 23:59 까지
-```
-
-### image 18
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173407_image.png
-- file: research/images/2026_live03_236142_18_4c636db7e5.png
-- size: 878x2048
-- sha256: 4c636db7e5d2f7467ecf0d1e57a51bbfeff120906aea4960e54d49a67fadf917
-```text
-10:28 ~)
-스타디움 샵
-@ =
-0+
-주천
-패키지
-아이템
-재화
-코테즈
-LL. Lo
-홈런 코인
-|-고= 고
-0/1
-계정 고바 세안 0/1
-le uu 세안
-8 uN 제한 0/1
-COSY ream 56607
-~~ ^ 지
-~ 처
-“%
-MPAL
-MPAS:
-MPART:
-SELECT PACK”
-SELECT PACK
-SELECT PACK
-56일성음
-좌타 해결사 임팩트
-구단선택팩
-대표 타자 임팩트 선택팩
-홈런타자 임팩트 선택팩
-@ 6,000
-€ 10,000
-© 2,000
-월간 구매 제한 0/1
-월간 구매 제한 0/1
-ee ut 제한 0/2
-~ 촌저
-CHANGE
-\
-Aa oe
-\
-YW)
-MPACT
-~
-ANDOM PACK
-^
-쓰시
-ui
-홈런타자 임팩트 랜덤팩
-시그니처 영입 계약서
-ce OO
-흐려 선자
-재분배권
-© 1,000
-© 2,000
-aaa
-ol
-월간 구매 제한 0/5
-주간 구매 제한 0/1
-= KAW
-9001 CHANGE
-OVR
-ALL
-_——
-홈런 레이스 최고 점수
-ag
-2,000 000% SA =
-At
-구매 가능
-TAR
-|
-111
-:
-라이브 올스타 영입 조커
-카드
-스킬변경권
-~=a~
-```
-
-### image 19
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173436_image.png
-- file: research/images/2026_live03_236142_19_e96c7e6d7a.png
-- size: 700x310
-- sha256: e96c7e6d7a4d8ab55bb3212ab88a08fec531e6008b7370f6e004bca4e99dd6f5
-```text
-Mian)
-12.
-He
-%
-|
-미탈
-(63 sans
-id
-.
-A
-미벤트
-스카무
-{내
-ie
-ㆍ파이어블러 임팩트 구단 Sete
-시그니쳐 선택팩 획득
-LEGT PAC
-[에]
-ee
-ee
-```
-
-### image 20
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260428_173450_image.png
-- file: research/images/2026_live03_236142_20_d7b6e2c850.png
-- size: 512x512
-- sha256: d7b6e2c85056a6e16d3cf200698c2e63dd03babda0e9a499545c5e7a131b97e5
-```text
-* % wy *
-a 4 YO x
-* / \\\ *|
-머른01탈'
-- …
-=f
-```
-
-### image 21
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
-- file: research/images/2026_live03_236142_21_de4b4525e1.png
-- size: 780x200
-- sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
 ```text
 | 컴투
 스프로야구
