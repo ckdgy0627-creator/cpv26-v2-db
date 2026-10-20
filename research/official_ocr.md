@@ -3,7 +3,7 @@
 자동 수집 결과입니다. OCR은 후보 추출용이며, DB 확정은 공식 원문/인게임 카드와 교차 검증한 값만 사용합니다.
 검증 실패/애매한 OCR 값은 cards DB에 자동 반영하지 않습니다.
 
-- 자동 발견 관련 게시글: 14개
+- 자동 발견 관련 게시글: 15개
 - discovery error: 없음
 
 ## 2026_live09
@@ -1154,6 +1154,1630 @@ Cc
 ### image 28
 - url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
 - file: research/images/2026_live10_28_de4b4525e1.png
+- size: 780x200
+- sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
+```text
+| 컴투
+스프로야구
+구릉 26
+```
+
+## 2026_live17_297427
+- source: https://cpbv-community.com2us.com/board/3/297427
+
+업로드 이미지: 53개
+
+### image 2
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_173237_780x2000803.jpg
+- file: research/images/2026_live17_297427_02_812d5390f3.jpg
+- size: 780x200
+- sha256: 812d5390f3127b94c12567002e394826c6602f18afbb4ec8532dc54da258677a
+```text
+( Ww
+컴투스
+————— UPDATE ——————.a 25수 ¥
+업데미르 호
+: an _ 3
+4 ~
+ee
+```
+
+### image 5
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172318_image.png
+- file: research/images/2026_live17_297427_05_33678705a1.png
+- size: 557x470
+- sha256: 33678705a1839d2f060fc61469aa5a2b03ed89b98273b4b83c4d0f5f5ee730f8
+```text
+소속팀 선수 이름 포지션
+NC 최요한 RP
+NC 하준영 RP
+SSG 김정민5 RF
+롯데 김한결 RP
+롯데 이영재 RP
+롯데 이준서 RP
+롯데 김태균 RP
+```
+
+### image 6
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172324_image.png
+- file: research/images/2026_live17_297427_06_35b42b0c70.png
+- size: 722x289
+- sha256: 35b42b0c70b8e9ac8d5fbd7168a4aaa154f70ccfe776615c0d3275dd796d408c
+```text
+소속팀
+선수 이름
+기존 포지션
+변경 포지션
+KIA
+RP
+SP
+김태형(
+LG
+최
+원영
+나
+CF
+LG
+이재원
+나
+RF
+SSG
+안재연
+28
+55
+```
+
+### image 7
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_182602_image.png
+- file: research/images/2026_live17_297427_07_ce5ad24b78.png
+- size: 717x1846
+- sha256: ce5ad24b78b56e54f534f22ea6861eaa30ac2a0675ba2bba20200c2904e95fdb
+```text
+[2026 TOP3]
+OINHE 시
+ㅋㅋ
+uu
+at 타자 리스트 (303)
+선수 이름
+종합 오버롤
+KIA
+김도영
+78
+KIA
+나성범
+RF
+70
+KIA
+카스트로
+나
+71
+kt
+힐리어드
+나
+75
+kt
+RF
+76
+최원준
+kt
+안현민
+RF
+73
+LG
+오스틴
+1B
+77
+LG
+송찬의
+나
+71
+LG
+문정빈
+cou
+1B
+70
+NC
+김주원
+55
+73
+NC
+박민우
+28
+76
+NC
+박건우8
+RF
+71
+SSG
+박성한
+55
+76
+SSG
+정준재
+28
+75
+SSG
+3B
+68
+최정
+두산
+바즈스
+1
+28
+73
+두산
+김민석
+나
+73
+두산
+양의지
+C
+72
+롯데
+레이예스5
+나
+73
+롯데
+한동희
+3B
+69
+xn
+롯데
+고승
+민
+28
+73
+삼성
+구자욱
+나
+76
+삼성
+최형우
+DH
+66
+삼성
+디아즈
+1B
+74
+2B
+74
+키움
+서건창
+키움
+데이비슨8
+1B
+69
+키움
+김건희
+C
+67
+한화
+강백호
+DH
+68
+한화
+허인서
+C
+70
+한화
+노시환
+3B
+70
+```
+
+### image 8
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_183035_image.png
+- file: research/images/2026_live17_297427_08_5bd2b82328.png
+- size: 729x1843
+- sha256: 5bd2b82328495302f2ef0afd1e2e6eb6a84318302d94c1875344b7f4c38e9a39
+```text
+[2026 TOP3]
+인팽트 시
+ㅋㅋ
+u
+규 투수 리스트 (303)
+종합 오버롤
+KIA
+올러
+78
+KIA
+네일
+SP
+75
+KIA
+곽도규
+RP
+71
+kt
+고영표
+SP
+76
+kt
+박영현
+CP
+74
+소형준
+kt
++ow
+SP
+76
+LG
+Ven
+RP
+74
+an i
+LG
+임찬규
+SP
+75
+LG
+소즈여
+ㄴㄴ =
+CP
+73
+NC
+라일리
+SP
+77
+NC
+구창모
+SP
+74
+NC
+AIS
+LoT
+RP
+72
+SSG
+아빌라
+SP
+77
+SSG
+tou
+ZW SI
+CP
+72
+SSG
+김민준
+SP
+75
+두산
+곽빈
+SP
+78
+SP
+75
+두산
+최민석
+두산
+김택연
+RP
+74
+롯데
+김진욱
+SP
+76
+롯데
+로드리게스
+SP
+76
+롯데
+이이무라
+CP
+74
+삼성
+페덱
+SP
+77
+삼성
+후라도
+SP
+75
+삼성
+김재윤
+CP
+73
+키움
+안우진
+SP
+77
+키움
+알칸타라
+SP
+76
+CP
+74
+키움
+유토
+한화
+류현진
+SP
+76
+한화
+왕엔청
+SP
+75
+한화
+화이트
+SP
+75
+```
+
+### image 9
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172405_image.png
+- file: research/images/2026_live17_297427_09_b669ff4604.png
+- size: 1238x470
+- sha256: b669ff4604debe5f5845c001a31dbe6f02ab0677c77619e0fa22ede4408360f2
+```text
+스킬 아이콘 및 이름 스킬 설명
+파워, 선구 능력치가
+[3/4/5/6/7/8/9/10/11/12] 증가합니다.
+좌투수를 상대할 때 상대 투수의
+우타해결사 변화, 구위, 제구 능력치가 추가로
+[1/1/2/2/3/4/5/6/7/8] 감소합니다.
+우타석에 서있을 때 정확, 선구 능력치가 추가로
+[3/4/5/6/7/8/10/12/14/16] 증가합니다.
+```
+
+### image 10
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172430_image.png
+- file: research/images/2026_live17_297427_10_643a2bcf7d.png
+- size: 722x1848
+- sha256: 643a2bcf7d7dac33e688272e844df13267574484ac5fe0b7d7c719a81956619e
+```text
+우타 거포] 임팩트 신규 타자 리스트 (30명)
+KIA 김도영 38 75
+KIA 김상현5 38 69
+1^&(해태) 김성한8 1B 73
+kt 박병호 18 67
+kt 안현민 RF 75
+kt 마르테 38 71
+LG 오스틴 18 75
+LG 김동수 C 69
+LG 박동원 C 70
+NC 데이비슨8 18 72
+NC 양의지 C 71
+NC 알테어 CF 70
+SSG (SK) 최정 38 72
+556(510) 로맥 18 73
+556(510) 박경완 C 71
+두산 김동주8 3B 74
+두산 양의지 C 73
+두산(08) 김상호8 RF 68
+롯데 이대호 38 73
+롯데 강민호 C 70
+롯데 마해영 1B 73
+삼성 마해영 DH 67
+삼성 나바로 28 74
+삼성 러프 18 72
+키움 유한준 RF 72
+키움 박병호 18 75
+키움(현대) 박경완 C 71
+한화 송지만 RF 73
+한화 노시환 38 71
+한화(빙그레) 장종훈 55 74
+```
+
+### image 11
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172449_image.png
+- file: research/images/2026_live17_297427_11_8ccf62296c.png
+- size: 1139x427
+- sha256: 8ccf62296c66793262596807a5a8830c5b07c126192625021a244f259e30f5d9
+```text
+아이템명
+필요 조커 코인
+구매 가능 횟수
+판매 기간
+2026 TOP3 임팩트 카드 선택팩 ×1
+22,000
+계정 당 13]
+2026 TOP3 임팩트 카드 구단선택팩 ×1
+5,000
+우타 거포 임팩트 카드 선택팩 ×1
+22,000
+계정 당 13]
+우타 거포 임팩트 카드 구단선택팩 1
+8,000
+우타해결사 확정 고급 스킬변경권 x1
+6,000
+계정 당 1회
+~11/20(금) 23:59 까지
+```
+
+### image 12
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172455_image.png
+- file: research/images/2026_live17_297427_12_f6d9de3f1a.png
+- size: 1239x471
+- sha256: f6d9de3f1a2be2c142c0cb1278b4ee4caa3b9031352ce1b27a50c3373787472a
+```text
+스킬 아이콘 및 이름
+파워, 선구 능력치가
+[1/1/2/2/3/4/6/8/10/12] 증가하며,
+정확 능력치가
+ROA N
+®
+클린업 트리오
+[1/1/2/2/3/3/4/4/5/5] 증가합니다.
+\
+1 ~
+3/4/5번 타순 배치 시 상대 투수의 구속, 변화, 구위 능력
+< OP
+—
+치를
+[1/2/3/4/5/6/7/8/9/10] 감소시킴니다.
+a
+```
+
+### image 13
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172540_image.png
+- file: research/images/2026_live17_297427_13_a170bf0eec.png
+- size: 668x288
+- sha256: a170bf0eec91cc97b74a8f561fe94eeab271eb2c39f6586fa86991ca916c3b45
+```text
+| 7 LY a > “ Bt |
+Zz Pe ey
+> aS ERUN RAC AS
+> BE SE! 레이스,
+```
+
+### image 16
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172556_image.png
+- file: research/images/2026_live17_297427_16_1affa62d88.png
+- size: 606x304
+- sha256: 1affa62d888611ad07671bff68ebc2ae37d7ef9d4e0f347401a7cd5af2b06821
+```text
+결과
+보상
+클럽 홈런 레이스 랜덤 박스 2 x10
+승리
+포인트 /100,000
+클럽 홈런 레이스 랜덤 YA 2x5
+TST
+OAW
+포인트 x50,000
+클럽 홈런 레이스 랜덤 박스 2 x3
+패배
+포인트 /<30,000
+```
+
+### image 17
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172604_image.png
+- file: research/images/2026_live17_297427_17_e1c99d9285.png
+- size: 610x549
+- sha256: e1c99d92852624ea57c92c61f893664815b5a055a1e05eb13c92ca67d7650ed1
+```text
+일일 클럽 내 순위 보상
+= 클러워 클럽 홈런 레이스 랜덤 박스 x10
+Oo
+클럽원 EOE x300,000
+클럽 SH 레이스 랜덤 박스 2 x8
+2 크러으
+2~3등 클럽원 EAE x250,000
+클럽 SH 레이스 랜덤 박스 2 x5
+EOE x200,000
+4~55 클럽원
+클럽 홈런 레이스 랜덤 박스 2 x3
+~1()드 크러우
+6~10등 클럽원 포인트 x150,000
+클럽 홈런 레이스 랜덤 박스 2 x1
+EOE x100,000
+11~155 클럽원
+클럽 홈런 레이스 랜덤 박스 2 x1
+때 드 크러으
+16~22등 클럽원 포인트 x50,000
+```
+
+### image 18
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172612_image.png
+- file: research/images/2026_live17_297427_18_b9d14acb05.png
+- size: 610x1572
+- sha256: b9d14acb058e0900621cbbea6b7d3e7ffe53f8a7592da7d1efe33e1b87daa34c
+```text
+시즌 최종 등급 보상
+1,500 한계 돌파 카드 x1
+다이아 1 클럽 홈런 레이스 랜덤 박스 2 x150
+노미 ㄱ
+포인트 ×5,000,000
+1,500 한계 돌파 카드 x1
+다이아 2 클럽 홈런 레이스 랜덤 박스 2 x120
+포인트 ×5,000,000
+1,500 한계 돌파 카드 x1
+다이아 3 클럽 홈런 레이스 랜덤 박스 2 x100
+노미 ㄱ
+포인트 ×5,000,000
+1,000 한계 돌파 카드 x1
+플래티넘 1 클럽 홈런 레이스 랜덤 박스 2 x90
+포인트 <3,000,000
+1,000 한계 돌파 카드 x1
+플래티넘 2 클럽 홈런 레이스 랜덤 박스 2 x80
+포인트 <3,000,000
+1,000 한계 돌파 카드 x1
+플래티넘 3 클럽 홈런 레이스 랜덤 박스 2 x70
+포인트 <3,000,000
+600 한계 돌파 카드 x1
+골드 1 클럽 홈런 레이스 랜덤 박스 2 x70
+EOIE x2,000,000
+600 한계 돌파 카드 x1
+골드 2 클럽 홈런 레이스 랜덤 박스 2 x60
+EOIE x2,000,000
+600 한계 돌파 카드 x1
+골드 3 클럽 홈런 레이스 랜덤 박스 2 x50
+EOIE x2,000,000
+300 한계 돌파 카드 ×1
+실버 1 클럽 홈런 레이스 랜덤 박스 x50
+포인트 >/1,000,000
+300 한계 돌파 카드 x1
+실버 2 클럽 홈런 레이스 랜덤 박스 x40
+포인트 <1,000,000
+300 한계 돌파 카드 x1
+실버 3 클럽 홈런 레이스 랜덤 YA 2 x30
+EOE x1,000,000
+클럽 홈런 레이스 랜덤 박스 x30
+Herz
+브론즈 포인트 <1,000,000
+브로즈 2 클럽 홈런 레이스 랜덤 박스 2 x30
+a 포인트 <500,000
+브론즈 3 클럽 홈런 레이스 랜덤 박스 2 x30
+포인트 /300,000
+```
+
+### image 19
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172618_image.png
+- file: research/images/2026_live17_297427_19_f4ca0a8337.png
+- size: 610x1468
+- sha256: f4ca0a833787a5024d9635139648f266b9c33803015b17fc652ae27b50880f42
+```text
+보상
+우타 거포 임팩트 카드 구단선택팩 x1
+500 특훈 카드 x4
+위
+클럽 홈런 레이스 랜덤 박스 2 x200
+포인트 ×5,000,000
+우타 거포 임팩트 카드 랜덤팩 x1
+500 특훈 카드 x3
+위
+클럽 홈런 레이
+A 랜덤 박스 2 x180
+노미 ㄱㄱ
+포인트 ×5,000,000
+우타 거포 임팩트 카드 랜덤팩 x1
+위
+500 특훈 7t& x3
+클럽 홈런 레이스 랜덤 박스 2 x150
+포인트 ×5,000,000
+500 특훈 카드 ×2
+4~10위
+클럽 홈런 레이
+A 랜덤 BA 2 x120
+노미 1—
+EOIE x3,000,000
+500 특훈 카드 ×1
+11~20위
+클럽 홈런 레이스 랜덤 박스 2 x120
+포인트 /3,000,000
+500 특훈 카드 ×1
+21~30위
+클럽 홈런 레이
+A 랜덤 박스 2 x100
+노미 ㄱㄱ
+포인트 /3,000,000
+250 특훈 카드 ×1
+31~40위
+클럽 홈런 레이스 랜덤 박스 2 x100
+EOIE x2,000,000
+250 특훈 카드 ×1
+41~50위
+클럽 홈런 레이스 랜덤 박스 x80
+EOIE x2,000,000
+250 SZ 카드 ×1
+51~60위
+클럽 홈런 레이스 랜덤 박스 2 x60
+포인트 >/1,000,000
+클럽 홈런 레이스 랜덤 박스 2 x60
+61~80위
+포인트 >/1,000,000
+클럽 홈런 레이스 랜덤 박스 2 x50
+81~100위
+포인트 >/1,000,000
+클럽 홈런 레이스 랜덤 박스 2 x30
+101~200위
+포인트 ×/500,000
+클럽 홈런 레이스 랜덤 박스 2 x20
+201~300위
+포인트 ×/500,000
+```
+
+### image 21
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172649_image.png
+- file: research/images/2026_live17_297427_21_cf8920bc27.png
+- size: 898x1869
+- sha256: cf8920bc27a6226dd9773fa9f24374f11c84cfc4ef28a39d468ca5dbadf024b1
+```text
+CLUB
+~ LEVEL UP
+|
+보상
+P
+x 200,000
+x 200
+클럽 대전 라인업 강화
+클럽 대전 전용 라인업의 선구 +1, 구
+위 +1
+클럽 공용 라인업의 선구 +2, 구위 +2
+클럽 상점 구매 상품 1개 추가
+클럽 대전 백투백 히터 역할 부여 가능
+```
+
+### image 22
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172651_image.png
+- file: research/images/2026_live17_297427_22_d4ffa19b50.png
+- size: 353x647
+- sha256: d4ffa19b502e2e96e8359bfd06ec0eaee339fc38073bea6e36fd3092f65a15d5
+```text
+대전 현황
+수비 배치
+역할부여
+랭킹
+기록
+Voy wer 역살이 클럽대전에 적용됩니다.
+클럽대전 시작 이후로는 역할을 변경할 수 없습니다.
+2
+GPO
+BACK TO BACK
+BACK TO BACK
+Qa)
+Se)
+unlBY
+OPENER wil OPENER
+< 뒤로가기
+```
+
+### image 23
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172658_image.png
+- file: research/images/2026_live17_297427_23_ece6bb70ca.png
+- size: 354x720
+- sha256: ece6bb70ca93f178f5b8330c3dbceb4b4ce2be31268fd344ec2c3fe85c8cf13f
+```text
+ul —
+플레이 방식 설정
+1 > 6 기
+Mt ^ | ^ 해
+ye | 오오
+af Pa hd
+19 27 \
+/빠른진행^ 백투백 플레이 /
+0400.74 . 시,
+선발 타순 중 1명을 랜덤으로 선택하여 직접 플레이합니다.
+직접 플레이한 타자가 출루에 성공하면 다음 타순의 타자를 이어서
+플레이합니다.
+랜덤픽 타자를 포함하여 최대 3명의 타자까지 연속으로 직접
+플레이할 수 있습니다.
+X 매치 시간 12:00 ~ 23:59
+백투백 플레이
+클럽 라인업이 설정되지 않아 클럽 라인업을 사용할 수 없습니다.
+< 뒤로가기
+```
+
+### image 24
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172712_image.png
+- file: research/images/2026_live17_297427_24_d97f4ee918.png
+- size: 993x2048
+- sha256: d97f4ee918e138f6efc6cc62d0b8fddf1dafc2b5a94c853864115938a38e94ec
+```text
+@ =
+105/105
+Zz 도 A Ad KX Zz LOJA 스로 호
+중계 등판 순서 설정 전략 전술 설정 라인업 슬롯 왁장
+(y 전략 전술 설정
+ㄴㄱ
+라인업 전략 및 교체 전술을 선택하세요.
+라인업 전략
+후보 타자와 중간 계투를 합쳐 12명을 배치해야 합니다.
+후보 타자는 최소 4명, 최대 8명까지 | 배치가 가능합니다.
+소소소소소소… +
+투수 전략 중간계투 (6/6)
+각 역할마다 최소 1명, 최대 4명까지 배치가 가능합니다.
+단, 롱릴리프는 0명도 가능합니다.
+롱릴리프
+|
+쏘 Pye 가 x8 오오오 을 1 이 이
+- + ~ FO
+^% 교체 전술 설정
+교체 전술 (SAD) 718
+: 최대한 길게 투구를 지시합니다.
+교체 전술 (추격조) 718
+ㅎ 최대한 길게 투구를 지시합니다.
+아래로 스크롤하여 더보기
+< 뒤로가기
+```
+
+### image 25
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172716_image.png
+- file: research/images/2026_live17_297427_25_c52f1a6b5c.png
+- size: 1210x176
+- sha256: c52f1a6b5c5b67f7ffdcc1c077d03cb045487be93625fb3b5641f29c41bccee1
+```text
+교체 전술 기존 효과 개선 효과
+승리조 - 분업 승리조 전체에게 지구력 제외한 모든 능력치 +2 승리조 전체에게 지구력 제외한 모든 능력치 +3
+추격조-적극적 | SAR 전체에게 지구력 제외한 모든 능력치 +1 추격조 전체에게 지구력 제외한 모든 능력치 +2
+```
+
+### image 26
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172725_image.png
+- file: research/images/2026_live17_297427_26_014da62269.png
+- size: 989x2048
+- sha256: 014da62269babe25bd4b0047abc92f817cf51572a1f059e09e8551fce653566b
+```text
+감독실 ㅠㅜ @ =
+vy ®) 0+ 솜 0+ @ 105/105 +
+중계 등판 순서 설정 전략 전술 설정 라인업 슬롯 확장
+ㅣ
+| 00000
+A. —_
+QO 전략 전술 설정 리그모드 =
+라인업 전략 및 교체 전술을 선택하세요.
+라인업 전략
+『 . 후보 타자 후보 타자와 중간 ASS 합쳐 12명을 배치해야 합니다. -
+: 후보 타자는 최소 4명, 최대 8명까지 배치가 가능합니다.
+2 00 - 오오오오오요으으 +
+투수 전략 중간계투 (676)
+각 역할마다 최소 1명, 최대 4명까지 배치가 가능합니다.
+단, 롱릴리프는 0명도 가능합니다.
+22822 2£28€88 B&888
+en |
+7) 교체 전술 설정
+교체 전술 (승리조) JOY 분업
+: 승리조 최소 배치 필요 인원 3/3
+: 전력 투구를 지시하여 지구력을 제외한 승리조의 능력치가 3 상승합니다.
+: 추격조 최소 배치 필요 인원 2/2
+: 강한 투구를 지시하여 지구력을 제외한 추격조의 능력치가 2 상승합니다.
+아래로 스크롤하여 더보기
+| 원래대로 | AS
+< 뒤로가기
+```
+
+### image 27
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172736_image.png
+- file: research/images/2026_live17_297427_27_c17ea02732.png
+- size: 988x2048
+- sha256: c17ea02732876aca3abfbce334db04444e4731abcc14462f1fa77915081bf0fc
+```text
+라인업 ㅠ
+장기 보관 선수
+타자 =)
+장기보관선수 0/200 fi
+ㅁㅁㅁ
+장기 보관 선수에 남은 선수가 없습니다.
+W y
+0 장 선택 0 장 선택
+보관 선수 65/200
+So
+TRAAAH EAAKHE RRA AA RAKE AAA IR?
+TOK >) | GIF sp, S67, et 67 et 67 et
+, jC | \ a 1B} | #8 RF | #8 RF || 7 #8 RF
+^ |, || | 4 0, | | 4 0, || | 4 |
+se mg me me |
+202 , 1002 책 000 BS 000 BS 000 BS
+Ola S"21 강백호21 | 구자욱 21-ㅡ| 구자욱'21-ㅡ| AAR '21—
+x KAW? | 8 | WR WWW) | WW 7
+SSN ANS 6 AIS 6 IS 6 a
+0 > OP "2 0 -&
+| \ | _ fy | 으려 Ss
+2022V3 5. 2022 V3 | 20778 2% ㅣ 2021V3 yy | 2021V3 & ;
+박해민22 || SAgroom|| 정은원21 || 정은원21 || 정은원21
+nt Y js es $
+선수 관리 라인업 | = 상점 구단 관리
+```
+
+### image 28
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172739_image.png
+- file: research/images/2026_live17_297427_28_957e8b08b2.png
+- size: 991x2048
+- sha256: 957e8b08b2d9f527de702f8d252693d50954b9ef5dc1412863d8e3827df9482f
+```text
+라인업 ㅠㅜ 2
+장기 보관 선수
+타자 en
+장기 보관선수 50/200 fi
+609 ss sf
+KKK KW | 고) | 8.0.0-6-0- 1 0-4 CCP AC 6; KAW
+TARE" 15 70K 2, OH Cie 0)
+Cap ei Be; LF | Menta 1B | 혹성
+| NN iS | | Ng JA eS | loi — | | sau sume |
+2022V3 % 2021 V3 2022 V3 % | 2021V3 내 들 | 22720)
+| 이정후'22 '이정후'!21 피렐라'22 | 강백호 21 | 구자욱'21-
+(77 620 4... FRIIS WW ^
+i) eh iy) < Th \ = IL) 6^ 2
+| RF || SRF) See: SS| eae ss) 4 CF
+| ; aaa ae 0) | | 00 10 | | Ga : 그 || a c 8” i ：
+22770 2 n 20772 ^ | 20772 ^ | 20277 가게
+| 2D ofl = | od || 기체서'{ㅎ1 | 기체서'1 11 바체미!00
+W 소
+0 장 선택 0 장선택
+보관 선수 35/200
+=o
+WW) | Wk RAK 84-6 6-6-4
+0 소비 26
+ㄴㄴ 0
+년 ㅣ | ee Lg A |
+2022 3% | 2022 v3 INS 2022 V3 500,
+오지환'22 문보경'22 한유섬'22=
+~ 조
+(내 S ' g@ 으으
+선수 관리 라인업 상점 구단 관리
+```
+
+### image 29
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172749_image.png
+- file: research/images/2026_live17_297427_29_19553b6364.png
+- size: 992x2048
+- sha256: 19553b63649f5991bedb1d14def50b05243ec82926b65f2542676af9f6f47ca9
+```text
+조합
+® =
+‘©
+0 +
+0
+조한
+00
+대
+a
+MA 모로
+확률 정보
+00000
+p 조합
+ㅣ -ㅡㅋㅋ
+We WX
+Wx Wx WX
+We
+Wx We
+Wx We We Wk
+p
+Tee
+Ee Hee! ese
+3s
+S RF
+개
+S RF
+y 2B
+» 2B
+y 2B
+we
+2021 V3 eo.
+2021 ¥3 0 a | 202103
+2021V3
+202 1V3
+박건우6' 21
+박건우8'21 별 정은원'21
+정은원 21
+정은원 |
+pe a |
+조한
+를 ar
+ak
+을 ,
+| \
+2:5%
+! 때? 2 0
+장기 보관 선수
+선호 구단 제외
+6920902ㅁ
+Tv7¥
+a > 이
+vv ¥
+a
+Ty Vx Te
+yx WW We
+64 °.
+D} 164 *-
+D1166
+66”
+66”
+SAS || SG. | ~
+~
+박건우6 21
+박건우6 21
+적으 2 1
+적으 2 1
+적으 2 1
+Wek We
+00-0: 024
+Wx Wk eK
+V0 99-074
+Wee
+65
+Gi
+65
+Gj
+65
+Gi
+65
+Gy
+65
+20
+s LF
+s LF
+s LF
+s LF
+s RF
+202 1V3
+2021V3
+2021V3
+2021V3
+2022V3
+전준우 21
+HES 21
+-전준우21
+ono
+EH!
+22
+~ ~
+RAARK
+AS ie’
+AERA
+lh) 그
+6ㅋ Rx Kew 169 ~ = Kew
+ARK KK
+[AAR AK
+일괄 등록 | 조합하기 |
+< 뒤로가기
+```
+
+### image 30
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172752_image.png
+- file: research/images/2026_live17_297427_30_3768aa754c.png
+- size: 807x616
+- sha256: 3768aa754ca3261f34472d9238a43da803b4783e00a8860364c9537ef5200760
+```text
+알림
+1장의 선수를 장기 보관 선수로 등록하시겠습니까?
+(성장
+된 선수
+— WT
+가 포함되어 있습니다.)
+보관 선수 슬롯에서 제외되며, 구단 관리 및 이벤트 제작소
+등에서 재료로 사용 가능합니다.
+장기 보
+과 서스느
+2 2 ee
+재료 카드 알림이 발생하지
+아스
+lo
+니다.
+드 선장
+장기 보관 선수로 등록 시, 모
+. OO
+치가 조기화되며 스킬
+구성도 아마추어 등급으로 변경됩니다.
+다시 보관 선수로 등록하더라도 이전의 성장치와 스킬 구성은
+아스
+복구되지
+Lok
+니다.
+```
+
+### image 31
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172803_image.png
+- file: research/images/2026_live17_297427_31_acc9b633fd.png
+- size: 1138x2048
+- sha256: acc9b633fd38158a74bf4e377d26a41db702b42d9f5e831ae30b1ba230e1546b
+```text
+장기 보관 선수
+타자 ' ce
+장기 보관선수 50/200 fi
+페이 해 지이
+ux x ¥ ) x RW 7 KKK LY 1“ EE 7 “ KAW?
+TURE” HG, 10K A COP GIy Gf =,
+가기 et | SAD 혹성
+en |S ae Sb. Vege
+20223 i < 2013 20272. Y | 202103 Se | 2021 V3 BS |
+1이정후22 |(“ose21 || 피렐라'22 | (Se21 \( 구자욱'21-
+AKAM [AKIO AAI 아이 나스
+Gt Gi | GI eX, GI 60
+Wap 7° RF | ay 2 RF || De SS || Dae: SS | | ABT CF
+20272 ) | | 202103 > | 2027/0 | 20213 | 20270 SS
+| 기 TP dsl 기체서'01 || 기체서'01 1 | Verano!
+W 소
+0 장 선택 0 장 선택
+보관 선수 35/200
+Pens] sas]
+| IRI) | OR EOIN 7
+| a 제 < | TING |
+2270 "Si | 2022V3 5 2022 V3 JAM
+오지환'22 || BHZ'22 || 한유섬'22
+```
+
+### image 32
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172805_image.png
+- file: research/images/2026_live17_297427_32_5460981444.png
+- size: 1125x2048
+- sha256: 54609814449811c599c8c8d09c8fe00c2c9718426574b480a61e44c7c0087a52
+```text
+/ 장기 보관 선수 확장
+22222
+상품 설명
+ㅁㅁㅁ
+상기 보관
+서스 스로
+ㄴㄴ 1 a —
+이 20칸
+1A
+T=
+aH 》
+왁장됩니다.
+계정 구매 제한 0/40
+호
+ul +][4]
+^
+Hae
+장기 보관
+선수 확장권 fy
+) 고
++ + +,
++—-4
++e)
+장기 보관 선수
+확장
+1
+댄 ㅣ 0 200 2 220
+상
+=
+xr
+금액
+pr 900
+IN
+구매
+보유 금액
+pe 0
+구매
+Tope
+SAFES
+사용하지 BE 경우 7S 내 청약 철회가 가능하며 BS
+대리인의 동의
+를 바
+=
+Cc
+지 않은 미성년자의 거래는 취소될
+ㅜ Ae
+A 인슨
+니다.
+. 자세히보기
+```
+
+### image 33
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172821_image.png
+- file: research/images/2026_live17_297427_33_64620bc64a.png
+- size: 559x942
+- sha256: 64620bc64a4e6d49c2385862abe41faf32e63ddb5fb83e018b93899166ea2988
+```text
+신규 훈련 카드
+EXP
+2ITAnAAA
+er a) a) a
+100,000 훈련 카드
+25nnnnn
+EXP
+as a ld) a) ed ld
+200,000 훈련 카드
+EXP
+.onnnnn
+dd) a a a) a!
+300,000 훈련 카드
+EXP.
+j.aeannann
+a
+eye)
+eyeyerers
+500,000 훈련 카드
+EXP
+TA
+「 그 /
+1,000,000 훈련 카드
+```
+
+### image 34
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172825_image.png
+- file: research/images/2026_live17_297427_34_bd2316f7aa.png
+- size: 512x512
+- sha256: bd2316f7aa2a9c5d72b0f5ac9748ed67b1061d1fedc805468e3a183b8a2b1495
+```text
+a eS 허니
+Ag f
+”
+```
+
+### image 35
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172832_image.png
+- file: research/images/2026_live17_297427_35_acbacf08c5.png
+- size: 1082x629
+- sha256: acbacf08c5cb4e64d6e78e76f2b975c2c1c18a00a461e7d7725a8fb84645e485
+```text
+제작 재료 획득 라커룸 포인트
+선호구단 2026 TOP3 임팩트 카드(강화 5레벨, 훈련 13레벨) x1
+선호구단 소속 시그니처 카드(강화 5레벨, 훈련 20레벨) ×1
+선호구단 소속 임팩트 카드(강화 5레벨, 훈련 13레벨) x1
+5성 선수 or 5성 제작 카드 x10
+30
+300 한계 돌파 카드 ×1
+훈련 atte x1000
+코인 합계 700
+포인트 /15,000,000
+```
+
+### image 37
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172850_image.png
+- file: research/images/2026_live17_297427_37_4d2ba49b6b.png
+- size: 834x632
+- sha256: 4d2ba49b6b90725f2a0c2f3b81684545c00060a8542da6681c9fc0a5d59a571b
+```text
+제작 재료 획득 라커룸 포인트
+우타 거포 임팩트 카드 ×1
+단 무관 5성 카드 x10
+300 한계 돌파 카드 ×1
+강화 카드 합계 x1,000
+10
+코인 합계 x200
+훈련 경험치 합계 x5,000,000
+훈련 돌파권 x1,000
+포인트 /10,000,000
+```
+
+### image 39
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172903_image.png
+- file: research/images/2026_live17_297427_39_bd4faf00c8.png
+- size: 834x628
+- sha256: bd4faf00c88f318251ee88774d6a91adc30b239cf3a7ea5f2b03128225152b83
+```text
+제작 재료 획득 라커룸 포인트
+2026 TOP3 임팩트 카드 ×1
+단 무관 5성 카드 x10
+300 한계 돌파 카드 ×1
+강화 카드 합계 x1,000
+10
+코인 합계 x200
+훈련 경험치 합계 x5,000,000
+훈련 돌파권 x1,000
+포인트 /10,000,000
+```
+
+### image 40
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172908_image.png
+- file: research/images/2026_live17_297427_40_a335a2abe4.png
+- size: 989x2048
+- sha256: a335a2abe48de6532af943962238dff5d1826b3db8c623b30ed674f90aa88fe5
+```text
+포지
+AES
+2 =
+Vv
+®
+-
+P
+0 +
+&
+Oo +
+타자
+|
+= 정보
+a
+꼬지션별 능력치
+>
+ats BS
+KW WK
+KAS
+Gy
+때 TRAINING
+66
+4s
+2B
+^
+5
++
+IS
+SEASON
+080
+조성환'08
+Pan
+현재 라인업 스킬 상태
+S06 BAA =
+—
+—.
+\ 3»
+So
+도
+2k
+on
+ASAT
+v 1
+v 1
+보너스 효과 월 1회 무료 재설정 기회 0/1
+라인업 스킬 보기
+@
+Fed
+X0
+1@ Oxi
+oll + 2
+| LV 5 BONUS
+@22
+1@88×2
+| LV 10 Bonus
+당겨치기
+a
+aie
+수 고
+Cee
+LV 15 Bonus
+래덤 능
+oh ©
+4t1+1~3
+재설정
+Kd x2
+LV 20 Bonus
+재설정
+< 뒤로가기
+```
+
+### image 41
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172915_image.png
+- file: research/images/2026_live17_297427_41_0f82484822.png
+- size: 891x1697
+- sha256: 0f82484822b9da0aa1f1833ff67340eef4d556717d263f1c43e63c7979cd3e11
+```text
+타격
+순위
+선수
+OPS
+타율
+ㅠ
+안타
+홈런
+SL ALM 라이온즈
+1.169
+0.417
+93
+16
+최정'26
+2.557
+0.625
+15
+S [ 3B | at 삼성 라이온즈
+ey
+정스비
+Roe
+oT ㄴ
+1.413
+0.500
+12
+“Sy | CF ] Ary 라이온즈
+24 QUEH'22
+oN
+1.272
+0.458
+1
+99/)
+삼성 라이
+오선진'22
+1.160
+0.440
+1
+「
+[ 3B | 삼성 라이온즈
+김성현6'22
+별
+삼성 라이온스
+1.044
+0.385
+10
+김태진'22
+0.982
+0.417
+10
+삼성 라이온스
+박승욱'22
+0.956
+0.429
+Se
+[ SS ] at 삼성 라이온즈
+수행'22
+0.875
+0.391
+토즈
+삼성 라이온스
+박세혁'22
+| 0 | 삼성 라이온즈
+0.483
+0.207
+“A
+10
+최원준8'26
+0.250
+0.000
+삼성 라이
+<a>
+```
+
+### image 42
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172918_image.png
+- file: research/images/2026_live17_297427_42_9c18d40214.png
+- size: 887x1860
+- sha256: 9c18d40214f7243f3824c2a0cf08d7fb8d56ce1a37b67e1669089fa0d90a4acb
+```text
+그래프
+<
+OPS
+»
+1.433
+1.261
+1.089
+0.918
+0.746
+0.574
+232A
+233시즌
+234시즌
+235시즌
+236시즌
+10 경기 이상 출전한 선
+내 될
+스ㅁ
+2
+! 노출됩니다.
+순위
+선수
+때
+ae
+0.859
+0.327
+527
+53
+。
+02) 28718
+최정'26
+0.694
+50
+30
+y
+SS
+더 두산 베어스
+os
+로 정수빈
+0.412
++ [CF | 두산 베어스
+~
+24 QUEH'22
+0.326
+58
+| RF | 두산 베어스
+93/)
+행'22
+0.344
+63
+90 ~
+두산 베어스
+```
+
+### image 43
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172925_image.png
+- file: research/images/2026_live17_297427_43_4553989a9a.png
+- size: 1124x2048
+- sha256: 4553989a9aa9f20e0b39ed3bcac3330c40b4e87af2e2ac417b9c8ea7635b4c62
+```text
+확률 표기
+데일리 럭키 박스
+프
+상품 설명
+~ 겨 \
+|
+|
+Z
+ties
+00
+SOLD OUT
+상품이 매진 되었습니다.
+Old EWS} SHOS |헌한 A
+매일 한 번 특별한 hes AAS 수
+있는 데일리 47] 박스입니다.
+일일 구매 제한 1/1
+데일리 럭키
+박스
+ㅣ
+구매 횟수 초기화까지 남은 시간
+SD 0일 22시간 37분 46조
+구매 후 ABS 사용하지 않은 경우 7일 내 청약 철회가 가능하며 법정
+대리인의 동의를 받지 않은 미성년자의 거래는 취소될 수 있습니다.
+자세히 보기
+```
+
+### image 44
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172931_image.png
+- file: research/images/2026_live17_297427_44_20250fc9dd.png
+- size: 1000x2048
+- sha256: 20250fc9dd19239a7b0557cf1a473dd5bd97fb85e3d24b71bf3c0ccb895ceb22
+```text
+= 메뉴 x |
+io |
+| |
+| 을 BB =
+ac oB |
+이벤트 모드 도전과제 라이브 |
+2 6 @
+커뮤니티 선수 스카우트 플레이 볼 |
+| | |
+> | ee
+라인업 스타디움 샵 |
+%< 구단 관리
+se CU DCO |
+도감 올스타 영입 _ ㅣ 골든글러브 영입 ㅣ 시그니쳐 영입 |
+| | | |
+| y | |
+FF 8 |
+라커룸 포지션 특훈 제작소 조합 |
+| = | |
+업데이트 예정
+감독실
+4@ 선수 관리 |
+| ; =
+11 —
+훈련 훈련 돌파 훈련 재분배
+60 | 00 }.
+```
+
+### image 46
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_172940_image.png
+- file: research/images/2026_live17_297427_46_79c50a6e74.png
+- size: 1540x961
+- sha256: 79c50a6e7418fe19aaa85eaa0b72e86704d756bfa536553fbfb85d16e8352a2c
+```text
+. ' ~ ~ | SS | | — . | ie .
+| || | | | 1 3 20 | |
+| | (Gagle® HANWHA EAGLES ， = > louis LOTTEGIANTS | | |
+| =] ‘ecutag 4 EX Vo / Gants Cm om 본 Laie
+E 918 =”, : 2 고숭민 26 .349 |
+me oe ~es ~ 3 레이예스 LF 365 ™ if
+A Ss se \ A ie | 오늘의기록 | 4 한동희 38 .271 A~ leer
+| % ~ / 0] 안타 eet | 5 나승엽 18 .228 — Ted oe
+GD ; G pts 6 Am 55 .308 문
+" 0 yee PAVE Bee ee ea wey | ? SET 200 표 | ^
+1280 000 29 황준서 1 fo] 64 328 2 0 8 율동희 RF .222 — 1766
+| | 더 승1 페1 #0 Ao CF a eee | | $ 손성빈 ㅇㅇ .100 로
+ry O18 20.0 평굴자책점3.15 al 김진욱 pe 3.94 = >
+기 야 772 823 S49K6 애장준영 lose | 이기종 | 박종철 0 - 774 822552(2 야 re
+Bad A || SHS} ole 0 스트 * 25m uae
+PS | 구 롯데 1234200/609; | | 1 MA nt (을 | 8 = | | 시
+념 ： © =CTR=EME CULTURE LAND a 내
+11) — a 0 sa To . \10 a
+```
+
+### image 47
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_174803_오버숄더캐치kbo.gif
+- file: research/images/2026_live17_297427_47_f54dc8b049.jpg
+- size: 637x355
+- sha256: f54dc8b04924ee53523c5f95158758f0b27b11bfe06b5327764429564063da4b
+```text
+ot eer "
+=i. PR” uw =m 이
+뜨고 Seis 인 이이 어어 Sie. YS al
+ens Sii:” Bigs eine atte ra) 에
+,파레에더드 Bi: SSS Pawir t -r+ Ve i o
+| — 노지 finn mI of} | | 으. ~
+fea, pe Pa 2 sre ? \ mee ee 으으
+= SESE DL 7 ewssoamawe (© i} yoo! Ne Th : ：
+베바 류 = ot et \크
+자 et nie f ef 여아 a ES :
+sia in Soe 주 ee 제기 이 다대 an — ~ ) . :
+SN Oe 새0 (0 ~ 오소 ol 내로 보수적 기사
+mers gger mn iveres OWED 1004 etait oe 0 0000=감내대시 | WAS | eee cere ve, i ㅣ 00094 ao 다
+rey : Snes 0" 그
+= a ——— a eae, > —— 두
+7 ph ERO i a——— EST
+sf =) pe J zs -
+Sa aRa RE Ba! 77 Yen ~ 20
+see, cre aie ~ 6 rece ead Rae
+04220 0000 102990900000 ^ | sees | ee
+sg POR ita len wip sR 건 08000 Sate 6
+```
+
+### image 48
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_174755_바스켓캐치kbo.gif
+- file: research/images/2026_live17_297427_48_dd376ede6d.jpg
+- size: 637x355
+- sha256: dd376ede6d04f09dcf36b295acccb19777af694bf62d0a7458f13766e08d490b
+```text
+mae " P 에 바버 다
+ca ’ 4 we 5
+ㆍ Sao me Ac ua
+iene, VO > eis ^ 조기
+1 ee 아
+\ 2: ete HE : |9버 에
+03 : ^ 0. ...젠2=
+a ase Lem f ATURE Ung 2S val aa jg pee = Ze Saar:
+eae Mae - … , ~
+cre NOTRE SARIS Fess osm Wpregeeme ate ce aa a 수 개
+9 > ta Tem stars “SS = es ant rom 재적 Sh SA SCALE “oe Eo MC COREE 12002 0
+= a —— = : cs ee
+~ 스즈 = =
+Pe 그 스스 스스
+Te me = & Fe eases Se
+0 7 ee 아스 < 70
+「 5... i‘
+7 ate 4 Jo, aeons:
+wy a heh Gees or
+et =.= & |
+```
+
+### image 49
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_174829_정근우노다웃20260916012326.gif
+- file: research/images/2026_live17_297427_49_3fa607d261.jpg
+- size: 768x432
+- sha256: 3fa607d261a71af817eee94b0dcfbf4a70fbf7d994f4205120675e8d7969ad22
+```text
+라커 | in -
+inn wr, Ballpark 5, ficaes|
+mines 1 “er
+es) 재 = ra
+= 중 28 1
+= ae:
+Te a ERIE ES =
+ny tee
+wg wen OR te neens ：
+도 2 21168” ㆍ ：
+cer a 수 = ~
+소로우 =~. \ a ~ waa: 0 Hise s Hasna SS wee? T.
+UH Uh 비더레머드 ee WCC iii "제 7— Efe Pye, NE uc ee Bite
+= 4 Y ‘
+| 4
+~
+a
+a ~ ” ee ET re eee — _ 7 _ ~
+```
+
+### image 50
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_174834_박병호노다웃20260916021535.gif
+- file: research/images/2026_live17_297427_50_e43ec24c4a.jpg
+- size: 768x432
+- sha256: e43ec24c4a90f290da2f12b0acf8cb705febc772aebdfac67c79b43601ed70c5
+```text
+| IOEAL | HESi: ost 06 “Rint PPLINGTEA |
+= tome, 세 ㆍ 여 oe ed ee 어 sea .
+GRO St) OPTS E Mp aT Dre “eer ~
+ST PO 디딘 as 7a 08떠레뜨트
+— ee 이오 고온 eS 뜨 ! 나 『 가
+~ & a REY "7: ㅣ | 인전 SSG 랜더쓰필드 Ｌㄴ IDEAL, eee) emit)
+oo ; ir FRI Na TAA 0 머심
+AOS . So ee Meee eo J 7 앤 Piet? ia ee . aceite 도 bitty BAe
+ing Ain Se ae, Hie aoc ee : a . ira meet Cea ey ee a
+me 으 | / 1. es ae force ee
+ait POWER IDEAL WC COFFEE go vetuncren 0 엘지 는 ea. SUR 19606 de BEL IMC COFFEE POMBE
+| 을 = i
+```
+
+### image 51
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261020_174655_최형우노다웃20260916014536.gif
+- file: research/images/2026_live17_297427_51_89903d1adb.jpg
+- size: 768x432
+- sha256: 89903d1adb7e573dc7dc463eb3182407bfa7883c9c437592d41fbd8d3743077d
+```text
+wisi oo
+| rt 을 oer
+fiz s & ae 1000 를
+es Re 해 1
+a. Vases
+pean ; r= a
+= . 2
+ne i SL BO 1A
+Gee t bees ‘3 4 /; 5
+te nd 0 __| eee
+Fe See ee Se Lane tee eC Cetees ee Ty 브레
+비더렌떤드 본사 5908. 수링티 00409. 56546 “gees 7 Oe Bewe me WCCOFFEE "92008 비더레전드 ~ 이
+| fas ES * Ww
+en mn 00 ie
+i E ‘tos sone
+{ atta A 20 대 _ eee”
+```
+
+### image 53
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
+- file: research/images/2026_live17_297427_53_de4b4525e1.png
 - size: 780x200
 - sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
 ```text
@@ -7975,3412 +9599,6 @@ N ee: Sy ^ y a » y
 ### image 41
 - url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
 - file: research/images/2026_live06_251160_41_de4b4525e1.png
-- size: 780x200
-- sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
-```text
-| 컴투
-스프로야구
-구릉 26
-```
-
-## 2026_live05_248839
-- source: https://cpbv-community.com2us.com/board/3/248839
-
-업로드 이미지: 70개
-
-### image 2
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175108_260410V26780port4.jpg
-- file: research/images/2026_live05_248839_02_b99c85e808.jpg
-- size: 780x200
-- sha256: b99c85e808af3db3041b2b317e263b596efa0f11f071917e05f6ee7a2c33e717
-```text
-프로야구
-26
-UPDATE
-- 업데미르
-=
->
-~ \
-2 가
-```
-
-### image 7
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175320_image.png
-- file: research/images/2026_live05_248839_07_1ac4a9eb92.png
-- size: 935x603
-- sha256: 1ac4a9eb9231eea6e6f41be686924d66c9034b9cc7703dd82969cbadb16b7cb8
-```text
-가이드 미션2 - 9단계 컴플리트 박스
-가이드 미션2 - 9단계 완료를
-츠송
-O
-[드립니다. 선수 성장에 도움이되는
-아이템이 담긴 박스입니다.
-5
-pec SPA
-구성품 보기
-보유 수량 0
-```
-
-### image 8
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175326_image.png
-- file: research/images/2026_live05_248839_08_df74792864.png
-- size: 1011x1653
-- sha256: df74792864cc91e431c48fbd9bafbc77c639cc6bb63c5b1e1116d6582ef1d1a7
-```text
-구성품 미리보기
-RESET
-PREMIUM
-SKILL CHANGE
->
-^"?
-9 9
-‘mI
-1111
-시그니처 조합
-포지션 특훈 효과
-임팩트 조합 포인트
-포인트
-재설정권
-고급 스킬변경권
-×1,500
-×500
-×2
-×2
-CHANGE
-~
-100
-aco
-훈련 성장 재분배권
-| oa
--그빼그
-러브 트로피
-×2
-×2,000
-```
-
-### image 9
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175344_image.png
-- file: research/images/2026_live05_248839_09_a1c5ec4da4.png
-- size: 1968x1768
-- sha256: a1c5ec4da4d71a076b3e39d2782654b712c409c63ae477f561137f2a59ac7e5b
-```text
-가이드 미션2
-1단계 2단계 3단계 4단계 5단계 6단계 7단계 8단계 9단계 _
-24/2 22/22 VARY, 32732 29/29 32/32 32/32 32/32 | ) 0/32
-@ 미션 리스트 ㅣ 모두받기 |
-@) | vl) | &
-yl 4s 22
-1.000 1 1 |=
-진행중 진행중 진행중 진행중
-(a) mn) © ay 5)
-9) ae 1S
-1,000 z=
-“> © 가 © (a) Wome © |
-9 | | ak 의
-1,000 1 Rie
-ww (0) 가 © 매 O gt (a)
-o) | el | =] | g
-1,000 = 1 럭스
-```
-
-### image 10
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175350_image.png
-- file: research/images/2026_live05_248839_10_48e8c4a706.png
-- size: 1968x1760
-- sha256: 48e8c4a706f6226603fbe8852096d20bb6acd83d8237d367c10a87419189b5ff
-```text
-가이드 미션2 |
-1 E74 2단계 3단계 4단계 5단계 6단계 7단계 8단계 」
-(A) T
-is
-24/24 22/22 32/32 32/32 29/29 32/32 32/32 32/32
-~ Xa o ~ (a o | ㆍ
-‘7 | FA | | 협
-1,000 1 1
-aah é O +1000 때 0
-a (Rm fe {e
-1,000 1 1 i
-“a 쁘 @ +1000 O 3 ©
-\s) es Ae 의
-1,000 14 1 1
-“aah @ O +1000 C) O
-\ 더 At 의
-6,000 본 3 3
-| |
-```
-
-### image 11
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175405_image.png
-- file: research/images/2026_live05_248839_11_09c9f3c5a5.png
-- size: 864x533
-- sha256: 09c9f3c5a502311a45e867e5437134b627d6cef8b9fbddd9fb97dfbb2d6946d6
-```text
-NO
-미션
-보상
-리그 모드 월드클래스3 이상에서
-고드 그
-etc 2
-러브 수상 3명
-골든글러브 트로피 ×1,000
-포인트 /700,000
-골든글러브 트로피 ×1,000
-리그 모드 월드클래스3 이상에서 골든 글러브 수상 4명
-포인트 /700,000
-골든글러브 트로피 ×1,000
-리그 모드 월드클래스3 이상에서 골든 글러브 수상 5명
-포인트 /700,000
-리그 모드 월드클래스3 이상에서
-고드 그
-etc 2
-러브 수상 6명
-골든글러브 Eel x1,000
-포인트 /700,000
-골든글러브 트로피 ×1,000
-리그 모드 월드클래스3 이상에서 골든 글러브 수상 7명
-포인트 /700,000
-리그 모드 월드클래스3 이상에서
-고드 그
-etc 2
-러브 수상 8명
-골든글러브 트로피 ×1,000
-포인트 /700,000
-골든글러브 Eel x1,000
-7
-리그 모드 월드클래스3 이상에서 골든 글러브 수상 9명
-포인트 /700,000
-8
-리그 모드 월드클래스3 이상에서
-고드 그
-etc 2
-러브 수상 108)
-골든글러브 트로피 x6,000
-포인트 x1,400,000
-```
-
-### image 12
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175414_image.png
-- file: research/images/2026_live05_248839_12_51219f5623.png
-- size: 867x534
-- sha256: 51219f5623601145a7ea35806d1c0dd8af9858c879dc684708fddf2312fd6ef4
-```text
-보상
-미래
-1
-콘텐츠 코인(첼린지/홈런/클럽) 5,000개 획득
-임팩트 조합 카드 x]
-포인트 /700,000
-임팩트 조합 카드 x]
-콘텐츠 코인(첼린지/홈런/클럽) 5,000개 획득
-포인트 /700,000
-임팩트 조합 카드 x]
-콘텐츠 FOl(MAl2|/SH/2H) 10,0007 획득
-포인트 /700,000
-콘텐츠 FOl(MAl2|/SH/2H) 10,0007 획득
-임팩트 조합 카드 x]
-포인트 /700,000
-시그니처 조합 카드 ×1
-콘텐츠 DOl(BAA\/S4/S8) 15,0007h
-획득
-포인트 /700,000
-콘텐츠 FOl(Me2lA/SH/SH) 15,0007 획득
-시그니처 조합 FEE x1
-포인트 /700,000
-시그니처 조합 FEE x1
-콘텐츠 코인(첼린지/홈런/클럽) 20,000개 획득
-포인트 /700,000
-콘텐츠 DOl(BAA\/S4/S8) 2000074 획득
-시그니처 조합 카드 ×1
-포인트 x1,400,000
-```
-
-### image 13
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175426_image.png
-- file: research/images/2026_live05_248839_13_5728386b7c.png
-- size: 864x531
-- sha256: 5728386b7c97a8fe4726ba83ee85ad8f183d55bc2649caeadba432051f3cef2a
-```text
-NO
-미션
-보상
-라커룸 포인트 900 달성
-1,000 특훈 카드 x1
-포인트 /700,000
-1,000 특훈 카드 x1
-라커룸 포인트 1.000 달성
-포인트 /700,000
-라커룸 포인트 11100 달성
-1,000 특훈 카드 x1
-포인트 /700,000
-1,000 특훈 카드 x1
-라커룸 포인트 11200 달성
-포인트 /700,000
-1,000 특훈 카드 x1
-라커룸 포인트 13300 달성
-포인트 /700,000
-라커룸 포인트 1.400 달성
-1,000 특훈 카드 x1
-포인트 /700,000
-1,000 특훈 카드 x1
-라커룸 포인트 1500 달성
-포인트 /700,000
-라커룸 포인트 1.600 달성
-1,000 특훈 카드 x3
-EOIE x1,400,000
-```
-
-### image 14
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175438_image.png
-- file: research/images/2026_live05_248839_14_ded314af3d.png
-- size: 864x532
-- sha256: ded314af3d079891be9e51447f35c9650d8fd9ca0b4fc1bf97d27970d6009776
-```text
-NO
-미션
-보상
-포지
-MES
-(Ue a
-레벨 합계 330 달성
-5성 시즌 카드 구단선택팩 1
-포인트 /700,000
-션
-Es
-5성 시즌 카드 구단선택팩 1
-포지
-(Ue a
-레벨 합계 335 달성
-포인트 /700,000
-5성 시즌 카드 구단선택팩 1
-포지
-셔 트후
-(Ue a
-레벨 합계 340 달성
-포인트 /700,000
-션
-Es
-5성 시즌 카드 구단선택팩 1
-포지
-(Ue a
-레벨 합계 345 달성
-포인트 /700,000
-=
-5성 시즌 카드 구단선택팩 1
-포지
-셔트
-(Ue a
-= 레벨 합계 350 달성
-포인트 /700,000
-포지
-션 특훈
-(Ue a
-레벨 합계 355 달성
-5성 시즌 카드 구단선택팩 1
-포인트 /700,000
-5성 시즌 카드 구단선택팩 1
-포지
-셔 트후
-(Ue a
-레벨 합계 360 달성
-포인트 /700,000
-포지
-MES
-(Ue a
-레벨 합계 365 달성
-5성 시즌 카드 구단선택팩 x3
-ELOIE x1,400,000
-```
-
-### image 15
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175623_image.png
-- file: research/images/2026_live05_248839_15_7b97093017.png
-- size: 1845x2048
-- sha256: 7b9709301709058376cf7938aae72483186e2122b89866de4dc3e8b566f81696
-```text
-Vv
-도전 과페
-@ =
-때
-0+ 속
-0+ @
-90/90 +
-일일 보상 15 / 100
-매일 오전 00시에 초기화됩니다.
-주간 보상 15 / 700
-매주 월요일 오전 00시에 초기화됩니다.
-미션 리스트
-리그 모드 1회 플레이
-=
-0/1
-바로가기
-리그 모드 5회 플레이
-대
-0
-바로가기
-0 —
-=
-리그 모드 30회 플레이
-바로가기
-=
-0/30
-래키 채리
-oo eu
-X| 1회 플레이
-바로가기
-=
-0/1
-~_FCFCFOFEFHEHEFEFEFE RRR
-$n ——
-스페셜 매치 1회 플레이
-바로가기
-훈련 1회 시도
-때
-_—_—
-—
-바로가기
-pgcg
-00
--
-< 뒤로가기
-```
-
-### image 16
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175638_image.png
-- file: research/images/2026_live05_248839_16_a28eab008b.png
-- size: 1845x2048
-- sha256: a28eab008b45ec3add1dfdd7e9256f5f66752906040166008fc3183407c626d1
-```text
-° ㆍ . ㆍ
-리그 모
-. / “ =
-대
-리그 보
-AF
-———
-re,
-데일리 보너스
-복과제
-바보
-“ㅋㅋ
-미
-리그 순우
-리그 랭크
-공격
-비
-기타
-0
-0/43
-미션 리스트
-기본 보상 ㅣ 추가 보상
-2루타
-미달성
-오오
-3루타
-미달성
-우포
-도루 서고
-pets
-오오
-3루 도루
-미달성
-때때
-더블 스틸 성공
-미달성
-때때
-복넷으로 Be
-미달성
-eae
-한 경기 5 ull
-미달성
-ie
-0 00 =: | CP |
-```
-
-### image 17
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175651_image.png
-- file: research/images/2026_live05_248839_17_b1ec800592.png
-- size: 1845x2048
-- sha256: b1ec800592f238f1d8c7be88c00cef232d74ed91766ae1336294d32417fe4a2f
-```text
-( st? | 7 0 ||
-® 0 고 + @ 90/90
-친선 경기
-메인 플레이 기록
-리 다같이 진행되는 홈련 레이스 친선 경기를 즐겨보세요! W%
-Pele PIETY _
-ae @ 명 , |, g 내 , / /
-=f SO NA
-: 42m
-= UT AE f%
-00 옴런 레0 | MA) CH
-| ; lA ae és. pi
-a es
-x. ME ~ 1 (태그
-6
-ㄴ 빼| |
-Sj
-AC] 코드 입력 쓰 4
-방 참여 후 플레이할 타자를 등록하세요. ~
-방 설정을 통해 경기 설정도 확인할 수 있습니다. |
-eT
-ALY DES 입력하세요. 참여하기
-Wa 초대 코드 생성
-친선 경기 방 만들기를 누르면 상대가 입력할 코드가 생성됩니다.
-코드 생성 후 투수, 타자, 방 설정이 가능합니다.
-2인 이상 참여 시 시작 가능하며, 5분 후 자동 시작합니다.
-```
-
-### image 18
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175706_image.png
-- file: research/images/2026_live05_248839_18_619e866959.png
-- size: 1845x2048
-- sha256: 619e8669598975111c40f1c8c52bffd44fd44cdfd590e3475e7ff1425207309c
-```text
-해석
-. a se
-H X 시작까지 남은 시간 3 : 58 고즈
-티모 띠 a
-| . - . -- 만여
-ㅋ ㅣ 초대코드 41473259 클럽 채팅에 공유
-| é - y f 7 =
-PS ae A ICH
-r “ARs
-4 UX y ,
-f de ZA ee
-1 |
-참여자 리스트 31/50
-| Mi 2인이상 Al BE 레이스 친선 경기가 진행됩니다.
-같은 방에서 진행하는 친선 경기의 볼 배합은 동일합니다.
-홈련 레이스 시즌 점수
-: Pp _ Bs
-i a GB -
-```
-
-### image 19
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175720_image.png
-- file: research/images/2026_live05_248839_19_10d38f8481.png
-- size: 1845x2048
-- sha256: 10d38f8481a4e7f377800bc8f1afce285ee1284380e11e06798a6fb56d3d3d16
-```text
-,/ 게임 설정
-투수 설정
-투수 선택
-스스 주
-§
-구속
-SP
-포심
-~
-체인지업
-\
-슬라이더
-PP
-if
-커브
-208
-7003
-커터
-igh
-{EH
-Ol
-속도
-000 가
-기본
-구속 +20
-『이도
--
-ㅠㅜ
-어려움
-…
-저장하기
-```
-
-### image 20
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175734_image.png
-- file: research/images/2026_live05_248839_20_575f7d67c5.png
-- size: 1845x2048
-- sha256: 575f7d67c523fa45a54c878f7c28a4bd205aeb4ed5115d4266d483b5f72bd7d0
-```text
-,/ 게임 설정
-ㅠㅠ
-볼 설정
-= 배합 (15/15)
-랜덤 생성
-노말 몰
-실버 볼
-골드 볼
-플래티넘 몰
-다이아 몰
-포타 보
-“a.
-— a 를롤를롤롤 를란 미만
-저
-장ㅇ
-[기
-```
-
-### image 21
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175744_image.jpeg
-- file: research/images/2026_live05_248839_21_7c7db38a27.jpg
-- size: 1845x2048
-- sha256: 7c7db38a27c766ee8577813e4b8197a4e1a6933e02f9c175fb59dee3a9877183
-```text
-ZX A. ME
-줄전 선수 선택
-상대 투수 현황
-투수 설정 준비 중입니다.
-oi 0 , ~ 504
-00 - 2 파워 16 가려 13°
-rand “자 00 85 il
-Ga | hi ‘Ns 프 핫콜드존 000
-eG 마이너
-02 op IL) /¥
-2 ^죄형우'26
-아래 목록에서 등록할 선수를 선택하세요.
-0020 60혼| 의 70 의 7475 70009 BS)
-0 ss] — TG aa Al 개 때, a Mic ). © 0 2B | 케언 my) 매; |
-“ae | gas os | FR cc oe) 1 4 | EGO. |
-< 유격수』 | 7077. "우의수 ㅣ //14 [7 지영] 2022V3 Ligas 2022 V3 ZA (QV?) 224) 2022y7 AIEEE OC
-^ 테지 > 226! ] 0" ry ' TT 1
-| 이재현 | 박승규'26 | 최형우'26 . 김현준6'22 | | 김태군'22 | 류지혁'26 | | 김재성'22 |
-파워+정확 : 179 파워+정확 : 142 파워+정확 : 161 파워+정확 : 155 파워+정확 : 154 파워+정확 : 153 파워+정확 : 153
-| 7 KK \| 0 ㅣ ~ . ： + An
-: ~ k . "ee 가. ; ' ar ic 이 + 「 \
-699 GPG) 609 스 의 66 63" 허 은 1 56 요
-“20 aby LF ae OF 21 | =~ CF De(ic|
-ugly 월 | / lU/) 7 | = \ egy -) 3 77000 / \
-IWEVI) 1) \WEVI RAT) 20223! 10. | 20270 LENT. nase LYE), sae WEY)
-Tioteoe | | Sale>e | | 긴헌고22 안주형'22 «=| 전병우26 ㅣ | 김지찬26 ㅣ ㅣ 김도환'26
-| 확인 |
-```
-
-### image 22
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175758_image.png
-- file: research/images/2026_live05_248839_22_34443c0fe3.png
-- size: 1051x1173
-- sha256: 34443c0fe37f9c531b9045c74f4f4413a76ee5c9a1d11b5a52cc7818f20619bf
-```text
-｜，
-0/96 주
-B®
-oF *&
-ea )
-메인
-플레이 기록
-방장
-참가 인원
-우승자
-기록
-GMA|LI1
-42
-GMAIL|2
-결과 보기
-wv
-< 뒤로가기
-```
-
-### image 23
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175828_image.png
-- file: research/images/2026_live05_248839_23_0b8a1d05da.png
-- size: 1845x2048
-- sha256: 0b8a1d05dabb3ae882afd7a23232a4e51f6fe24d3bc71f9e80d6f778cb061b1a
-```text
-re 채팅
-일반 클럽 | waa
-아직 대화가 없어요.
-친구 목록 War 관리
-```
-
-### image 24
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175835_image.png
-- file: research/images/2026_live05_248839_24_c1e01f7d72.png
-- size: 1845x2048
-- sha256: c1e01f7d725cc74addf8f87ee2c505c57eaf282d04111325965c47d450a27711
-```text
-a
-si
-per ee ai
-sacle
-iii
-친구목록
-=
-oe ere
-er eee ee
-paren Se
-a a
-도
-et
-eee -
-pial
-```
-
-### image 25
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175841_image.png
-- file: research/images/2026_live05_248839_25_b09835d737.png
-- size: 1968x623
-- sha256: b09835d73723a43be3bf8994244fecef068a5756c5e4d8ff285cb533aa3c599b
-```text
-|님과 HSS
-2026년 6월 9일 화요일
-> |
-0
-~~ N=,
-2S 05:10
-<
-```
-
-### image 26
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175853_image.png
-- file: research/images/2026_live05_248839_26_a3cfa3818c.png
-- size: 1845x2048
-- sha256: a3cfa3818cb408169227b60ced6b5ef525fc02f84017102027863123def2519c
-```text
-xHe!
-Hae
-2S 05:10
-@
-친구 목록
-것속말 관리
-```
-
-### image 27
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175904_image.png
-- file: research/images/2026_live05_248839_27_55499d5244.png
-- size: 1845x2048
-- sha256: 55499d5244772bc31971864cc7e7e462f307757e79229b4843ce91308c746000
-```text
-xHe!
-일반
-클럽
-Hae
-2S 05:10
-e| ®
-pe ta
-A
-[= 채팅방 나가기
-취
-```
-
-### image 28
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175915_image.png
-- file: research/images/2026_live05_248839_28_eb08b427e9.png
-- size: 1968x1763
-- sha256: eb08b427e97ed170c154863270b5c61d76754f4f7d5c8b48e448efa03b3ad808
-```text
-친구 목록 친구 요정 목록
-31/20 13848
-실시간대전 흠런레이스 BEN OIA
-지난시즌순위 AMAIA 지난 시즌 순위
-| |
-```
-
-### image 29
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175935_image.png
-- file: research/images/2026_live05_248839_29_b9a0ca56ed.png
-- size: 1845x2048
-- sha256: b9a0ca56ede6eda566f24fb9787b4d8f609b8d64c22713edc9bd88aac7779cae
-```text
-a -- ㅠㅠ E 7 pee
-가 될 해 4
-= or 개 ~
-고레 이 -「」 ~ 3 | —_ |
-OVR 59.6 레벨 1 a re — = ~ |
-| 년
-MY ORs 0 90/90뿐
-|
-럼투스프로야구 26 ta) or
-- 라이브 ， 플레이패스
-다
-pe ’ 이벤트 도전 과제
-4 . y _
-엔 『 fa
-| oe |
-— | ~ ‘ 출석 ㅣ)
-은 i - ~ # * e ~ >
-oe ‘
-\ = |
-com2us
-— FOR .
-« — ' 갱 ~ a
-° f i
-» 4 a , ¢ ' | | ee
-eee 0 | : | ^ 7 iad
-; ee | ot oO Ff i 3itehectaee S
-= = ONS er #. 1 i ! . ' ! ㅣ 가게 때 조오 주 으으 호 로둔도
-sue SF \¥ -
-= | a= « " = ‘ * . ~ ~ ~ 이
-J : <
-ane . " > , ¢ ; ee =< ee - 4 oe a i ? a es "0
-~ 0 ~ 7 eal hy 0 20 성 CP dk ut Ba! Put fh ^ 기 * Eg J oa t a, > * / ay) OO La) "Same Sa! + a he
-fi hy ee, ‘on. . a 시 y . 2 . ‘ 8. | | 060”
-~ oe 로 ie dy ㆍ oT. ou i iyi itt, eye + tut 4 . ! Pare 7 te may ” 7 3 pe. 7 he. a owe
-ae ae eee , © 10 . 로 때 - 고율 a ee 40 Pi , . ery ey aes 이 RR - | 20 ~ Oe ae,
-¥ 자
-fm , yi Se ~ ! [
-“SUNG 2 ae | — ;
-_— - - = 22 . "9 he
-:
-st r
-Ses ¥ nt ‘ Fes iF SSA 구구 가가 로 ~ 4 - :
-} ” : * 4 abort het 060 게 eet AN 4 a ny ” Sa ee SSS eat = 로
-MeO aun ie RAE CUM REA eres Racin eae UPR IST NMA Rese ee 베어 PAZ rt wh ALC se a hg AMAL Koh
-OTHER ET get KEEN LS RRR N ALAN OTe Ve) meee EA Oy kd ean a OD ; | 시시 오나 거니 SIE MCL Ura Reet aT ehiins a ener Oy, LN ahi Ney ff PN Com tt 205 Dy PU ee ie a
-와) 개서 Ws printing war 69 i 0 a ani ESR pT NR NT We Ae Ss hai tth Se PROT aie poset ta tect e aN ay ae Beau ha ae bes MESURE LST CORTE OH EMBL 420 in ai
-00” + 00023 ep ; RSG yall { hia ce f Ty ee ES yee ea 가오 소니아 a tra Nate v4 SPR ia 4 eget i 로 새기 나 나가 i Rae. eee Nea ae) ‘ 4h 0 [천 2 ha
-sini (0 ABR ee Ig patel amd ahs i Wire Cy Poe 6) } ; ria eta re Nee PUR iii tacche Neat achat No Resin rive 수사 abre bay Saul ANNE ir ae 07 it OAR <A
-; eal aide Al in fant in 배리 721 TN ea HB Waa NRE AN ae MEO patent le Apher baat BI Soe CRs Tight Dat CORON abigail AA Ca Many) hi Pid rauetage SG Pearce) AE He Tera a so heltt gs? evan
-Sia acini ade aia eu tate atl hy WANG | 00000 sein Set } 거버 Adiheky Na ceext tae SAE kc ich at Uh : Wi: BN HSER NYE ACs oR FINE NI iRise 0 cA PE Sih 9h SAI 아수 으기 가 y Thats 000 바바
-ANIA hale aan LEAS SBME LD SN ae al a ST 0029031@ 아이티 ME 2a iene 1 WN Soe Kean ES Wea AT A 10006: 이우 BENG) Dene 00008 아수 bas 구오 hI ey Ten igh
-시디 As nome OTS tenuate AAS ree ae Meera! late oun aCe es) fe ei RT OEM a “oslo Saac? RR ane Thc PR i adr
-Paras cet 0001 00000. RELEASE: 0002! 다 ~ S 니시대개 70000 5 eV egies Myer hg 06000 보노 ‘ a Ne Yeasts CF APO ie dks 저기 tate
-RA Meaney eh Cea MRE Umm ing ao CNC? AUR ae SEER AMRIT 0007 9 0 .99 a ll ish la heal th AP aia a ad aa |
-아사 아이 Wk ashy rt itor cal Neti rath ee Kalen bier | - Pe al TARP Mie: clio t OSEAN hg AMIS Daun im 서도 Te LAN it FUE A ORS Se aC on
-ROMP a Are a Te A? PT Map a an a dat cig Mae! Pe ue Re a ele . 0000 SON aac TREO cA Me laa Rane fall OSs
-vag! 1s iy a al 00 다 20800 ~ "^... OE ap
-나서 slid ps ee ks Naas Bee 1 inet a {Regi bial dat al Teh (Wigan athe 607 co Mp tonr SMa gS Cal NUP ah RL ne Yeahs) DE set) he BS es
-UA RA us Peal Pd ab cieuerrt yy 6 비니 아아아 시보 as Wires ery feo: 이시기 마다 MRD (Ger ESP Wee oer We aa arty F
-ir Ey pe 00004 Rey Nhe OR ery 기 iy ae ‘3 ai aa 납 ㅣ 110 SALT Ee 버버리 \ 나 at Sea M UN 2s 239:49:15 v i 23 ie Sys eset oat ae 아 10000. eh “f F ( RL 에
-이 ee ge SE UR ai aig nN eva eh Le i il a a Wee ear TANT Pena. ayninine let nats POET Ala Oo ee A HC A ta
-| 24100; 배기 5 000 "개 art 아녀 Nyaa sae AE eh iL ‘s te PATO Tee eee Meet ewes Al alls ais aber aiaeres: ah faints Me at BS | ea AREY AY Babe ey 00 오아 다1 Weal ey 20 me Pr at oral
-Ub GRO Neher 나! ic AT tml an th" ef "4007 Sh hy a. rai. A ^ E _ a Pte clche a NaH Sah SERN ore BW
-aap Ey YS ion) WES APY Mh a ai Dee dea De Raa NG hoe AUER A I ES, pba al vhs ily Tak Ht
-ye Athy Flag [디그 Stade ty 착답시미 Dh: } Rec wae - id rT— & T T Tig yar ay ri ayy 자 irl 4900 기 nibint as eet A
-‘ mh) 기변 1 em tte 병트시 0536 에 j Nd fy Me ¥ 3 Balak a “3 | HBA ‘2 i ke
-[개 ASAD 2 , ey eyes bac} A NN all 가버 hes ici BAR ATLA 토게 ith Safes fen
-ec Maine ed.) S19] 선수들을 영입하세요. 지 위 패 J TI “igh SACRE MRT ol SIN ye ie i
-rf é, 월보 ] 기 te wi 4 11 mi) Bie aaa Fes, al 가 감면 (이 |
-I oye } OTM) Us) Pe lf Paris r “. , 1 해 Iie ey yall Mest tt. Tl yi { 내 ie 개:
-' or yy Wy AE ) Lol de ee if . ri 6 이 SNAPE Reel | iW a 4] seal "Fae eet RAN 1
-| et See pi = E | = 으으 WS Net hed (21 044 Liber ee ae ss NE a + Neer Vata)
-f 2 Waar my { Hel f _ MRA as ™ . 4 더 ~— a SY As Pa e 2 1 0 th i» ~ 베 aren eC f \
-16h Meet" *, 가니 Lif cliche bs Ae fi 1 ~ ! - at wy SRI, ek we PDL ae iw ‘Vs & 인
-년 ㅣ 1003.20 - 가, 구형 ; 「' no Hi ‘ Oh tt a 7 oO (~) 위 Py Tr iJ g =x i ut oes | abt AVS 4rd - Wet Lak
-사성 비시 허기 경 (he ha EN TT 1 Te = = . dai TPL ce 로 VF
-en 1. 0260 [a Ear 3 에 > j AM \ agian) 1: 141
-ebb Ade Fa ea DAN At ears ag A he Be 1 2 2 [빼 = 도 |" “Cita he yi 시 KAM i Ny Ape Nee
-i | 1. 때 i. “ yi , , ， , 「, a, 테바 " .- 1 ad 0 < 1)
-ny ‘ AL Vado wR am [| 개 Aaa 4 ‘ ~ lara | {( [ } f Ｌ , — - 1 4 너 ( ~ Wa | 일 Ant j Ww ' 이 xT" r 세
-~ Fm ig “| he y ip Fit ( I 1 232 7 I mi. ~ — be ie ‘idle A < ,
-구레 aa al eet fais 4 ㅣ ay , 도 11 ae
-이 | af GU mig 다가 Pte ait te ’ 는 | Name Ab 이 보드 csuctt fey [008
-기아 ast Ml 60 = Ly) fet 생몰 개비 | RV ay. He
-yh ale eb Prints ak ia ' 가 ll i 기 보노 aa Seer Uwe Tamer | ’ a ㅣ ; 1 ; 보태 ry — m bl “a 2 kr fe 17=
-0기재커 | aa Lame Tce a TS Lit hay Fa) aati) idle > ~ 1 Le chat es di A eet SS iN eel
-wil Me ie | ap ala | i my) ih 기 18" i 년 ; 개 neo tle iS be ee 쏘 * tA 『 보게 Li ira a) * | =e eee
-MA 관리 APOIO s <<
-다 고
-선수 관리 |인업 = ou 구단 관리
-```
-
-### image 30
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175940_image.png
-- file: research/images/2026_live05_248839_30_1e5f53db36.png
-- size: 1845x2048
-- sha256: 1e5f53db362bedbc4ec98a2913d9ee7fd5c198ac135cf838a1246bde5d600ebd
-```text
-TT LT CLEC
-¥ ©
-0+ *
-90/90 +
-0+ @
-친구 목록 신구
-2 -ㅋㄱ
-On 모로
-30/200 0명 접속중
-OVR
-hin
-Vv
-ive
-이 랭킹 jee: 랭킹 ie
-표시할 정보가 없습니다.
-< 뒤로가기
-```
-
-### image 31
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_175953_image.png
-- file: research/images/2026_live05_248839_31_fef1e3f2dc.png
-- size: 931x143
-- sha256: fef1e3f2dc194dbe2117d4ba24cb255a284ead2e1b37da8640cadf140fdd3517
-```text
-아이템명 및 제작 개수 제작 재료 필요 포인트 제작 가능 횟수
-AAS 제작/선수 카드 x2
-3성 제작/선수 카드 x5
-훈련 돌파권 ×%60
-50.000 주 12회
-```
-
-### image 32
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180003_image.png
-- file: research/images/2026_live05_248839_32_cc139e978d.png
-- size: 1845x2048
-- sha256: cc139e978dd35947e0e1fe8ca21c6e353be0c82de42f3d8167af308860a2a8f3
-```text
-제작
-~
-소
-@,
-a
-0
-Vv
-P
-0+ 속
-1+ @
-90/90 +
-제작소
-—
-—
-22H It
-ㄴㄴ 그
-훈련 돌
-Ut x 60
-ae
-os
-eee 체라 ee al
-MA 카드의
-흐려 동
-ree
-파 및 영입, AAS 콘텐츠에 소모되는 재화입니다
-a
-tine ee
-ae ae oe
-HARK
-WARK
-ala
-at»
-at»
-필요
-필요
-RAK
-HA
-HRS
-we
-KK
-|
-| |
-ㅣ
-at»
-at» at»
-at»
-at»
-필요
-필요
-필요
-필요
-필요
-_ AAA” <M LM 222222220200020000202200720000008 220022200002220220002202000000
-제작
-(매일 0시, 매주 월요일, 매월 1일 초기화)
-아이템
-a a
-st 0/3
-주간 제한 0/2
-주간 제한 0/2
-!「제한 0/2
-월간 제한 0/1
-월간 제한 0/1
-월간 제한 0/1
-를 Fe Xie 0402 설 0/12
-|
-|
-SN
-fa
-iw)
-wa
-i
-iw
-2
-iw
-VU
-7)
-\/
-7
-19]
-19]
-ll
-~
-igh
-Y
-~
-igh
-별
-경권
-강화
-성공 고급
-강화 복구 고급
-강화 크리티컬
-강화
-성공 고급
-강화 복구 고
-rss]
-1
-강화 크리티컬
-운련 돌파 권
-이브)
-뱃지
-뱃지
-고급 뱃지
-밴지
-뱃지
-고급 뱃지
-SS TS 때 TT 때 Ee
-®
-제작하기
-<뒤로가기
-```
-
-### image 34
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180019_image.jpeg
-- file: research/images/2026_live05_248839_34_8c425cc2e5.jpg
-- size: 1845x2048
-- sha256: 8c425cc2e55bb5322e96605cf31d00d930189b14a2701130e8b4213a58dbd583
-```text
-¥ © oF) ok 17 @ 20/90 +
-제작소
-' ㆍ 계정제한0/1 ＊ 」 |
-시그니처 카드 선택팩
-— : . ㅣ 28s 목록에 포함된 시그니처 카드를 선택하여 획득할 수 있는 선수팩입니다. a eerie
-| 5성 선수/제작 카드 | TO RE RE Se ee
-i = =— 을 = =글을 TOURKRKk a Ck kkk i Kkkkka Creek iz KKK Aka |
-0/8 ara; aya ai
-mone lat at at at at
-필요 필요 필요 필요 필요
-Kkkwk | RRA | Kkk kk
-at at at
-제작 목록 (매일 0시, 매주 월요일, 매월 1일 초기화)
-WMO . . 계정제한0/1 계정제한0/1 . . 계정제한0/1
-구단 레벨 25 에서 ㅣ 구단 레벨 35 에서 || 구단 레벨 50 에서 | 구단 레벨 75 에서
-제작 가능 제작 가능 제작 가능 제작 가능
-© 0,000,001 구단 레벨 50 에서 제작 가능
-< 뒤로가기
-```
-
-### image 35
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180038_image.png
-- file: research/images/2026_live05_248839_35_25706b786e.png
-- size: 1845x2048
-- sha256: 25706b786eb48e86340e9ee3ffbd107f53af39555abfc546717f79eaa60ab4ff
-```text
-제자스
-Vv
-® =
-a
-1
-~
-Vv
-P
-0+ 속
-0+ @
-90/90 +
-제작소
-ttt
-El 인바 화전귀
-조합 시 드림/나눔 팀을 선택할
-T AC
-A 이느
-아이템입니다
-림
-!, 롯데, WS, kt, SSG
-나눔: 키움, 한화, KIA, LG, NC
-Dene 22220
-KRKAK
-at»
-필요
-제작
-(매일 0시, 매주 월요일, 매월 1일 초기화)
-아이템
-a
-무제한
-무제한
-「제한 0/10
-!「제한 0/20
-주간 제한 0/1
-월간 제한 0/1
-주간 제한 0/6
-ay
-%
-~
-~
-\
-~
-1 |
-구단 레
-태어
-이
-111 10008
-제2
-제작 카드
-변환
-강화 카드 변환
-팀 일반 확정권
-팀 고급 확정권
-계승권
-oO ue
-02000 00000 001..00 00000 000 a 00000
-®
-제작하기
-<뒤로가기
-```
-
-### image 36
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180045_image.png
-- file: research/images/2026_live05_248839_36_0c5a0f08d5.png
-- size: 1845x2048
-- sha256: 0c5a0f08d519c02c2a368eff9c3320c7f78b7553ef08fff6fd73a33f4e16c26f
-```text
-제자스
-@ =
-~
-Vv
-P
-0+ 속
-1+ @
-90/90 +
-제작소
-기
-1.
-팀 고급 확정권
-A 이느
-~
-Coe a ee eet Me eee ae eee RE ee eg aE
-조합 시 특
-AY 팀을 MEWS
-T AC
-아이템입니다
-개 에 자 아아 i a ee ee
-aa
-Dennen en
-KKK
-ARAN
-RRA
-ARK
-KRKAK
-a7 aT a
-at»
-at» at» at» at»
-필요
-필요
-필요
-필요
-필요
-리000000008=/ a Ve ae 00020
-제작
-(매일 0시, 매주 월요일, 매월 1일 초기화)
-아이템
-a
-제한
-무제한
-「제한 0/10
-!「제한 0/20
-주간 제한 0/1
-월간 제한 0/1
-주간 제한 0/6
-re?
-ay
-제작 카드
-\
-~
-=
-태8버
-0”
-이
-111 10808
-구단 레
-제2
-변환
-|
-팀 일반 확정권
-제작 카드
-강화 카드 변환
-팀 고급 확정권
-계승권
-oO ue
-a 00000 001..100 000..00 00000 a 그이그이
-®
-제작하기
-<뒤로가기
-```
-
-### image 37
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180052_image.png
-- file: research/images/2026_live05_248839_37_aa65ef2fc6.png
-- size: 1845x2048
-- sha256: aa65ef2fc677136f2beb370c4f41b5f2d3451f0305a4f292b05570272aa73643
-```text
-제작
-~
-소
-4
-® =
-a
-1
-때
-Vv
-P
-0+ 속
-1+ @
-90/90 +
-제작소
-기
-|
-7)
-1111
-ㅅ킨벼겨귀
-임팩트, 국가대표, 시그니쳐, 를
-[ ee
-그드그
-러브 카드의 모든 스킬을 무작위로
-~
-Coe a ee eet Me eee ae eee RE ee eg aE
-oe i a ee ee
-aa
-Dennen en
-WARK
-wkK
-RARK
-WARK
-WARK
-at» at» at» at» at»
-필요
-필요
-필요
-필요
-필요
-리000000008=/ a Ve ae 00020
-제작
-(매일 0시, 매주 월요일, 매월 1일 초기화)
-아이템
-a a
-주간 제한 0/1
-주간 제한 0/3
-월간 제한 0/1
-주간 제한 0/1
-!「제한 0/3
-주간 제한 0/2
-「제한 0/2
-주간 제
-PLAYER RESET
-iw
-ft.
-iw
-\/
-7
-\/
-et
-&
-@
-upp
-i“
-re 레벨 35 에서
-1101
-1111!
-1) 000
-oi
-Ss
-ig
-S
-작 가능
-포지션 SS
-운 요과
-ㅅ키벼겨귀
-A ZI by 242
-강화
-성공 고급
-강화 복구 고
-년
-1
-가
-와 그
-재료
-리셋권
-재설정권
-(시즌&라이브)
-뱃지
-뱃지
-고급
-ET Ge Ee Ee
-®
-제작하기
-<뒤로가기
-```
-
-### image 38
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180110_image.png
-- file: research/images/2026_live05_248839_38_30c569174b.png
-- size: 668x288
-- sha256: 30c569174bcfdf2338bb5dae18cba1a4215e9ed88bd5a4b533f6122c7f0397e1
-```text
-리그 달성"
-구단주 지원 Of MIE
-```
-
-### image 39
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180114_image.png
-- file: research/images/2026_live05_248839_39_1a5bfc37f6.png
-- size: 668x288
-- sha256: 1a5bfc37f6df1b173b2281e18e1900448e7931795c399f545b96d664c5a9d35a
-```text
-~
-IMPACT
-×
-×
-2
-x
-A |
-i
-WAR- 2591
-2“ art
-“fy
-) 선호 그단
-An Chi hong
-]
-소키플레이어ㅋㆍ
-| 선수획 획득 이벤트
-미션 달성시 ped die 므크0
-MOM MOK
-```
-
-### image 40
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_190527_image.png
-- file: research/images/2026_live05_248839_40_2dcc798d52.png
-- size: 372x356
-- sha256: 2dcc798d52ebb11c82a25ad34364079edbfa17c716066c1dad54e9e898174963
-```text
-크리스마스 기념 토큰 (2024년)
-50.000
-크리스마스 기념 토큰 (2025년)
-50.000
-크리스마스 트리 (2024년)
-500.000
-크리스마스 트리 (2025년)
-500.000
-한가위 복주머니 (2024년)
-500.000
-한가위 복주머니 (2025년)
-500.000
-한가위 송편 (2024년)
-50.000
-한가위 송편 (2025년)
-50.000
-```
-
-### image 41
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180154_image.jpeg
-- file: research/images/2026_live05_248839_41_48215ac75a.jpg
-- size: 1845x2048
-- sha256: 48215ac75af033dd0c9a33c745ad116bb59fca7769da69802f98cdcb60c86bca
-```text
-—
-— —_——
-0
-0
-—
-— ~
-—"
-——
-————————
-은은
-———
-———
-—————
-보상 리스트
-실시간 매치 친선 경기
-332] 승리
-×100
-22222
-=|
-실시간 매치 친선 경기
-5회 승리
-—_——
-단계
-x100
-실시간 매치 친선 경기
-10회 승리
-단계
-×100
-.
-실시간 매치 친선 경기
-20회 승리
-단계
-×100
-*
-실시간 매치 친선 경기
-단계
-30회 승리
-×100
-실시간 매치 친선 경기
-40회 승리
-단계
-×100
-(를
-=
-a
-—=
-—
-—
-— —
-SS
-——
-```
-
-### image 42
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180200_image.jpeg
-- file: research/images/2026_live05_248839_42_7bd1c0c120.jpg
-- size: 1845x2048
-- sha256: 7bd1c0c120eabf25093c84345040b728986d4e5bd45f94cf76652c6b3ea11158
-```text
-—
-— ~
-—"
-——
-————————
-은은
-———
-—————
-보상 리스트
-실시간 매치 친선 경기
-39] 패배
-x90
-22222
-실시간 매치 친선 경기
-5외 패배
-—_——
-단계
-x90
-실시간 매치 친선 경기
-10회 패배
-단계
-x90
-_
-실시간 매치 친선 경기
-20회 패배
-단계
-x50
-*
-실시간 매치 친선 경기
-30회 패배
-단계
-x90
-실시간 매치 친선 경기
-403] 패배
-단계
-x90
-(를
-a
-—=
-—
-—
-— —
-SS
-——
-```
-
-### image 43
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180206_image.jpeg
-- file: research/images/2026_live05_248839_43_2ae5bf307a.jpg
-- size: 1845x2048
-- sha256: 2ae5bf307afea7375f54101d96db9c9666b6e983205a49d46c1a718be7987754
-```text
-—
-— —_——
-0
-0
-—
-— ~
-—"
-——
-————————
-은은
-———
-———
-—————
-보상 리스트
-실시간 매치 친선 경기
-삼진 3회
-×100
-22222
-실시간 매치 친선 경기
-=|
-삼진 53
-—_——
-단계
-x100
-실시간 매치 친선 경기
-단계
-삼진 10회
-×100
-.
-실시간 매치 친선 경기
-삼진 15회
-단계
-×100
-*
-실시간 매치 친선 경기
-삼진 20회
-단계
-×100
-실시간 매치
-치서 겨
-ro
-기
-삼진 25회
-단계
-×100
-(를
-=
-a
-—=
-—
-—
-— —
-SS
-——
-```
-
-### image 44
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180210_image.jpeg
-- file: research/images/2026_live05_248839_44_8678eaa08b.jpg
-- size: 1845x2048
-- sha256: 8678eaa08bf628166f822727297a1aae405a51c3746c38824a09717cb3b0a387
-```text
-—
-— —_——
-0
-0
-—
-— ~
-—"
-——
-————————
-은은
-———
-———
-—————
-보상 리스트
-실시간 매치 친선 경기
-홈런 3회
-×100
-22222
-실시간 매치 친선 경기
-=|
-홈런 5회
-—_——
-단계
-x100
-실시간 매치 친선 경기
-단계
-홈런 10회
-×100
-.
-실시간 매치 친선 경기
-홈런 15회
-단계
-×100
-*
-실시간 매치 친선 경기
-홈런 20회
-단계
-×100
-실시간 매치
-치서 겨
-ㄴㄴ
-기
-홈런 25회
-단계
-×100
-(를
-=
-a
-—=
-—
-—
-— —
-SS
-——
-```
-
-### image 45
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180217_image.jpeg
-- file: research/images/2026_live05_248839_45_68db18a0eb.jpg
-- size: 1845x2048
-- sha256: 68db18a0eb1c19f1b3f23183a339c07d8b089f4feab320593cb33af50367e952
-```text
-=
-——
-—
-고
-——
-—— ==
-_
-—
-= —— 구
-—_e
-0
-—
-———
-——— =
-—
-——
-—_—
-보상 리스트
-친선 경기 3회 도전
-Dot
-100
-1
-=
-0 ~
-=
-친선 경기 10회 도전
-we
-단계
-×100
-al
-i=
-다
-치서 겨
-ㄴㄴ Oo
-기 30회 도전
-IB
-ha
-we
-단계
-100
-!
-!
-| |
-|
-ul
-친선 경기 60회 도전
-11
-Dat
-내
-단계
-ㅣ
-a
-a
-100
-_ =
-다
-I
-|
-치서 74
-내
-ㄴㄴ oO
-기 100회 도전
-> ot
-i
-단계
-f |
-×100
-all
-(i
-|
-if)
-I
-!
-il
-i
-if |
-대
-시 |
-| 를
-i
-i
-——
-——— —————
-_ _
-—
-———
-—
-——
-—_—— —
-으으"
-```
-
-### image 46
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180245_image.png
-- file: research/images/2026_live05_248839_46_fc3159a993.png
-- size: 2007x2007
-- sha256: fc3159a993da2086acc6414320afed3acc590342cf89ae5c7ecc977d11713398
-```text
-^ ee
-2 ics) ROIs - sid)
-^; Rh TG Oot cece eels Pre)
-Z| tet a
-7 if 7; 및 Maes t 0 ie =
-{ 4 § 00,7 0000 ~<
-~ } i rf a Beets th 40101 UES AY 년
-^ f i} i} Ss DS dei itt ean Y —
-- 7 if i} 1 # ; iy CS
-~ ih 6 / 4 34 . , 10808 : A} \ SS
-7 7/ 12]: i} ip 22 ] \
-~ “fed / | i ms fp a | ~ i y 1 1 ry
-~ > 』 T q | ~ 3 ae 11 | \s
-~ < if i | a i eed | Hee i ^. .… | | | 을
-/ 「 q | . 2 % oO \
-~, VA 1%^| | bes, el = | es |
-VA i} af Tt { 7 5 mnogo 가, | \ sens oS
-^ fT if f if ? > } eT * + 1 들 ~
-Yon | { i jb a | ] ; : | tes} sss
-ny if | 1 1 ie | ol eee i 내. | 1s
-Leff 2 1 aed | ; ： 4 ~ i ㅣ (aN 4 P< | 1 SS
-=; fey) maar i] | ~ 1; 중 Ne i ” \ 1 | oS
-f Y ef hg | ~ { 1 E ~ eee exe” = ㅣ 『「 ] 1) +} ~
-M7, 6 084 / if i bee 2 1 가 Wee 「 } oi F 을 | 1 PASS
-242 2 NY Ng 사아 시 ores 6 a de IPSS AS
-Wh 2 << 0 eae 24 tof iy / / 00, ig 0 Wea Sl Peace Pa, | ' i = i\ >
-|) i fe ~ 47. ey / ie i rT iLL” 4 1 A | ae ete : ! oa . ~~
-// f A 4 ie 80) | ~ ee Wee ec pe ie 을 Ses \
-Y a, SISSY 0 (a Res, | ~ G 22 Lot isha ake 개 Saat We at ae . 7 St 4 bs \
-| ema ri ny fe i ie ey « ‘ae | Can tig 5. 1 ee 애사 아자” ee: ae } ㅣ i tae Be” | 13% NN
-Wf} ¥ PN ae 2001 애호 seed | 호 fesse posed Feces} Fel 668 Pee
-/ PN 246 2228 서시 ~ 수스 ite | Seecend foes | = ㅣ SS peta hse Were =X
-4202 Sey {OSS aes 2 오게 <“ 조서 2 을 아게 ‘ae tata kes ght 쏘지 eet baton Io reed RRS 소스 = AN
-in ed ee on See 0 fs 4 000 < 024 poe aed fee, 소서 아이소 오 ene at a 기 는 Se + 도보 ‘Kg So Wak. |
-Aff fs! 7 1A Vance 2 ~ eee omy 주 tenets as By Sad Sede Nats oN \
-0000 고래 RS. 에 1 08 PEE 1 기 fae S55) ea 읍 Sacked Pats a 도 - wet SSN Os SoA GAN Soo SN
-20600 eas . ! AE a [수 61 Meee (og cere mmc poate ; rod feos NN pica PASS 바시 ees Lo
-개 fe ~<a "그 pA! Fate em 20 Bete am. Rae ee: a te ee mete: eal 개 gta 내" Soe fa gig" = Pa eaten SN
-= fe ~ es ; SS 7 Pete 92 수 베어 eee a4 | 것 대게 개어 버버 부수 bass te =| ey eee eR ^ SSeS
-20087 foes ~- a ee ee Kees 20520, ~, ee ore ata bee aia iy 가 es NS (ater Seat
-「 fe foo '' ~ Races] ites ~ ~ 어구 < SO eeeatierd [< Soy Ee | eee 니스 일 2 NSN
-J (an = | 0 이 Se aca 자자 즈 20 즈수도 버버 [ecetenctd 지지 아른 002 —\ Nay
-> Sten } 개 아성 도우 이겨 그 a eee Socata! | eae mal he 1 ^ 수스 언 aN
-fi 7706, | re eee Tanta 사시 Pataca) t 0 ^ pat) bee " AS Vie coon 22 따이 |
-4 -- ㆍ Ma st; 6 het 비바 호 | 지조 주스 오오 을 자 우게 오어] 에 과 BN h 세개 penne \\
-re If ea, . Bets" | Sits tia 02 manned be Setar Reason te! fatter aS 'h ee See 고
-< Seen Fes « ~ : 으시고 “< ~ oe me 새어 자 카어 x ata a Oe ee ee VAS os Sere Ye:
-< Soa > 내 0 성보 200 = ae ae osetia State, eee aoe a hi Wer <8 Voc 02 \: ss
-/ V ona 소구 >. : 터스 4 ae! 수아 별걸 ee 베바 버버 명 개 q ard jek 님 “~ 수 eS 2
-Pas / forma pn If ’ |. . 0 서어 구시 00 오사 아도이 돈스서시이 bear 2 PP me NON os Severe Naas
-Dp fa LaF = 4 0) 202 어서 서서 [조조 소서 가사 개체 [~ ara ed eases bs = pe ~ 들 Sere
-el {<i fF = OAT) 77 사사 fb a ee <] Batt" o ae 소오 에 ac? ac? at “oi ify. SoS 아래아 다다오
-^ =< [ey ~ 00117) Pate 0 26 시 Mateus ~ ee tee eee, en BS 「 7 aves 、\
-Lf {Sa SS NEA eee 000 RA 늘어 어도 02 이 bee cacti Contacte! Bee “| | ae 0 ees 아오
-23222 ie ~~ 10000) 4 (0 aie Pee |. 0 기소 GGG ee tant? 가 BS 보즈 00 ~ <
-~ 소오 ~ 7000) 77 eee 3603 Lee 속속 Sees eens 조차 보바 보바 수 Sy ry ay ¥ = 3230 =
-i ca SS ： 007 Ui iad Weert estatata [다오 지시저 가 64 더 거구 es 시 peed ' s ^ see
-<< > i ite ee ~ 별 체조 가오 오오 오기 | 구애 La ay ee ern, » See 2
-~ fe Sey 시 : He (~ ay ee ee eet) Peta ye oy Pore, soar 호가 소오 7” 토즈 제조 Cee 보오 고 4 en Vai ape
-= See : 00107. 60205 사오 10 aod 지스 See] [eed be ete ate med [ae Cad (스스 gy ae Ne ~
-aS 802 i) 0000 COE Lee Reatatetd paces 4 Paget > mm treed ete “a NENG \
-(~ 0 “ Ny Oem Paes gd ft, eel eee, ee] be 28 aaa a 호 오오 a | ~, 0 a ^ pee.
-(= - 0 . 10001... heey bth Seat Joeceece) feces 시 Gee SEY SOP Roa Bs ae Z 2 한
-~<S : ie 10000 으으 세스 가 소거 pe etere) (ieee 서서 ta cence Pesceee 개사 - ; 2200 00
-= oe 써| 는 000 RAGA Uae 제 eee | 00303 Pe 4-2-4 제 Lee Coxe a” Pe ae ere ple aA 09 내 ^ Besos, Wooo =>
-= Bh | 0. iti ee Reece cht bet, 그 4 pe te.) Fe foarte Peseta bee ed Moe ay 1 [0 1 PS ‘Stee Sores >, \
-~ ay) 10000 Cares Bk Ret stats Mal fave Se] ces aT eee eee ed be 소자 be aac Be 기 00 일 ‘hy Lon eae en: 3)
-oY), 000 0007) 아아아 어겨 하 오오오 도어 feck = bo Sacesa ear ted fe eed Pee CES) PA Why Ab fy ‘ff ~ ^, ~ N
-도 “ ff 00000 너티 아아버 feted 6060 < 0 [ee etd Reseed He 24 BEE 년 ate [소나 0006 eh Has 4 ~ 스스 0010: >
-~ Rn Hii Bey faceted (e:« ated 턴접전적지 fe 개 Src |전선선전 ee Seed 2990 Nope 내 A Z ^ NSN
-7 / | Hy Hii Veena eet |: Ta Se Benes, a me 수 ooo aay Dees { \ 호 ~ = “\
-' <Y 000 4) ees Rae ad eee) bee me] foe bee <a) bee nd Peed Pee aod 17084 008 1 4! 4 ~ > ~ 12
-지자 기 | 0 iia aed fi 아소 오제 [> Satan! i eee ae be 사어 SY ry eS att ee ree) 이 iy, i 224 ' is \7
-al \\ih vi 2 oe 바오 오이 Metre Petes 4 basecece) fess 내게 Kcacaes Satta a RS 0000 ‘by tf 와 eee So
-i My of, Seay se ee reo <] ete 4 eee De ex 24 (~ a) ke eed bees ed fete iy 4 ) 49 ; 222 ue o
-i) A i, has 74 betas mca Bee) asee a Neen esa Say Curate! xn) eee hi i ^ s Ve ster
-1 ace nae SSS SSIES pesca Hace bees paced cece Reel Hag % Nis _
-10700 ke peeks 소노 SS re a 흠점시 tte. PP BR, eee) Kee AN 나 To" 7
-| | ee Rigel Pty ee b eee] See Rata cee ee] [< ee! Che bee fy Pettit 노어 041 | » Wee ~
-(00080 만 satay Perce [0 Ee eS Sharer NGS Ls 저울 oo By Kak BN) fh 년 JS
-Vy el Ay toes eaten [tote eee | Eee REN (eats 자 10004 fame WN iN} ope
-17 a esas Patsy eee 제저 eee 4 be 2G) bf Care [기게 게이 a 6 ae eee 기무라 Ne ON) Ph ——
-00 008 1 | Bed Bhs. ta te ~. Sat) fw Set] pt 석조 Re te tty + 오오 a> Seca Tighten ty wate 암반 i) ny
-1) Oe {bn 4 fs tig tg oye Pee. m4 kee go =. aa a aa ale bee ee a 호“ ae 시 i Ny
-0000 ioe cae ka ae pee See 11 오오오 주지 meen hi aN)
-| ) Ge 가 가도 " ee 44 “ss % <x ae ea ~ By kh BAY 1
-1 a NONSENSE icici ie Maca ee) 뽑 도 가 가 개 he 조고 6 아아 자 나니 RAY (1)
-10) Oats Patera eS, Se Par ss Sa mS fee ad = a 나니 자일 기 투니 pi i
-\ 0) aaah pannatcs Pao a Pe Beart Sa 1 ~ 노소 a) ees Sane fh i i ah i
-My i Bice tia Bh atte ae Ee wn Seievesen faced Reena pete ~ > enh 내 [개
-) 산서 이도 SOG bia re 주재자 Serra SY See De, tt eek Be PN NN i}
-H ay Oe Bee a 9603 3 Rn hanced pee 사사 a a Bees WAN \\
-| HA PS Y oy 4-6-4 oe a 4 Be Cee Sead beeen bead Bavea mA hs \\
-4 4 erat Foes 엉 Smee Meee ed fe a i Say peed eee 6 불도 ee Bch ] |
-004 00000 aati ict ata pastes 가노] 0 로 bitty Baia] pea ere By |
-hi iit ieee 000 pints Reset SS be See Nata 터즈 peel baa bee 022 11
-0000 0000 itt 노기 기 te 도, ee Sigg aa eee Ke peated Pa Seed ©;
-OE 10008 4 10 「 아오이 fete te ce 1 fee tenes 아자 글 오우 수여 SN reas eas 0004 <: |
-000 700 2 Tit ae a faeces 가 en te 가 아아 오이 Parad Paces 도 세
-WO ld Baan i (eee Tata tat ie at 52” penne tes ited Pace er §)\\ |
-(1100 100] te 2 Rae md [otctc te Re 어| 아 rarer rs Bes peak peed Eiae aoa &)\\
-Se 072 105 bitte feces ned face tata crac ace Secale aed Pac aed Gea 1
-기 7) 7000 2 후우 영 eee) Ne ~ ~ fee 6. eS et hee Maa 20 i a ~ ~ 보내
-My Wi [7009 가 스터 a pate |: «tae 도계 FA aa cme re 소소 소가 Rea 내
-i) | 70204 eet ese ane ae eee ene Kee ma tte < Saw Be eta 소지 BN \
-100 ony 004 시조 pee 760 차 제 Rectetatal 아스 ey eee 6020 eed Pees Sees B\
-(| 1 10000 0901 아수 이 가게 가 게이 eee 기 2086 사조 가서 바그 at 시 ea 오어 0:
-HAI ih (0000 Leptin Pierre Ree Ka ete td be Sete | tgs Sa ee 도 우고 사아 Oe ie BA \
-40000 4 아오이 raat 바소 소자하 Fes 도 서저시수겨 ceo Ea Wee, Ratan, Pea BN i
-7 0088 224 158 a 소서노 노루 ~ 주세 ae Gitte Ciel Reed eee oo eA
-|W Wein Pair Via Sed te 저서 디가 bo een Stee Sear Br Me re ae 고즈 ON
-|) tats 01 pe Ried feed | Be ceca te <a meee <x 그 pe | Ree 난도 2 ee RN
-i if Cte oe 후 오서 eee ee po 4S at “~ 수 소수 이 이 오노 제 Rg oo eet 년
-0 0088 006 소서 시자 SN “naa, £5 Pa ee, ae 도개 beaten oN
-Ay Ce I MR 조수 er oe = ~ 06” 제 제 자아 CN FRE pide 0006
-(Ue 000 [02 부이 Sa a x x 제 소조 Fan 6 iy 0 022 SON 내
-00000 istry peat Seed facets Sed Rocca) (cx ace 자 노스 Sean iene Vets Danae BAS |i
-11) 1 PEE 1064 = Sect 토스 스소지자 fs Sad fsesoses [oes es eee eed 스어 ioe
-109 Vigne ties oo tate wee gy bir ths ee test ee ×“*. * > … 라기 그 자 eh "6 < Pa 는
-100 ee red pote ay het, pete be esas Saeed Se peed Vinee, 고 떠나
-1) 24 0002 Fiera Ix 아아 이 ac 이지. Saeed eee bee ae Sy ex 2 Bo
-Wis 060 0 ite 수 ee, 소소 소자 Feces 사열 오도 수수수 Hes en 을 구아 ead eae eed Uae i
-70209 apt BN Ree] Seta sese: picasa becca ea eee ae \eneeaes 24 (00099 Panik 넌
-|) 1) ~ eee I XS 지지 ei ~ 후조 토제 Ne) 수 제 제오 th LEE, 02 1 Wa &
-Wh Pe 72064 aay 으수 Rescsetetd occas 사오 - E Sg tts 이 bene Veen bao a 8
-| 02) [eae PREY Je oe ee Ratatat f° ce Se ey eee eee) aon ices 04 000 \
-fe ite, Fhe ate 스지 지즈 별: See. a anata 조제 ¥_%- "자 기 pce ee Vee ty eet Ra teh TY
-snd 0 시시오 주 수 세 구겨 pases eres ~ 주조 주 =o ~ 소계 He Se se ths ite 아어 ae Rios a
-ri Feet ales 세 수 수 기 주재 주 재주 ~ 주 " a ae 이 오- 고가 사개 [소조 조2 teem ee > Kies os
-(ae 도수 ata 제소 주재 기추 ~ 개제 See 0 ~ 사기 terrace [x ee 가 eee 1
-Rey Red ees Fas ees Sle lela”
-“= ae Tia ae a 1 6 ~ 포어 < 6.8 7백 re 고 Be EN 도 ‘ ^
-eRe Ml aries eee Seite ge -
-weateel Rete asa pall
-i ee a ' :
-Die
-4 1 1a:
-baa:
-Bod Hay, :
-RO 06913
-iy Hib
-96700
-00062 08
-fer tes a
-A OEP ee 스스 카마 =
-tia = SSS ee <
-ee SS 4: ee ail
-될 0 =e SSS ————
-= —————— = SSS ne SS x : any
-= ee SS SSS AN AA
-7 드나 내 ASS a) AN
-aa SNA 기
-```
-
-### image 47
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180251_image.png
-- file: research/images/2026_live05_248839_47_60210b58d7.png
-- size: 2007x2007
-- sha256: 60210b58d7a5cabaad7ba50a01bbbc115bbd74c258fa52361a1fe162c35f3565
-```text
-> cn = 00
-a Wiig Tin een 0 BAS
-^: He. | Ma
-LPL i] PS 7 ST OMOME A Ite ie) Uy7 2 00
-Ze ~ 6 02) uct Sie it | 00800 A 2
-^ a Meet ieven | 1 (20826 ~~ ~
-~ 0 10. | 바이 RSA LR La. ~ 아스
-we . ws > 이 SOURS phe = 3 - “SS
-YZ ~ = ~ ~ 0080961000008000690000000 ： . SS
-~ ~ pore ~ ee on EUs n [니버 . i =, ~
-~ a Z FG ao , mes 비애 Mey 고 = =
-~ 『 Ss a * “00 = a _ … ~ 자
-~ - 가 "A a, - eg (제 ~ — ~
-Attn «P= ~ ae ~ “ne Cin ee See ~ SS
-if 90 Me PORE CR SS. . SSS
-247 MEE hin, | Aer a 다나“ wr ~<a. WSs.
-220 Ly.” nl ee ^ ~ ©) me __ ~ - 때 ~ 6
-^ ~ . Z 4 “ep . ee … ~ 때 — . eo >. 랑애아아아아
-~ ^ ^ ~ ~ 2, SSS
-ine ae 8 hp PM 6 ake ~ wa 00000 00000
-2 ^ ^ By "GR ie Os ee ¥ 고 세스 ace Ye, “SS 2
-~ Hm ~ 개 -~ 다 ~ 소스 스스
-어가 pa ee a 이 TE <i, ‘ 내 72 a Sao SE Se,
-Leis LO hn : ~ bi ca 기 == Sea. Aine 서 00600
-2 1” sal 20 ~” 숨지 . ; f ee . < aah ARN rN
-> “> ~ ~ & i lal ne ~& P| he Ne oy eee Boone
-ON GL, ee A , se emt ne 고 Ct ae TR estes
-Lee 1 ane icy I ^ ~ a : eR SSR 3S, - eee NS
-1” 보수 에아수 250 2 0 「 ~ — ~ < gE» a 개 oN. Ree
-Eee te " “fas ~ 0 ~ 4, 가 ~ 인재 nay [ Se Reet et ean
-6: -- : if ^ Sid 2 a, 개 aS ee ees a VO ae ME \ een ae ee
-cap 8 pec ie elie Mi Bs te ~ ae Wa Soo eR Bree
-~ …--……- ia Uh ,” er Le ~ ag | . ㅣ 209 AN es rr SN
-40200 008 : ^ ~ ~ 1 % ~ ~ 2 a 1 2590
-FB : 4 | 02 전 — . es ~ “ . 내 : Sees
-~ ~ , ey ~ — = 아내 오이
-^ . q sr | i | _— j 2 peetertecn.
-ca > ; re | oa by Z ceperserc
-foi cst < A Tags " 6 3 ae ; 0 10005
-rat > Os ee \. “ i “ 다
-| Ser 내 는 0 1 : 수지 7 a : / 고 saeeeercescisi-
-" on" 노 ~, 인 ; 「 7, e a wy 사사
-20000: 냈 \! oe J | i | y Ze ^
-A>: 00008 y ’ 「 } ' sen =< en
-ee ive ‘ ae FE. a i 4 J ' ese
-. ASS \ ey Rd . : 마아
-les ~ ; 5 5 hike 4 t eat 4 je ： ” 4 paren == Tate
-6 i \ | ' wy ‘ a ZL 0000
-Bee = : by ‘ Pikes ——— ig : 00000
-Ben , ‘ ae Bee's’, Beat a ' 2 Z Fenn nn
-Sas i vl a 타도 00 " . . 을 다 j ： 제 02300
-ronan i Be us Py Saat 점전 ot \ Saf Pa XS ear > 0 a 2
-~ ee s 7. oh By ¢ = - } 4 세 52
-개 y Sha gat: : 8 - tise ~ ~ 시 000 - 사스
-'/ 주. 시 e sa ~~. x wy " oon tf ag
-= Yaw ~ 아이소 , . , 0800 그이 지시 “ 0000 al ~
-0, 4 ea 우애 in, ※ £ a ee eo q Vn hpi
-Se mA |. Fy ye 대 "~: a Ae p 3, mg. MM Wee
-SS 24 Ae ~” 「 자 gee ~ 2 17 Ot 00001
-~“S de WP ~ 고 Rs ; % Be ee het ONS
-0 00 ~ SS 게 OP Pecan 고 | eg Wh BEAN ‘ “
-~ ae mee" ~ ee oy ee 4 ~ 에 ) Wes é
-SS [ inne "00 4 to ; ee : ie. % maa hy ㅣ a % 60 wt, y oH > =
-~y \ ~ 호. 개 7. to tn’ 재아 43 ~ 4 고개 = - Sing i el
-mr ~ am Ye ag 0. 서자 3 대 | 때 타시
-오구 고 a 수 이서구 이 스바 ㅣ
-개 Mh Wis, Aa ~ 대사 ee J «3 me ¢ Weg he on ~ iy
-Wr ORR, ek dng te me eee ee : . ‘Nh
-bike, 0 200 ~ 소스 ey Oe KARL oF | ^ S 너티
-. . 때 cS 4 로 비게 2 ~ 년 ， / :
-) ae ae NS ah Hate 1
-Wnt 0000 0. 0 Re a 반수 1 ane aah mah Ni
-eg Ns SR es x ^ 널 이시 스기 가, SPE ANNAN
-/ 이. here ~" . " 리 ak Ott
-00 HA 가시기 ~ 시나 *. eX : ~ 오수 < RNY 1
-00007 > 6 시 추세 2 ee 수 내... 2 ~ 년 00000) |
-세 A i sels ~ a 2 oe 이 oe 0 ~ ~ 고 구구어 2 AN
-re # 에 a a , all 제 . de 2 we
-/ 0. ^ es - a A
-7000 “a 오 3 " ~ 러 해 Na
-pay . te Ra | ~. “…~. ' 0 ae A
-a, 4 도 자기 보세 oa ee eet ANN
-A 0) ‘ 는 그 ee, ~ < x ree “4 … RN WN
-By . aa ~~ . : SO
-1 고 vex fe 2 «45a ~ 0 니배베게이
-AAR OS nie ; ASE ae. ae a. * PAS PNY
-~. Ae - we Beer ~ ; BY
-、 그 도 60 5 a ¥ a Se Pee 고 - 〉 Di
-a a on ee. ee PA am. \
-dy * ; iene ‘ Pow ~ . i 후소 > és 00
-* 도 ate Sas . 인 아오이 … 4 ~
-Wwe - 기시 Sie 이 : 0 0 |
-개 ak, ‘ Pee 6 가스 ~ -33치 SLE |
-(NG 03 < . * re ee ~ 20
-eu ogi Ss eee 2 ~ = ee ea mY) |
-| ait "^ ^ ~ ~ Se a ee - 0 00 |
-7 ‘ AS i a 개 2 1 #y Sd Kon @ a) | ||
-, a Cee faa 5 SE oe OS a Arana eee | |
-Va 고 ea 홀 Pn SP one ncn nae x aes Oe oe ge Seana |
-1, 시 조여 «eae ~ Ag 개 ae 5 Sie ne gee ae cated” Aline” «| Sahn
-0 i kee . 우기 ~“ £ te 226 ^”
-00000 0000 ar , ~ ^ 사스.
-~ me ~ PE: BS aad 때
-77. ge a ees ~ . eh 으시 Oe eee BY
-Nady’ /. , a > ~ 의 ^“ <3 0” 기 WR
-0000 0 © aa ea ie ee ee Ra
-시 > ~ ㆍ ~ 고 ane oe 내밀
-도 -~ 가 ~ Le =< a : 7 ㄱ 르 f
-00000 Wey, 5, ea agri . has 책 ~ 20
-000 < s a ~ ㆍ .
-00006. ~. - |. : "le ~ Oi ~ 산시 dy mt)
-0 RO ,존 ey a = "ㆍ ap is ee eit Dy)
-/ 0" < 수 리 ie. TY 이 7 TAN
-\ AE Dice a en Se Sa a Me x
-iis, Ma. eae ee oe aan a
-Me ne, aS aes ee ee ~, 내
-i. 01 Rn ates eo ae te en OG 도
-i ie, te 00 » Se ai 호 Agee eae 서서
-0” 22200 . ae . © eee, af, ’
-Wi 00 igi A Aah 행 ~ oF ae ; <. oS,
-2. 오사 해 » - sees hcl = 나 . gee ~ ~ is
-NOP TORI i ~ ~ ~ = xe oe rs Mes ㆍ
-CL ae Ses Po ge ae pe eae 오000 peed
-% 0 , 000 ~ = ™~ Sn * aah oe fe 허수 ~ " sae it Se ag Sars ghee oN " ©
-ihe. iets Le 5 더 " se? - 년 나아 고“ 수 고제 Be 7 ‘ons so. 2% 1 내
-6. ^. ~ Se 0 개 : ~ eae apie
-MO ~ . 『 tbs a . ar
-0: 책 es PO ates ais
-Cae ae ee See ee Mi (ai
-~ Se 을 0. . ~ ~ ~ ~ ㆍ
-때 내여 `, ` , - ca 에 호 고 38 —% ~
-Me, ee ie Mee ‘ag aaa
-a en Ge se eee “. ,
-가 aaa cag a, hg es ee ‘cae
-ae, ~ a= ~
-다 et es
-at ~. 0
-se 9 00000 00
-Sas ee -- eee
-PEE eS ae a EE gh
-사수 Se ee
-— 0 —— Sg et ae oF
-ee Ee =
-EE ECE IEE ELI 때”
-a aE A a icons Nok cg wef eerie se thes ee ene 아자이 아아 Tsuen aca Le ee 00 SA
-OLLI a SSS 기0
-스스 스즈 수스 으으 스즈 으으 쓰나
-```
-
-### image 48
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180257_image.png
-- file: research/images/2026_live05_248839_48_1533d7bd16.png
-- size: 2007x2007
-- sha256: 1533d7bd169a630396114b1a8e2272b3331408278d94dff6b6a7ba8eb03ad195
-```text
-ree is
-~ 000
-Vas: i 00
-~ 00 ae | et
-i VR EM IRE rs os ree RY di \
-é asec: Wis ar 7 ROU yl) ¢
-a ATi STA ay BANE 001 04
-eH AOU ea CUE a
-x PASS) ee Lisi NS
-x : 02 90000 SHRINE y J 시
-시 omen: /. SC CN 0
-‘ aH} 3s
-NY Aes ¢ a H bee i oF 이 시토 } my
-Eas ILA OE SB We”
-lax
-j \. a
-f -% -- 책
-enn nN
-ign =,
-서어 ;
-ssa
-‘aed ,
-/ Cs : 44
-if S24 20
-/ Se ei
-{7 : ‘ 5 년
-rn Se = ‘ 스리 ; 년
-1 0 년 eee as ' + ~ \
-1B rR Wk: ‘ 로 0
-Corea ~ a 00038
-‘Sige ~-- 된 ; 0 아아 아이
-1 SSeS ~ 4 lia ~ 가이
-SASS y = fe ' he : peers
-: 0 . . Jd ; Wi / 바시
-0 안니 나 \ ^ “3 _ He ' y 버저
-: Soe SSR A ANS \ , a i, ae 고 건
-틀어 am Vane J - o 'f = ee ee Ip sf e 앙아아이
-hose Se Vs a. — ~ ; el " 26 7//< =: 방사
-Be ae SY Vay | 4 pete | C Cig, eee
-'- << eh ~ Ys 1. 쓰= 「 1 Le MS ite, nl ae
-- 02 LRG 1 ㅣ ; 1, | 을" 0“ 2 a
->> 여 X ee : j 로 《 I i 고즈 / >; pe ~ ~ ,
-et 0 | ; Be! i ㅣ | oie : ( Bel Seer Ss ^ 1
-이 여러 는 호타 | ! 이 ㅣ | , 낼 ㅣ | 을 Sana} f | /. 4 : “
-a : Son yoy | 20600 ㅣ, 보기 : Wi | . i / Siercy 2 A
-~~" <= So iy fas) ee | Sateen = Vn fe A:
-~ 소아 도 ono { om Ne | wf ’ Fs — [ VF ao 22 /) $e 6
-x. ~ AS N ‘i fo 2 Fd f i 개]. = / ie) “~ yon
-< we Sy ee ae i 소기 수 에그 fo | ins f Ve ~ ~ ^ <
-- > = 년 >") | ~& SS Ces ly Siew! _ i i) ie tipper ~” »
-- ^" SS x 가 이 내 1 = ay ; ie 22 ~, ^ :
-~ SS S " ( 10 4 2. y
-Sore S SS NSH = NUN fat! eens 7 sf Z
-SSS Ye LS eS i! ai OG MR <n bps n
-Laan SS SS ™ ㅣ | ' ㅣ ‘ Ze cn id <
-<< SN SS 〉 0007, ” ^ ss !, ：
-Sa SY SSN { j | 72062, ^ ae Z
-SS S BB ee SE eg Pee | IE oe “
-“SS : 1 70077 eo hp 2 ee a
-: ~ 6 700) 2 - 240
-= Se . =, if ; AA - 27002 -
-= ~~ ; i 인 0.
-~ / 4 i Ne = Ae 고
-~ +) i pats 나 ates
-> DEN Sei iz
-if | 을 ) SAN
-0000 ““ , ne
-ee Ae. +s i
-i
-: |
-스스 2 000
-ae Se es aS
-Re te ee
-5 ae eee a
-< = Pe 느슨 TS re ey 구사 년 4
-Sacer mg ce 수고스 사사개 스사우스
-ee ae 2 Sass Na cee me 20. 스1 ios
-5 ig SES re ae ec CE BT Bee S2
-I TR a OETA 은 으랑아 =e
-Se sep =
-ee eee
-ei: ^ 재연 다다오 Se aE 「 ; : s |
-NO | Mig mE NS i 2c i gc a i RI Onc ce ee SAS ISN
-WEG, BR aa nt ee OTE arp cag ree SS SESE SN
-VEST NS 00 INO ee SSS
-OL A CoE OOO yee ING 01 0
-```
-
-### image 49
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180302_image.png
-- file: research/images/2026_live05_248839_49_9e3a4d1aa4.png
-- size: 2007x2007
-- sha256: 9e3a4d1aa4e319ce211f4a784a36d40987cc63c341dd20956299c3584394ccbf
-```text
-wid i]
-: ————— 조.
-시 Nie Wed nt | {] ) @
-Se ee ASIN A Lice) "^
-2 SIGN Bebe is thal ivi 1i} 1) |) pastor See
-7 다 00000000혜 OS ,
-< ae i Seen arenes 개 See
-5 i ~ : = Ieee eee ees aE
-^ 시 ALN IE a ts Sage Ne Re - Sey eR Sr
-Cd tik gM ~. 아아아 아루 ae 고 조소 =~
-SPI Pay AI oe ee "PG I LAPP AD IGA 시 가, 0 fe a ee <M ae 에 eat NN. Sa
-< IAAI IOPAT 5 ^ A MSGS gad ta ff = ~ tie 아오 edhe ey AN PO. ne Seer Ses
-Lig II Te 600 아오 이어 바바 pened 사이어인 epee ease aie 0 -폭~ -
-< I 02 ae ~ 사어 eS” 어나 나가오 오지 00000 내 ate
-스스. 해“ … | IM pi ggg gh og 시 tte sgh ign eee SN 개 2 나
-^ ~ 이 ea a 가이드 See ee Se
-22: ~, 노사, Acie Sn gt gM 베바 age. > Fhe gate EN ae ENE a ease Le ee
-OGM EME tA LAMA tg I ht Vie ^ eae ated Led at on ~ 으아 이아 eS Ses Se
-SY I, AIS, DEG 7” 뻐스 inte et 이 보오 자게 고 .- See eS Seen See a aN
-22 ESI tA EGER ee ge i a IPOS ee SNE ee oe LN
-1. 20 서서 GA ELLY RRS 9 고어 Pie 바자 » ee PT 아게 제 시가 세 시가. 이사직 제 에 어자오버 서보 비조 age ee ee <a
-시 722. ~ 0” Pht! co ata ara < Sane canciones a ee a” «tN rer oN
-이... 2 LAI ol PPP INI ~ Pn de Pe dd dN NM ae ‘. htt: SaaS Ne a, AN OS tae SSN
-시 1, SPIRE GE DEOL A SAPO a, ~ EE nen NS Ne MNS RT 08
-: ep ge. 2222 2 주 소소 eee 바이어 Sa 아아아 겨 이아
-en EE Oe: i ae OE Nel ee eR aa RR 5 eee Nem reese nen ON
-엇세: 2. 2202 ~ 000 수 Sees Piet 오우 서5 Meteo ht coer SS,
-가 LE EA 시시 FL ADE 1 tt iar MPa nist ce tate =] eR Cie ean
-영어 A GI: STGP GDP LPI Lg Ig 조스 소고 제 버버 GN 새자 " a MnN NG NR este am
-0 2 ~ 20060 28 BR a Me ae Rn “" See aN
-EELS Via 052. . 00022 ~ CEES Le ear ea nat aed fos" eee Mot ': ican ae aa
-AOD Ils’. Jaane," ty / 가 ig RP as eo ee ee ed 그 0 배아 1) Seaton on eee }
-rl nnn 00 4 fd eg gig [ate Seem ; poe Stee "nae oe tee
-~ 아이 1 개 ~ 00 = | ) me ie Scot aie tec cana we ey ps oo 년
-i, aie 열애 LEE EE Gig tee 20 Ra ee Moe le ee bo 차 ' NS ~ 태아 아아
-J 9 lang > 아구 ^ ~ ESA igh gig a MeN Ey Mtr Stig 자거 Nag Er ePID Ne 4 <n cae,
-Lf 이 | EE on AILS tad gt I RN Mein g nang hE. ae 2 (년 ; ~ reece
-wa oe AW i LT EE te Rd le ety i em AM a aes a“ + ^ ^
-of a NG arenes! re cisternae age ee e ; \ Wo Be ~
-be (스즈 : : gas 우어 eg ts f Ay, 수 12026 4
-ete << “ % AA) “0 : ~ opi aad x oh, 4 - ae »
-* = % iy’ 4 Oe a x 4 A - ~ a
-~ x | ie ES ) ff & ; as N
-아나 > \ Yd 「 j / <a
-02 > ~ ~ ~~ ey
-aa ae x \ 내 2 “eee / ~ ees
-…-- x ey ; 】 ~ 주 ;
-~ 0 나 vn) j iy 2 eee ay
-으랑아8주 if ~ 00
-^ mae { 10 A if : 00
-나아 \ 10000 것 ^ 02 Sn
-a een : “ Heath ie jf J ee,
-“ ~ --- a 770) \ ts osu
-” Sins aa , | 00000 ye Za,
-on - ; 00) Vn 을 이 LY
-% = "개 iy if bP , 028
-3 —& 과 시 " 4 vite wae
-- / | q ag ;
-rein ~ 000 : Wy -
-- ey WY EN . | ae
-eae 인 ~ 0000 : ‘ i 1 : .
-Na ™ 글 cy i , }! Biss
-mT 액 i i, Wade? SS He it
-aan MNS , g a
-' 0 10000 개 개 oe a
-7 A nn te i 6 ie ~
-y CORY ti Mi) Ne Lt ㆍ
-“SN 40 0007. Hitt 0000 시즈 냉간 나
-~ " f 에 NEE! 0000 & 00
-~ Bee 년 비세 ~ =
-Re YK BN AMAR ‘ 비비버 ~
-BA i ie WK AW
-개 i ie Nh RA,
-ey i Bis 000 Nh AY
-00000 7009 uy, ay)
-0000) He NS AN ih)
-LN RN i)
-il} Wi 7700 Wives AN
-{ 대 AAAS, bi
-iW 00 SN Mh)
-Hh 00 wi ANS 로 aN |
-Naa Kh) 0
-Oe 0000 00
-NAL YK 0
-PARA, WAM a
-0007, 0 ~ 1 nhs)
-Ty OY |
-00000 AAAS ah
-DH: AN \
-A RMN i
-RAH!) WA 4
-"00000 . ~ 나 때
-00000 / ) SAN
-000 ; *y) NOT
-Way , WA
-DOA yn Wil
-AU BY
-00000) ' / i Way
-000 SAN
-000). : SOA
-ee! ayy Wy iN
-0000, SOY
-00 아노 ‘i
-00 AY NY
-00 DYNAN
-00 a 1
-00 : Ou i q
-000 고이치 ‥ BN
-00 비버 어서 " 머니 i
-wa) rae 4 \
-A! ae ha “OM
-ohh) NN
-0 ^ 0“.
-000 é BAN)
-A nye 난제
-0 수 0
-Dy! 000
-> et 0.
-OG 4 Ny
-Ae 4 TE > 00,
-개 itt’ 001
-00 a ae
-By iia .
-Oe 0 sy
-00 000 N
-On drag tie NN
-OO a ee ‘\
-nt! 너가 By
-at teat ptietteaat treet ees 이
-0000 TRA HH te nha nN):
-0000000 PR WL 내
-GO Ww
-CC ae ~ ww
-00000) 00 WW
-(OO ee , a)
-1 NN EER ea NY
-00000 기거버거서서! ~
-i 000 사사기 ay
-17 (HAW 0 ne Ny
-Mh Rrra / a
-Rie nA ee \
-Ay Lite Ge \
-HM 000 ttt titel es - \
-OMe 002 RIT Free 년
-SOTO A ae ~
-RH heathens aoe a
-00000 *
-A 02020 AY
-RR CR a AX
-i! 700 2” `
-ny, ae : "
-02202 ay
-00004 \
-MO EL it ans hee x
-Hy 00020 ee a
-uy GEL te Latte . 로 치
-CRT ee Relies cay
-yt 00010 사하구 Pal
-위 00009 OO gt tay
-age SF phe Tete ar
-Mah oe, "24
-7. ae
-wee ih 수 .
-제 Egy, iu -
-시:
-~
-—
-i Mags tite
-개이다 AS
-60000
-Mees ie
-사아 4 aL
-Bet Gnas eh
-『\ eS
-님 Bey ii
-NR ede
-00400
-" Tony, a
-nts
-e
-. - 00000
-ee AN) Wit
-eee $ — Se ~ 2 a keane Sires Ste Sg SASS yoy
-= 1 fe Y, 짜이 Bp ma nnn) rs ne Fn reg 자 tee = oe oS eesens 터즈 SIS Ce
-Loa / Cf ka Na ore tae 사사 디너 Se See eS RNS SN
-UI LCE CA a ei aparece aa 그나차
-"TELLS S Teas 시 스스 ee i :
-OSL DAL CL a ata ne apa nape = = 로 —
-```
-
-### image 50
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180324_image.png
-- file: research/images/2026_live05_248839_50_99a9dbf218.png
-- size: 2007x2007
-- sha256: 99a9dbf218c5be4c7990acfae66c95ccfb4a6a3e889fb9f2c88ebbabe17073b6
-```text
-오나 오아 eee
-ie See Mies
-Can Mihianatonuneneres 0080
-be)! EY AV) | 00000 Haley
-다 Ee LEH AA
-0 ar 마이 oc ere ita} ~
-“Ue 00866 08 ie 00000 ait 1
-a ae af 48 eee tity: 1 ~
-시소 CARA eS ere
-200 ede: ‘NET ze)
-ides SENS NE RAE SR and
-“SSC
-+ SREEEST Tee Mle ae
-. ee vo
-‘ ¥
-. : " = he) ze
-cits Sony | 놀겨 tm 4 ~~ a,
-: 개 - ~ ‘ = ; i a a ret
-: 4 수고 ' 개 ~ 아나 에 ~
-at 고 ”. Ga : ' \ 7 A, . bin f 020
-: ‘ ooh TARAS 서도 「 \ , ! 는 1 / : ,
-: oY aN: 호 ^ - : ' "3 『. . 주 ees if : \
-: Well YY : ~~ \ ) |! i ; a ee I
-i : ~ [로 70 ‘ 3 t \ 13 _ hae? | .
-~ 내 Sy {aa 시 : 라나 “ Mat 187 . >
-SS Say a aa * | n 7 4 "| ： : is Wi
-d SS WO) 1 ae ' 】 . ㅣ" 추적 + 수 】 서거? | thi ,
-~ SS Wy re uy +. 책 “~ ＊ 「 < 해 나 1 젼 fet) LUE ~ ...
-SSS \\ i 2 eS aes 그럴 1 1 1: :1%1/ ~
-SX 나 a am or # ea ee Sit 4 Lal ‘Pes St = i At y y ~
-SS : PS “ 「 지배. eee 아서 …. , eit 7 2
-. RW "ee yo — " ‘ porn, 차 OS ie 2
-: Ss MS ~. my ff ~
-~ SSN ¥, erat’ | fy “777
-SS : S . a ~
-> " | a= -
-SS + rm, ; {™ [ | (te eae 3 Z
-3 ; i{ 시
-9 = : f NS Fee? S
-— 스이 ee
-a,
-~
-|
-|
-|
-ㅣ
-|
-|
-ㅣ
-|
-ㅣ
-ee TSR ce BE NAS aes acdc
-es 1 RE
-Se re oor : Pee ere Rtas
-주스 RT 시소 = 이시 이디 SIA Ce ae ea =
-I Og no : : Set oe Fe PRES 00000
-== ~ > ax TF ~ Biber unre sin ee wis Ninth) os.
-: ieee Ao a ees : 그 TS
-: 2 ere ———— = Sa! :
-Re eS ee :
-대 ~ Sr a SITET ss : eRe ;
-AU - 스스 수 Se 사우 gm pe ee Saas ————
-호 아가 으으으 그 em 오아 으으으 아니
-A" ESAS GO is Someta ie oper Sa a 시스 00 28
-< 2 20000 SS -
-```
-
-### image 51
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180329_image.png
-- file: research/images/2026_live05_248839_51_bc08fe89d6.png
-- size: 2007x2007
-- sha256: bc08fe89d601150726fc3f52a8c5a0984be8becb1552266f90a36f4090e5382a
-```text
-~” 시 불 - —— i ~
-A XN 이디 TEE BSN RO Ds ace AA it} >
-~ NE ic /
-we 10000 08 12008 . Rey 4: 100 … 제
-~” Ree 이 이 아느 -250000000 cai ae 100
-we weit) | EARS iste PAST) | iby ny
-0 시아 개 ~ ~. 나 eT ali . Svea RES is >
-24 X EGE AE EA ai 10604 ARS ~ 제
-^ < | toca base uieeie ure nh) ) dtm aS hee >
-we 소아 60000 1] i 00008 >
-쁘 Paar oa quilt goth) 3: Wises =
--</ SS 방이 시 adie an
-~ OST a ae … 제
-% j \ ee ~
-7 ~ ' . ~
-/ be 내
-fi egy, ee See
-/ 어여 시 기 00500
-/ a farm Soeety OS eee
-4 ene nn Ah) \ 이 시사
-~: = —~S> 이 nae a
-22020 00200 / wad ht Zeca
-/ 소조 ; es oe nee kN
-^ Perce tren eh ’ \ ee
-/, Fein rrr nN, ad 때 eee aoe eta
-f Let OSS = Ao |) Sera 1나나시
-eee —— SN. 0868
-Re oo oe aN et ZEEE
-~ ~ LN
-[ee | 성사
-LE eae a Sey , 40000
-111 을른스으으 9 =. [ = LE ge ae eet
-STDS 아사 : —— 6 22600 00011 0
-^ ~ ! tae 282
-4 0 = ~~“ aD P; i oma, 6 ers
-ey fare Spee = ' 1) = ' 5 ene < ee. 사아아아이
-Sorat ee : et : ee fe pen = Soest,
-나 ) ne i — | emma ---'
-po eos Saae j | 세
-re a oe 어 시 ee ~ 2
-= ore < ~ 『 i \ ee ‘6 ie. ee ‘
-JSS x ： her. | Coe 걸 ~ \\\
-+ eens ~ | 236 . . 00 「 a Se ee ‘
-A pe iw . a | a ‘ea 01} -
-K.-S Sea en ad S . : ~ ㆍ Sess
-(00000 aS | , 점 " 부어 전 3 08
-=: 98060 나 be 5k iy fa, | \ a ^ ^
-이 Ti eo 1 시 ose d iP! Br. + eee
-0 | SSeS es ¥ ) “ah Ea % hii Kore baat 1 if Son | 2 )
-£2: SS 개 } XS ss 20 호 Ns {ii 2 2
-at: 0 - Saas 개 | \ 해 \ ae t Fs ee 빠 —_ J WA 27 <
-- 0. = * } \ es \ a { Vey ^ / Z ^ ^ ~
-(ee % ㅣ 수 개 Nis Buf Ps N ia FI go 252
-(See ee, 나 \ ~ Ne , 202 > ^
-/ tea ~ “at 100 Nc 지녀 yo /골 S47 ~ IN
-(a = J’ —-~ | / ~ 시스 aN
-| . ~ eae ~ 「 개 0 — ~~ i ~ 스오 55
-- 7 ™ ve. % ㆍ 4 ~ (oir Ieee ~
-SSS < > Ff ~ 2
-~ > te > ba 2, a a 아시
-~ oS 96 ie 22 oo ~. Fale,
-재석 세 ~ 「 | LE ~
-Ses ee, ( mee ae the ^ ~
-Le 으으처 수 a, ~ ; P ~ = ~
-= a = 나 0) ii 2 0
-= ay) A tere; iy) NG VE, > =
-~ ; . 7 1 ie oT a ~
-SS me % Jp 14 MARATINNR 2 iB =
-1p {ie ef : hee Cet ey -
-Se, ig { re 7 ox ee shee?
-oh ' 2 EAS \\S ~
-¥, ^ ~
-a Tet
-xX s
-i ‘ 선물
-0 Os 닝
-(수 내 oa Are Gat
-1 2 이 fe 2 tan
-Kt tas Shee. Ss | ‘ *, Se 호자 2 ~ 도 ems tat
-Te Sins 000 회 | 5 Ae tte Bae tee Palen
-2020 00000 te es 4 4, wae tigi ahs 소조에지스 Bee Bits
-| nies Ohne ‘peck Sane : ss 수 Pare 오사 PN
-i det ite ee 4 로 ‘ 고 기 Cee See 오제
-7000 Renee 아아아 노소 조주 4 Sere eat Hanes Peas Ses Rae
-0000 Wns Feri Sateen te ty : See e esas Beta Pes Sas Rita
-ON OAS, SC PAM Sree ne na eet 4 Snes Wie PS SS Rte
-27000 CM ry 00, Seneca aca Oe : Baars Tigi aaie Peis SES 02
-0000 00000 000 Sane te te toe 소조 ; See Bees 아자 See Seen)
-(Hl GO Pa se 바버 Sama et 고세 제 세 제 ee 주 ee Chae 오조 Sees hae.
-1 HAG I Tees 우주 제 제오 Mee eee te ee eed Cae, Soe ees
-il GUO DS (ees eee Mate te, Cae t tts be SEES Mee
-1) PG TLR Teen Leek eee eee, Poe e Pees Tah mm im \
-7400 70000. Re 기우 ae es < Seek Oa aS Bare
-IV CRUD DRS a es Demat lene ca 오오 See 가: & Cee BRE Cee Fe 소조 <x] Pe) \
-NIGH 20400 22005 Seta 건수 수수 주주 Gees tits Peete Tee BERIN
-Ty PA 1022 12702 Dee 를 ~ < . - See, te et Gee ee, Cg tee? Peay.
-(GG 20240; 006 Rata ets * Cet Oaks 703 Sate Bee
-1) 07220 TE A ee Ces See eee 5: Ce 가오 나 Meee) \\\
-CPU) Ue 2 년 우오오, ; ~ 주 주 수 ~ ~ Os Cees Fe eee | ~ 개
-17772 나 TA SEY 지지 Seek, 구오 See TR NN
-CAG DPS Rae Senate tee ss. é 2 es 2202 See eee eI
-DA Tie Set ete Sate “s 3 ~~ 세 le ee Cee ee ee Ba 6 4 RN
-1 at ae Oe 흘 0 i % as “ Cet OSES ㅠㅠ 7 FR, Peay DN
-WEAR Ce ee ~, 를 ： 기 그 Cee eee 자스
-7700 7000 2, 두두 가 흐르 | ; é 0 nh 2 See Bae) ENN
-| GR RE Te ee sae | “2 6, Paka ae 732 SRA AAS.
-ily eee 할 사하 하시 ~ : ‘ 이 ~ ~ 을 7 Seem Cay BA
-| LA SRR Vena SAE Matte ee 전 Ree, 기 READ, Gas TERE Nt
-SAE 7 Ce See 이 7 S geek, Ae ert Gaels 22 TREE NN
-AGG REA Pet Beets Lee ee 내 Set Okey 22 수 NS,
-GG 200; ^ TE Se eee ‘ s 서스 GS Bhs teen PTI TINS
-i RS 6 아즈 : 2 ee eae 소나. LN
-| [ARITA IAPS. SEEN See ee as 에 아오 cht et Citak 가 VRE Fe
-00006 으수 . 5 가 소구 수 Qnty 72 0
-/ ied Hipewe Hane Tees Mee eee fata 아저 어겨 사저 OS eeee 02 0000 Pena
-HAA APR NAM EEN See eee ~ 지즈 ee ae alas PRET VRID 00
-07000 Sete Te teeta ~ 구지 시스트 절식
-Vy PPT: Pan eee 도 a " 「 ~ 자 고기 eens SR eI 002
-= ^ . ~~ €.¢5 ~ hh, eg tt! 274 0002
-ta … 2 수주 세 a ee > ¢ ~ ~ eee ee 고 고 제 te yt Sy +" » RE
-가호” 그 그 Stee ee ee 간소 hg etd ^
-VG Nee Le EN See ^” ~ ORR Pe ets Se eee HE eek
-2707 27 pina Nee we ae ee + sees: 4 4 조그 ~. 그 Peay Tem weet 오하
-27 Pare 2 Ce 구사 +, cate ed Ree, gation 29
-ly LA TPs TA ate, CES Meee 4 지을 지으 3206 ‘
-0007 PRIS 0 주” -* < 주 ; ~ ~ 을 그저 거고열 2 ㆍ
-ad ge MN eg Ee 주 고 전주 <8 Re, he et ee, Ce rele eee! yo 2
--, 02 Gee, NG Mee ee : ~, 0. ae
-" 15h, he pe” See ee ee % a 호 호가 < te pia ata ss a 2 「"
-보우 a 진노 오오 바우 가우 ae a) ^
-me Wis 호 가가 See 호 2. pa a i ee eS glee
-oe, et ees Mea 2. Cea: tte Cy ag "200
-~ 주 오호 오게 우소 ~ 주 주 호 5 hs "~ ~ 주 수 수 Bae tt Gee on ee
-i>" Nie Se tea St eee 。 peg Sy bP ome
-ae See Mate <<. = 2 ~ 다수 Per
-“Ee Bates | 2. Ea 20
-Ne ee Se, 02 ‘ <. 5, 수
-Se ae ae . ee
-ee 02005
-pg Sa 00000 ie
-eae oe I
-오사 아가 EE gn 그 0 - 200
-eo ee
-mie 로스 eee a ee
-PN ers ea Se 스스로 으수 a 아은 20 으-시
-아사 i SR a a 스스 a a RE Pe 고사 구00002
-스가 nag SSE a sae a ge tat ena
-rg ars POS IEEE ca See a ee ee
-aa Ra I 1000 Dan a a 7 700000000000000
-시 아베 Sa a i el 무가 Oh chr a 0"
-pe a ea a Ec Me a a ee ee ee eter ye 2 11
-oS sore ee ors Se 아가오 조으으 아즈 YG Tee no a
-으으 eg a a a 02) 2 22
-수아 ee eee erm eres on
-gee 오아
-es 그 =e ss : ey : |
-사시 MMi aa area So ee SREIRA LOR GeASTE RG TIME rN PE aN
-my: Wht 아이소 SD Sp 5 7 a LR te 이이 ae SSeS ans mi oes Petes
-Wp gaa EX See Dire 2S SS EE
-J CA 어서 Es ar ne rs ace a 아가 SA a :
-“TUM eee 스스 스스 스스 수 eT ES
-= os OT ITN Sa oF OTRO a OE gO POOLE ABO AR OOO SME = =
-```
-
-### image 52
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180336_image.png
-- file: research/images/2026_live05_248839_52_e4ab6c35c4.png
-- size: 2007x2007
-- sha256: e4ab6c35c41dc4e071c83482f9eeeb6a1b3a78a9d4e05e2604ffb5b039421f9f
-```text
-Teo re 0
-^ 00. 00 투어
-4 Mae i 8) 00000)
-% 32040 0200 7
-대 ay 00000 if 비견 q 7
-PASM 8 ! 0)
-XY SURI i sti) 0) ad
-에 oT Hy)
-ad ~ ny J 6 ~ we ies
-~ : — SPN eS
-ss gage Srey, y . i 고. 20 \
-ote ea << 2S ~ ‘4 o - ~ 2 00 2 여기
-SESS 뿔으 / . l= : Se Wy Ze secon, \\
-eet RH RR ay me © ee 1 > \
-aSeapet ee SS a) | tere = ; ee OM Sheree sates “2
-조사단 SNS | As ese Ni 28209 /
-ee See MY Se engl 2 < …스 1
-이 오사 ae 00 빠이 at
-~: Bern 0 개 SS Se 000 20200 [00000
-Rice ~~~ oe 1 00 Beier! eri aie. os Cemramanaeed
-Porter ee : 004 Merete” = eames - e520 \
-Petree ~~ ~~ een Reg aahitete ¢ ' | Ca 사 “aria ees - - -o55> 6 .
-나 eae. 20000 애서 ran * c ye eae 0000 - -…~~-…, 인
-~. See. Se Ne ~ 3 4 , / 000 「 aa + ore tta) 년
-사소) 0 0 79. ey ^ 느려 ae 이 8018
-Un) 스즈 개 오던 Aes " /. RE eee - 20000 —- "ores. > N
-Af ( Peto Sas es. SSeS 건 자 0 See add ‘ a 본 ~ 7. 이시 | 1 이
-는. Ae Se ~ ~ eon ; f 70“) [00
-S | 도 0. oe > het 5 WAY Le . 24000 Ea . - -2<-- - --
-. 2s SSA chy 「 Ms 시 Se ee
-「 IS ee 고 : we / 「 를 7 셔 000 0에21
-> 026 440 0 pte / ¥ 「 d MMR | fle Se 5 Se Caen Stet
-0 DS OSs ~ LI F 기 " 1 을 / ie | SSS
-«cL DES + SSS. ~ AAS a 「 글 )/ 0 0-스^
-이 ~e SR A fe 4 fi) Yee 2, Bees 1
-> eS Sa SC ASI) 고 iy FS : ( VE, Weer, Kuper - peers:
-Se 개 ad ft bs : A FA md 204 ME KSEE ae ala .
-개 나 - 오배 기] he ~ 4 8 …. £4 204 이 20000 0266 - --
-~ oe SS ny & 1 ~ Pat ~ … < hLy 에 22700 ey) Pyar re! 0 「
-LLL oS ee wy) | BS 4 eA ie EE Eek A 4 00000 --. -
-LL SSeS ae 000 bd pad J Lee 기 아아아 스시 시시, SO lM … ^ ~ ~ <
-니시노 Se Se 0) ' tee ia 기 시이 ge et ttt ee 0000.00 i 0. AAA ge «| gaan
-+ {Li SSS. -*/5 10) FS eet . BEGG GG COU i etn 샤이 ----- -
-느니 0 사다 0 hs, ne er . Ge eee 0. / HEM! MMS PoE =
-+ TICES SEE Se a 가 nee kt aera eta eas - 0 UHM ns Bee 0
-~ ND _~ Sw " i\ {개 a Se 오셔 헤쳐 hr hy br Bs ne , = " 3 Dg SM << IEE EO A -
-~ WS SS. a 나 사소 바바 하하 이 ㆍ ~ * ~ 5 ~ | 「 4 를 007 <. Bes ae ae S
--! SS == RR 00000 1 ea 6 ee 기 aC 기 ¥ ) [| am 0 400 ^ Pete . ~
-. a “< 0, 소이 aa in ee "도 | Oe 4 ^ Z
-~ ~ Ss MY fina : ~ 고가 ~ i | 4 ~ ped | pS Z
-ec b> =e 00777 < ㅠㅠ | 1 | 4 200 ~ ES ho ^^<』 ~
-= “ee = SSS, ETT 7 Pte ， 주주 수수가 “a4 ¥ | ” i ay Is <2 Da GES ea Z
-NS = SRC, MAD tane 루오 이 하거 tt Se = = vi 2 2 222 a
-- 제 = SSS RE Pe a aN RS A < 3 = -… 0 | Cee ee IE ~
-내 SSS aa Wy si Tighe Sats Sa 4% 4% ‘ d — Rist ee). os .
-= ~< SS Sa: Bt Aa seakatatahe te Ne 고쳐 aie. i ore 2 -2 ^, =
-= oa 0. To) ees + : x _ i SS ee foe 7" Zz
-= ~ “Sy a = CA Tt i PR ~ ~ ~ ~ ee. rere AM: SE 1 eps? SF a
-eae 6 GS, Ss ‘ x Sagi? EO NB —— — ag a a
-es A A ees bh ete ee PRS SEH HCN HAN OF: fa 7 =
-개 ~ 2 ㅣ 720 10000: 개 개. 개 개 ‘ ier cea dea " 00 7774
-= Ry > SD 00007//,',', 705 NAN NER : See a vga BN Mi) NERS 00 77200
-= Zo tee 주조 . a 77. Ad 6 J =
-— ^ I’. “NS ee” © EDAD iN ~.
-— —_ A AE ee pee ee ee 바바 본 베비 개 . PRE OOK CCN ANNAN ti ees * r
-a 그 00000 7200 나. 개 내 개 PN a ew TEEN i 3 is
-~ DE a ae 아기 제 조지 지7 NNN SY
-= 00 208 Sees ; SEES PINS :
-tA 75 Sta eae A ass SAS)
-I) Henan ao 하여 . eee bbe SEAN
-7000 Staten ee SERN
-ioe er id teen OE
-REA ee eke : “See ee : eS ||
-740 Re eS Chg ae ae SAREE}
-ios Neate cata tata tats : aa ee AAieeeenc yc nih
-i ana 데 Ee ee as AERA ||
-7 SN : ee x SOAR |
-Boo RS ’ Coa a a a ae SAN 에
-1 RRR ote ; = Sas Seen NN Mi
-HAAN Nata tata Re Tia x f{™®: anne SSN |
-| Re eae Re natty “ . ee ZO ‘Ny
-"Ee te tata RR 바버 Seen CONAN i
-| TSUN tes 2,6. é Cg ee KKK SSN 니마나
-이 니노 Sth, 보보 ee . Pe ee a eae SLANT
-(RNS tate pth RRS ee SOA
-Bats ac ce Ne ; a ee, SAN |
-0 a NC ce : ee ea yg SEY 버
-아수스 시스오 우이서구 오아사아하하 오라 : ZW
-Tea tata ent ete ae é Sa ae ee 바나나
-GF 노노 오이 RGN Re eich eet ee PEO AN
-PR 노노 비보 어시오 et 보병 혀 + Ot hea SSO
-AP tet ea MGR eat eae ‘ ee 3 |
-RR aah ete RT el at oe See 고 aka a ae A
-THOR te ee ehh on ete ee : tS eee SSN
-이 기이 ae ea hh a aig 기 a pe ee a AN {
-Ean yyy de erie 『 0 4 eat if
-ROR ah ah On ei A oe a Ce eth aid 0“.
-DN ey eM get Wrenn ey - ~ 우오 가가 기자 에에 【
-Reda strate teed atte yi 우노 Cth ete Ce PETE (
-Dt ities ets ata 06000 「( Oe IE GAEDE EEN. |
-PN at tees anata ote ew F Sat ig tage EEE |
-(TOPO RO nA ao 8a Ce EE Oat haga AEN.
-HOR ROR FR eee ie eg 노노 a BEA Gg ge a AGN
-Bitte ikea tear Sanaa EEN
-OOO cree erage ti Maen nee Ra 8 hgh
-LCR ric Ree iit ~ Ma eg eee St ae
-Le ett edt BBE EEG th bt eed tates 0
-TRI ee eta SNE ae a eee a RM Nae tty a ANY
-TP RR A ts > PEEPS ERE I EEG tI EE PILE EIION
-202 ~ 시 에스 아아아 고 Re GPM ORRIN
-00170 aa eee a RMS iis tere x x N,Ss # A
-CAAT RR a ee a . Se Re eee ee eRe See 그
-우이 lh ee eign 오그 자
-~ 오우 우오 200
-TA PRET 구우 오노 eRe eee ee Nee 기이"
-RPI GR Ge aan 거두
-TPR PTH te 우우디 바가지 기하 Mey ee Seek 스스
-Pgh titi gh hh eM = . a eg RR RNa ee Seem e RSet toe Ses
-WF ppt Re ee E a ge td a eg ek Er ee eT
-Cote Gee ee ae a 세세 Me Ey a eee MS eee
-Liter, 207 eee Pig Ni he Beg ee a ‘sd
-Cig 2 우저
-~. ele a ee
-ra
-개 ah - i
-eh FROG et
-Rea bes
-Deus a
-개 1내일
-Bs eis
-“peg ey 5
-0014
-moet MARTEL cf
-= it
-ANTE rar 1 ren neo ra me eo ms 4 Boies = we ee ts 스가 시소
-VOT DSR et AS ae en pe OE 사스 스스 사자 ee 스으으으 이 나으아만 BIS ya
-Nan LE PS prc mR eS AALS
-ee = SS Se 이 가기 아아서나 te =
-```
-
-### image 53
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180341_image.png
-- file: research/images/2026_live05_248839_53_94b20859a3.png
-- size: 2007x2007
-- sha256: 94b20859a3c944fe8132fbd7de4a09c29f5731f6e665c46e1e93f40d564f4895
-```text
-per 7 erasers Sa ESN ye = Some —
-BERLE AEA ^
-> 080 nearer ro ©
-0 ee)
-0 8 Way
-11000. TE
-ce 09000 ,
-Soe SC Se ~
-ATC RS eh ma 바빼00 …
-: GSN
-SSE -
-‘ CG
-하화ㅇ |글=
-| <=.
-; 4 me ?
-4 / vet: 위
-“ ; S \' if :
-\ |
-fi at 「.
-: S x ㅣ 1 aN
-NS 4 pie
-aS ; 1 /
-SSS Ve 개 te ~ 『
-SS wy 7 :
-=~ SS \ i ~ >
-. 8 WS if 2 Lay ‘
-SS S is a so Ae
-= 해 EON i LZ - Z ~ 다나
-3S == SS , a ; ~ ~ See
-Ss . th 도수 | eB -
-See x gs se i] i £ = “ ~
-시 해 = ~ ; 『 4S 2722 4 ~ ass
-SED … fa Ni oe Sy
-~~ “a a j = hive =
-~ > A ' " ef + "
-노드 > vod j Sy 개
-에 ; ‘ “2 40
-닉
-/
-\
-| ㆍ
-|
-|
-|
-|
-|
-~ Ie
-ae Beak
-pe tI ROT or = DSA See aca
-oer = SESE ra ae a ae
-pyres 3 - rng Be 아사
-: | USUI S20 a
-ee 고 20 00880 ate 오
-ene pee ot ae pol MASI Rea ee a = .
-6 eS - 000 cok,
-Bo LOE 2 Z : 아리 eee
-기이 609 SS Gone eee
-LS = = - 00900
-ms 그은 스즈 쓰시. 11020: 지나}
-BP sa ^ 스스 스스 ee
-제 (EEE aA RP aN 으으으 으으으 이 이 이이이 으으 으으으
-etek ebay So Went 2 = 사스 a a RE »
-스스 으수 으으 2 으으
-```
-
-### image 54
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180348_image.png
-- file: research/images/2026_live05_248839_54_7835413aa4.png
-- size: 2007x2007
-- sha256: 7835413aa41e11b3b1e7a83d5601eb31c0663610db46be4f3aeb893ecb7ef99c
-```text
-a - 수
-가 oe PRO oy dh "4
-Vi …、…
-00000 a a i | 00
-' NUR 220 4 Ae MT IER
-Rh PUNE BG, Bi! 0000
-니나 Ra TTT
-Ser.
-SS
-ee
-/
-A Bf? a ~ ,
-C 세 a a ee
-[i OOS CUR BR { — 7 ' " ' ~ : CEN. | Pecememarannreat '
-/ Deis eee SWIM | Ne "~ \ | » | 그. 구아
-/ aera ee 스즈 re am NX : " 2262
-wf ene nS AE 자 " ~ ae … | ~ GH Lope = = eee eeren =
-SSeS SRENSD iy ~ Pr a 0 ' rea Nile pen = mare. os
-/ 00607 0 ~ 호 SSE Pee ee SS 게 | 00000 0 fp en Cn EEN
-14 6 으시 2 SR 오늘. 니나 ~ PAM ie ) 07 사서
-[ses 1 SSR SE 0000 Sen ee
-(aes i++ See > SSNS | Revels fi 을 * 수 - Shr. + oa ene
-: +1 eS et SSR. ~ SSS, Aer? — . B&B 틱 들 20 8. Sees
-oe ae SSAA AS. 02099 은 몰 | 4 노 에 000 × 사이:
-2232: Lo ee 독어 a 대 104 ; Pigg nc: | i] 0 tare = 00000: 0:
-는 USE 0 TENG aaa write kd | ——— t | ㆍ | | | ee Yoreuumee 466 -- 200:
-TTT Lea Sac: SR Va » "we : 1 | frente rod m0 1 7 | 0 20000 - <prere t= 2772:
-이. ~ SSS. > SOS WY > reaskeh a. é E33 ‘ 」 | ~ ‘ eee , ~: 27 아이아스 아오
-SS. eee Ss Se Be ite 4 1 「 236 | (orp PM, 0 7/ 700 08 [0202
-SS 빨 비서 ‘4 ㅣ fi ; = | Re a fo 0000 00808
-“See Se. SY «| Gn ' ; 4 t ; [ ; , te At MM / ee oe Es ge ae 3
-¢ pt ee 애오제 S 6. Varies | , " bod ey > 이 720 7 pee te. * <a “4
-~ AOS SE. SERENE Me } 자욱 4 tt 4 | fay > We ES <
-~ S222 ~ . 오니 a ㅣ { mone . | a 0 / ~ ee ~ <—
-ASSN 5 는 그 | 가렵 을 을 : es 다 로 ad of = 원 ~ 00 1
-ㅎ Se SS a 나토 >’ Tn 4 (을 ~ 그 1 { ; Py 그 ~ re, Ve gf ify ha ~
-fot Ok. ~ 에레 SN om 에 구겨 Booef = “ i d } t Ag + “fe, Vee a ‘ ~ os, ^,
-AS Se : 00007 SUAS (0017 4 이 1 홈 니오 스스 2 ~
-스는 ~ Se 00 을 ) Recess |" ~ … 이 : 「 때 1 나 eee fed Yi tay, - 0 ~ 8
-~ L2G <a SSS ee ways 를 기 SS Eee 4 . eh 빼 AE i eae } ts) Sd ^<서 8
-> ASS See MY EA's Seah Sacecest 타노 ts oe! : 홈 0 86) es core a
-{LL RS & 00071 Berets | 소소 소제목 tee ee | at UN ON I Se eee A
-» £2... ~ SRS a S 1000.07 Ge eens eee < ‘ 어우 4 ay ' 00072 f+ <n eens ioe aN 이
-~ 조사 Se = 071 000 Beek eee NN : : » | i Re Ue (i “a eee ~
-7 SSS SS Xx | 620 : 구겨 : . eae ~~ Ye, 1 (P daar 2 ge orp brgr 2-2 = NA :
-<=. SSS Ss Ss ed 60 pate e ce * ~ : ii le “iif SNR | ey apace Soares =
-Sees STN SR Picea : , ; : 222 ~ JN 0 i i ee See -사[
-= ~ 세 2 See ~ 4 버 OR a <<. : - ~ RII im fe 8 fae 여 ¢ SE ree a ‘ >
-3 = SS ~ SSS Heyy isa: satan jo ? : 1 ^ Rs ine Z 개 「
-내 - Se ~ ~ Hi steiner * or ~‥ IIR 0 00002. 20 ; ’ 2
-~ — SSS, 0 PF Kb. ~ eo : * 0 TTT 000 eee ages | oie ners -
-=~ SS = Ss Nyy ey REE aR Mummers 7S opie Pn
-ea 기 SS SS. /000000772772 Sass . a LEIS 1G Se ns fre ~
-SS ee < ST PERTREALIIIIN, 11 40006 22002 eine
-SS A MN eee Ree NIMMER Ek Re
-버저 이 0 250 00000 … 때 이새 사20000070000" RN I a
-SSS SR a 00000 ' 00000000070 [00 /425 <
-See area 온 |e ; 4 00. 승수. 5 fit
-a Wi Fai : ~ ZEEE ION, ANG: 0044 e
-SS ae NY i He sa : LEN EAT
-Se ^. Ht a : 3 aR NN Os
-RS : , BRN KCK CEC { ‘eee 22"
-Seen A 내 새시 이기지 FPN Es 버 는 24027 -
-SS. A it 7700 . ‘ ROC CCC _ AB
-000) ie 448 tt ayy” BN el SSN —
-00 gam Rh et : eee EET
-) iia Rata tah eae : ot ee : : LAN \\\
-ipa 아아 보보 ae ~ SONNE |
-i Rete : 20205 REO
-08 소수성 지성 시시저 아가 SR |
-Hie. Stet eevee ae eS SLOAN iy
-1 Eee 바보 서수 수일 : ~ 거기 Sa ‘i
-200 라바 버버 버버 ees: 2 모난 eee TOSSA Wy
-206 서서 Na eee SNS
-iH acahhatetcts 가고 BAY WW
-2 Sma ee = CON i
-(ORRIN tet th 5 ： 사대 새사연 SAO
-아자이 ahora ne een CO
-J Apia ta ta eae Te ge SP ak dl COA
-니시노 NR na He ag Pisa COONAN
-| Ra Sasa che ' thie ANN
-0 이 기 tate oh RR ke Pe NM BA Wn
-HARD a ae eta 누오오오 Fe eae SERRA
-시 이소 eget i tn arate es : ㆍ see. "COONAN \
-POR ah a te 비보이 비보 이 eo ne ee SA
-BN yey owe aay RGN Bee : ee COS
-Ree te hat ty tat eat J eee 000
-THOR a Masta R Rit nh 0, 03a ： Siena 00
-미아 니시오 보보 어시 sate fia ： Sega x x eco
-OR 이고 오시거 ae "~ 4 oe
-OR ete 시지조 (Si seh een ee,
-ORR a ar ati He et 9 te 고 eM Mg al oS ee 년
-바사 nici eee tea Te sean ae
-Ah tt dt tipsy beatae Cah at BP Ge eg gy aN
-07000 가 ee etary xe XN
-DART ech Rte 오노 ca Ma Se “et tate 내
-EE de gt dt tag de gg eh eas aes ㆍ
-~ KORE Eat a tay EPEAT SEERA IN.
-UR A eee CRO AG 그 소릴
-Bit Lat tt vigt tee BG EE bE ELISE PEEL IINN
-00000 Ot REE ee 0000
-거가 BEG tC ERNE GL ISS CISTI
-PL EPR Ge MEET IESG ISS I IEE I ON
-GPRS ee Big eR Mae a 가구
-버버 a ae Ra he 게시 ey 20002 200
-77 가 aR 고기 eR Ny wee, aay
-207. 0 ee 자서 버거2000^
-Bit + eta RE Gt 09
-ie” ; OA kg. 0
-~ ~. <”
-해고 el
-1 (에 『
-Reis War ia
-on aE:
-0 10006 140 4
-Be ane) ee
-b Ra,
-오비 부네 8
-손씨! 006
-a eat lies:
-EAI
-의
-ii th
-[arp iiNet,
-We: : vy SSE ceria ge rage sare aioe . i 6: " ~ SR
-VEL Ot NS oe a Eg ge tO a ree = SS SS SSS
-「 사스 스스 은 = RS pre ee SE EN mY
-들 ae oO ee AOS we 아아 0 00
-```
-
-### image 55
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180353_image.png
-- file: research/images/2026_live05_248839_55_089fab91c9.png
-- size: 2007x2007
-- sha256: 089fab91c9156e1f9f2b75caa86471ab9d2e8c34333b3c967bce1a8e6b37f6af
-```text
-a” my
-PS -- st uli
-? \ VARs 시어 Alba
-Ne MA ta aN ip — mr Naif 가여 는
-많던 DONO 4 oe 30000 Wes ‘
-Ye ees) Lid Mt (aie
-‘ 가변 20002 내재 50 ude
-- N\ j 21400 ii Siig MA Reg
-OE ( 00000와08800)
-EE ㆍ 대란, LUNES Za
-^ 8 "ag | ATES OMS | ele aa
-0000 ^ FO REC
-^ 22226 ESE cane S
-~ 8 06 ee pein Se 「 ae So
-Cie SOMA AL he AA ARs hh gina ae cae ae os ete Fa a ~
-~ LEE EEE. SRE A AA hg hE GEE Fe Sen A aa Saat Fe Paes 2
-ti ~ eI ~ ~ 22406. “ine Fee =
-~: …- TEE 가 8 26000 2 ees eer ai sears Se
-ZF hig Ii 24011 0000 LI ia,” / 00 «in gated aR a ge ea ee Ses, Se aes WE
-KS ig ge ee 222 2 if ae ’ gS eee seen Senha es
-Le OB ie Fae 20474 GAA hss, "1 7 2, 0 “eta hgh oda ene any a ae SS a eae CS
-2 “^ 42. {1 ~ 바이아 as gh gt eg Lk id Pit ee See 느이. . 0
-2227 PAI,” PLAID 4. 001 7 ~ 어어 바버 gh gt gt ee Sete oe To
-2 ~ 00001 ^ 6 VILLI , ^, 수 hal 은 PaaS oe” “ine aac Race NS
-22 시 2 ~, PAIS, 2a ee ene ee Leet See ee 서아아고 거애해
-2. 소성 < 444 LE eG biti OS gta tes 소노 니이: 여자 ee 어느 그어
-LE eee GSR, many ee EE mag DOIN Seis.” Dea geen SIR asco erm ne n Rear = aoe
-~ py a 20 ~ | LATE: 수 82 ay Sore Sentero Beier 2 Seo XO
-~ “ㆍ ee 'f “ 4 ~ id 2. PE Se cece ENS SLI ee See,
-ara TE Sep < - 』 0226. 수 20 ㅜㅜ 아아 로 SMa ag ee = Pe nN FN
-~ penne” 77 … 00 222 Ft! 일 Ps 08 ~ |. 시게 ta , es Nt ~ pean <3
-Re er Si 새시 000 802 개 보어 소자 TS 는 - aN
-OW en om et f EEL EL AE igh a gig hot a eee . oy 1 고 ‘
-Lt gaan <8! 2006 <n 적 서거 gt ee» ^ Rite | ¢ aN \: . We
-pel 1) ae Baty’ |» Same ed dt Seley Neti ny * ’ . wie SA N se a)
-en --- Uwe ME OEE ae = - ㆍ aS . 시 1008
-os amma Sia | 700 CR eae oe" 본 aN or ee SS
-ne” ---- . 4 0. 700 Oe ea wes ~ < he” , AK ^ 에 en \\
-1 ale ' 00010. -~ : Cnn ea a Ne es Dana \:
-bea : 07 4 he Co xis y v a SS
-이 1 i COLE , 번 by \i
-fe ; by, ae VIG Oise hg sete 호지 / 7 ANN s Ny
-^ , 7” 0 ~ 년 =
-ae asad ' 00 : ~ ‘ y - ae
-| a ail Yi ~" 년 4 0
-Se 7 , ‘ ~ at 《 ate
-(ose . ) Sis { 「, :
-「 나서 \\ 20 f & 2
-: * \ x vA; =a
-4 \ ey Y ol
-> : f 4 €
-~ Vi 4 = ‘
-oe Fog ae 1000 / =
-Tiare 0001) Fi =a aN
-0 00007) “ = =
-ooo «Saas Mihi: 4 =e =
-ec ~ 해 분 니 = a
-QS {00 i ‘ Le eee 0
-Se Ls { . 4 구스 내
-<< 에 NAH Vi | if se As.
-a ti din oe ny
-00 ae a) -
-tut { { it ^
-— + 17000 ~”
-= Le 00000 ^ 00
-y f 77700 / 0)
-= 2 MU & Ai
-~ i 000 ts q
-a a 00770 탓 :
-^ On i 놀이
-02 GO OG ! ie
-iA 000) 00007 q 0000 “
-a, ㆍ 00000 00000. { 나니: /
-000 때
-000) MW Ay
-00000 Hin mn! ‘2
-ey ee 시내 pe
-Me AAR ee! WY we
-000) f 바비
-| 1000 Hi, Ovi
-| Oi
-00000 \ Ny
-00070 비나
-Tg \ Mth
-Le Xi NN
-00000" NY NN
-We vi 44h ii
-Hh) WY AY ay
-00000 SANK WAN
-, Wis i
-00 WY Ley Way
-오나 |
-00000 ~ YN NY
-ih Hi Pa PRN \
-내 7 yh i
-000 i RAY |
-00) AN \)
-0000 S|
-00700, NNN
-00007, WYN \
-Pid Dyn) Wy i)
-00000 ' CORA Hy
-i WN
-000 내 \
-/ 0000 SONY
-00070, 니나
-바비 Shit) NA!
-vial ay Wah 비
-000, AR
-iyi) we NY
-000 mh) NOY
-Ay SY
-가 ARVANA
-에 SO
-10 NY
-a CSNY
-yy Fhe NN
-Wy RY
-! 00
-(a SN
-00 BM |
-개 ^, At N
-0 ) 00
-Wi 00
-때 ‘ 00
-i a Wy
-mh 00
-Bi 00
-Bei a
-0 aN
-00 Bh
-000 NW
-Bi, 1
-000 ; Wy
-00000 hay NY
-0200 Wy
-00000 내
-00000 it N)
-17070 J Di
-00
-00000 AW
-00000 ) my,
-00000
-000 : a
-iy baie \
-000 ) aS)
-i} hy eA 4 4 vs at Ny
-0000 i 년
-0000002./0/(".0 00" / 기
-세 Mai! a4 - »
-0 내 ; 내
-VE COR es
-ie ry 4 Sy
-Ae '
-200 90/ ~ 내
-hy 171: Ls … gtd “i
-GO nee .
-0 27000
-UG 0 eF * ‘
-Re 보선 ‘
-CR
-iy 0200 dip tee! :
-OR alte \q
-00020 q
-00000 rs ;
-7, 0009 {
-Tr 셔 oth
-~ ond
-f Om, wr
-|
-|
-|
-5 식 |
-|
-4 |
-|
-eS
-; : IEE!
-; z FS
-< 수수 시 수 ©
-ee, Se ns we ee SS ee ag
-Es et marae Ss SS 수아 5
-2 eee eae St ee SSS ere
-= Seas ee a Oe a ag aT 5
-See 자자 oe 스스 온스
-a PE Sa 사고 사가 6 0
-이 조스 사스 20 구스 ee 러
-SS es fii ayes
-Wei
-TE IC EE CIA IEE CI |
-SU TOI GE BEAR Ge a eee Fan en gs 이 고시066 ns a e : : = 1
-시가” = Saat a . = ens ani
-CS ent SS atl en TOO ee ee RR = a See ee 0000 000 Sy
-a 스스 스으으 202 2 222 SS SN eee me x SAN oN
-a op ae 스 rE — ~ Se TN
-ee RE IT SSeS 아오 Se AE SS
-```
-
-### image 56
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180421_image.png
-- file: research/images/2026_live05_248839_56_403cfcb169.png
-- size: 637x412
-- sha256: 403cfcb1691ca20b6fd593b81a2a54f0f79aa64750fb961fdee4bc9541274e18
-```text
-대상 선수
-김수경
-바조흐
-강재민
-ㅁㄴㅇ
-ㅋㄱㅋㄱㄴㄴ
-이정용
-정우람
-고
-OM
-TA
-김정수5
-손시헌
-이지영
-최금강
-김건우8
-김태혁
-시와그
-노트 느
-임경완
-황동하
-김광현
-류진욱
-심도선
-ㅁㅁ
-임선동
-ㅁㄴㅇ
-엄상배
-장명부
-김상진8
-미란다
-oo ㅋㄱ
-ooT
-연조선
-김성래
-박정진
-oot
-장호연
-```
-
-### image 58
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180655_김상현노다웃홈런.gif
-- file: research/images/2026_live05_248839_58_0ae7bdf563.jpg
-- size: 946x529
-- sha256: 0ae7bdf563aa02547d4d69ad4ff51721759b828bedea73bf8b0d1af7e1e931e3
-```text
-sh
-Pe ie i es . Da led
-ie 놀| 벽 ae wees =
-BUC tte rs oO 000 개 기이 에 개
-ee eee a i 사스 |e! : : om F
-ean waiirenT es! Fo GE be ee eS
-4 . ee eee
-| TT es ne
-C3 주 여 bom
-7 ae ALI : ~~ 4 =~ es te oe
-TE Ser Ti me) 뻔 ES eeDIER a 7 = = = ㅠ ㅣ ' &
-고 가 을 이 SELEY - —F \ pall a cs
-Bd: eg 7 aes = ean a as a " ! - 08 제 '
-i Ris - af 0 ces ~ re ㄷ교 ez a
-— , a ~ 246. id 8 등 | 노000 ie Pe 트 7 a 아누 as —-
-PS ee ee oe ee pore cies cero =< << 때 PU 하서 | 이 ee eS ea
-ICaasgs 파위에며= STR BEL IML LAFFEE BaeVe | % 4; ; ars a “Sew wis ICCOFFEE “Uno IDEAL py) socrmm
-=r _— = —— Tora z = : - - ee TaN =
-000 a ar = — ee ae Si
-ona RUSTE chip =” : 니르 eee
-silage ee ( 사서 :
-: 아이 Bator =e ;
-tes
-a . way :
-```
-
-### image 59
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180708_김동주노다웃홈런.gif
-- file: research/images/2026_live05_248839_59_d78c7ff0ec.jpg
-- size: 946x529
-- sha256: d78c7ff0ececd441b52b39c336f0d40b8c44441624cadf5b5cecd16ab9c74c10
-```text
-a ~ on we Eee ee IRIS CA 다 ¥ soo | arms :
-Hs aos | sete one |
-ees 들 Manele 5:25 트고 |
-a S| | aii meee ㅜㅠ ZENE 링티
-아스나 그게 cucturel wrprsceres titer. "0 |
-= “AND {RON a 이 Mik 7{¢%
-a ly | Ka i24 SS em Vise b 8 anos wfc
-eee) tc PS Sehr) Pye SP 후 호 i » mol
-? _ iss Nae pms t oe 00 때 700
-0 gia tae “ae 때 0. 100 oes ane 이나라
-ae 개띠 anh. yo ~ a 을 아사 Fa COMI ID 00000 70000 =
-z T 느--. 베라 조 ae! _ vi CONT wire Me Span AS Ee LLG Me a a ,
-See eRe SOC, 으으. 을 원 . Mireur i ie eae CU Lt Seri S
-ty, 개호 = i ee sity et | / 수 ho a at 2 i a 1 oS 빼 더
-& tapes gots “Saher seine Bet gn Sve. Di 70082 2
-오씨 Sa Gaeta age eee 7 noe ba f Sea er > OR aah a 빈에이드 =
-erate el wh Vi en a eal: : CULTURE TANG ciate wes TS010l= 1)
-시하 내나 i a ae PEA { i as qb:
-TURE 4 | = es ae ui
-—s moo Ano ||| 101 호이 J
-: ay ll Lag
-ant ——— emily. =
-ee rece ‘\ ee a | ee eee Be eee :
-Bian soe Se “ eoseteianeshiraeeatioremnaentemernio sie ine
-… = 뽀
-ts C - =
-a a 4 - e ~ = E : ma Rae : + d
-ee ~ Sees ; ore 애즈 SARS uae Ds
-: ae 0 es Sanaa in Jae ae J aaa Seca: Ss
-(| : 303 SI saan gy gece ie 0 seg? ie - Fp UN ee Ne pc ae oe eee nena =
-= TiO TS ARO PTE Ta tenice tn hay > eet 도데 그 이 ~"
-op 0 70000 000200000000 00 이 시 ee a -
-```
-
-### image 60
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180727_김영웅노다웃홈런1.gif
-- file: research/images/2026_live05_248839_60_894541e94e.jpg
-- size: 949x529
-- sha256: 894541e94e4b6b1ffd26e4279d43d0e5f542495db913c50e545ee41e0d05d781
-```text
-“~ =
-해이 es 0. ABs
-| 7 - ㆍ fog 3 sper!
-개 12 coo
-jo * 「-
-이 ae ea wo
-~ tat S| ae 00010 1
-CULTURE Lan "ad Hlad UES re ' 마져 구려
-] : 때 y fp CR TROT SP a ‘ = oi i ol
-sin aaliegd fete ee ee ke te ee _
-Seer ccc, 2. — = OS een
-버나 Sy an < eter tT ih | | | {ge Rae 이이
-eames ie Beh au o Boaet eee 에 ee 때 = = i * ie | cs cena skaaonsbad
-SER area E tres aa ec oom ae i 09060 ne 7, { Poet a ta seicee ae ule 000
-a ee — a) ee
-HIS | UN PONE BEL 00409 DEAL Ree | fej; "seer 도 ‘ qlWC COFFEE “Bewe WIS,
-== = 2 a x = Bie Ss : | a ON = = ~
--. 소아 cece 오가는 ental ce Res ee <
-애나 시아자 ee ee ~ 10 00000
-age 으오 버짜네0 2 차 시
-```
-
-### image 61
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180739_박영현.gif
-- file: research/images/2026_live05_248839_61_0cb44d7da9.jpg
-- size: 720x405
-- sha256: 0cb44d7da9659c2ace9a3d4b3474d21376cca3f6a90dfeb285ce3942f043107b
-```text
-※ -@
-한
-a
-os
-THE
-1
-Soe Ry:
-re SR on tg ee ee Be So See ee 더아조스 0
-3 es "pant mate SR os WE Re \ SRE ps SEES oe a See SIE
-%- 2 sania : Meg PO ya stp orgs Pas Vie See Ue a ere
-= ines eo ee SOs eae Soe ees
-- a 때 ~ exer Ss Se ae eee
-고 님 도. 때 See Peas Ra em
-~~... a
-```
-
-### image 62
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_181508_박병호풀모션1.gif
-- file: research/images/2026_live05_248839_62_f48adbbccc.jpg
-- size: 960x540
-- sha256: f48adbbcccd55663e38728658ec3645a9996a1e440133484509d99395f05cc9a
-```text
-Ch
-POUR pert erec ai “or ba 4 g &
-g i Ps = 『 " 7
-‘ 2 _ -. 쓰 —
-0 eee a Si, ae. ine. ; 그 ~ ee
-Pts So % : ee 개 5 Sine ee . 30 ~ petite Shanna Sica Ne SR” SAIN canes ati
-0” = eae ~ … 30 ~ ee: x ' ee sg : ee ee se
-ine: aS. cis: ji. aa SE ea ei th: WO ge ee eam
-— 이 eee pe eee 8그 -_ ee Te | A ec Pam eee ie
-수 - a oo oa ME ks y ae 삐 을 0 — #
-Ps : e : | 을 Ne Se. gee : oy ~” Ej % 7 ~ Se thie YS
-= SAB, yp Eds ~. Re ee 6 Go eR Ce,
-8 …. = 개 개 . 0 Ys} 호 - 「 ge “4 : oe . 호 dl ae ic 3 "Shelli: heat
-a ee al a ~
-PRED 09 BF 호 ： :
-베게 제 ey 더 TN i cori — = 0
-뼈 . . 기
-이이 에에 제어 1! aan a
-= re
-: ; Se 8 : 으으 '
-6“ ^ me = 5 ~ 5 sei eae ass Sc ec
-2 . Si ear ra eR 002 ~ 다아 a agh orto pees ner UI REN oii “ee abe
-x 카라 그 eR eee Sita 이22 에
-2 er aes StS. 22 7 Sane oe amas See toe aie ees Sse pas: EP es : ies er x Sas
-Se 000 ~ 으으으
-자애 Ses efi loony ake one Fir ce gc ee Gey Abe oe CNY ee IE Gee! sant RCE 비마 =
-eg pee ie eee EDO ee eT aS Sag oR eu cep reerry gee ps EE oT EIEN re.
-oan Ee a et Se ye es
-err rae Fe rae eer op nat ee See Spee OER See No oR SE Le ce RRR
-```
-
-### image 63
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_181146_강백호풀모션수정버전.gif
-- file: research/images/2026_live05_248839_63_422fdc9838.jpg
-- size: 960x540
-- sha256: 422fdc98382ed686375fdcd0267cea664f03608a579d78e2d7fea2bf41c8e3fe
-```text
-4 4
-vA
-i
-2 | ^
-ao N |
-```
-
-### image 64
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_181421_이정후풀모션.gif
-- file: research/images/2026_live05_248839_64_c364f8c3dc.jpg
-- size: 960x540
-- sha256: c364f8c3dce941d820af210cec5e597a58f077c4d0067cbf90ec445d75799717
-```text
-oe
-Of xy nw
-Nee
-“Sey
-```
-
-### image 65
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_181554_김도영풀모션1.gif
-- file: research/images/2026_live05_248839_65_07be3ab0ba.jpg
-- size: 960x540
-- sha256: 07be3ab0ba61c47fc4df8ac9e2234c58477ea4bb10c224c6ed9b6a1b844fb809
-```text
-See Pe ia a re RR ce ete ey Pe ET LE Ri ce ae ee SW cnn ae hag He ae Beye ae ge Sone 도
-Soe Ie 헤이 으으 으으
-수고 SN Sn A Neigh pe tea Kae Sk Bae Git tes any enn Rn sae eee get CP ad ae ee ge iy tate ie Be Ft he Lar ieee Sey
-Fg heal sheet che Rae er 으라 a perc eat RE EE Sa Saantehy Ch nar AE Wepre Dae 2000
-Big nee eo oe Ba tee ea eos OE I pee iy Ope
-Da gt ee ｜
-i 23 ee
-a Bia ie) A ROP aaah ty EO tr Lay ke Hee alle ene Pa Soh Meh 6 or EO Races ee PR SE a Ee ine ©
-시시 oy Sie tres eee We ete ee ig ee eee 2630
-EO Tha ee et eg Estee NE eis Mies ee fe Suis uch
-nee we ~ me ee ee
-2 Se Sp eae a a a. Fig Sa ie Fe eee ~, ~ 아수: lea fap ee er 은 Pens
-<= eet Sgt es at gai a an ge od Weg Sh Fry Sere ge f FS Sane oT GS ES De Ne 재뻐두분가
-6 ees 220 oe & 『 이 이이 시이
-ep keto me gee aoe 2 아사 Rael we eS Oe pe Re eee eR
-EES a ee LINE iinet lly ee eee aot 아바스 애란 사모라 스고,
-eens Ble EB ake eed sei nas foe prec pe etsy aie ea fee Ste a ae
-SS nse ae egy se Op eal at ae. a A Tee ee eet Sins an ee hee eee ©
-260 나자 20000 바오 다 28996 Bar on 0 Pepe Eas Sige ght
-0209: LE eee tal en ot 000 오오오 가
-OEE A Tit PEO Reena tlhe pt Ea Be LE EME oe ie ok ee he a ek rues
-소송 MR A eG el Ce ais 8
-Oe EE OIE pe Be CA Bee
-ee eB of ~ 그 ~, 가 에노 cet Gos Vk eR Sakae ee Petes w EE pete es es ;
-be ee, eee Re els Beats Saat ee a Ge
-catered LS eS SMP ee se Ptah ag IEE, CT re ae 우가:
-RAE ape pa Ta St tim Be Nee ig oh
-가 UA ee hy PORE Ge ig pecan, POR ern eae el Se
-Ie eI 개 에어 그 시 es ee peli eae ieee se 이소라 새우 고 예시,
-0028 6 so Se Die gee ee Weegee ote 는 eg : Ser oe ae ai ^ ee Eg 8 we a .
-agit 2 ine es 오소 eee Keone ! 구수, pases ae Ate eS,
-Pu CTY IU, Gag iy Og Deeg tt fie Baal Mee aT oe
-PEED oe GE Ak (EST MER EI habe a Fee Ee eke Pepsi av ihe bate
-Papa eaae S Magee h Ben Ce Sg CRE Ry ea PLES eee Sa tah Fo EN ras
-PT Poe mn AAR ee 20000: 세 Cn Ne 자오 PU PRP a Spee eS
-Bibi bg AE ARID: CAGES ole eee
-her Pena tte Moca tee, we igs Ce pi ieee aie aed ieee pur noneceany
-pe aera gat Ps eee ory, atone 57200 mee eg Seis eRe RS Gas
-ae : 0 개스 라이 배어 bret 개 Pe Z oie es Bassi acy fa ey 124 ogg igs i: 대 도 ro 으시
-DE Be Ni Par, Te 가이 ee PRO Oa Na 은 그가 CROs Sie Me 오어 Arie wy 내소 : Nise 우이 수도
-```
-
-### image 67
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180520_image.png
-- file: research/images/2026_live05_248839_67_733b0b8bbd.png
-- size: 1845x2048
-- sha256: 733b0b8bbdac70f2e0bc7a5f4d39f7eb89be106227855006c2bae70e9c9b6cdd
-```text
-i : ` Pee 베0
-둔한 ~ S =
-[0 0+ 개 ) 90/90
-선수 도감
-0/50 ES 하카"
-! epg A OSES | RRA A ee. | See RN A
-a * 자마 eee : 대 » 4 SS 2” eas fF , 기거 nee tees ero $ J )
-SP gw SP | | 아~ | ere ae Se al ise KOM! Ese 6071
-a se | A Gn?’ ~ pec |, | 2» mmezy J
-* 1 a oY / el 73 : J 4¢ : 겨 S he CCA‘ i ics
-eA AY | '/ = 022 b 이 Md (| ia
-AS N ie ^ 24 : | (054 개
-nae \ | Oy = te eo ~ ‘a ad ~ “wf 54 a <— ‘a
-"내 [Sea . 4 ia — JS : ~. A 2s SF te
-» A 444 fee SEAS OM 때 ue dae SEASON
-I De ee Ores p!4 > ne ne fo ‘SEP
-< 양현종6'17 SSS. SaSB'19 OSI ZS Bild) SASB 19 SASB24) Tos SHSB'18 양연종6.12
-1 se os : < ㅣ, oud ig one 4 고 4 i 5 셔 + > 본 : \ 00 gy ae a yy . < , )
-07 Lae. 7 fg pe SP 1 ㅜㅠ 아호 Shar aap lam 0 . i) 더 @. \ lam
-Ｌ , 내 ae ee …% Com a 6 » ' 일 "시 ‘ ie 1 | & as 6. : oo} : ~ gel 고
-co 호 -/| ia § 41 는 = > SO AF a [ i 0° AA | oe arr)
-년 NEY Zi \ 및: TIGERS TIGERS a OES 7 i ~ io a 7 별
-Be ———_ N ' 타이 <= i Se 6 ~ =
-+ SA = y PS LA STAR | Paras adit SIA | ae
-aa ba) Les ㅣ bee “6 님 1 ] A—~ ; IT A < 는 홈 i) = “ 가치 조 01 > » a 넌 = ke ㅣ 0 [드카
-이 RS HSB 14 PSN GASB 23 | 을 양연종6 23 ^ ^," 양연종6:22 SASB18) BSN SHSB 17 양현종6115
-, ~ ~ 시니 a 20600 대농 iz Ci RAR ory being 키/ 67 22222 TT 67 hie yi eee Wy. |
-oS —S Hee Sea 22 7 Pea 2;
-ar a NY NE | Si oe ae ~ ; 40 SP C 작목 | SP ~~ SP 1 sh ae NYS
-_ % 4 7 . 4 Seen ‘tae 7 『 = ib -
-| ~ ke 24 0 ~ Mig | 고 ' : ¥ mS. \ 고 : ~ 하스 a
-oll IF nye. ee id - 0 (mae < _ — … (77 ※
-1 ~ — /> hs Ba “i 따는 ~ A . — * 4 " .
-' CB AL =a) ANE, a |B CB AM / TIGIERS 』 “TIEIERS a 7 &
-eT SERSON SERS ON RF | 때 = SEASON BS ： 00000 % Se 0000 a SEAS Dt |
-양현종6114 SASBIG) “TN 양현종6'10 양연종비091 ~ ㅠ .양현종8'24 < YF .양현종8'24 양연종8.10
-< 뒤로가기
-```
-
-### image 68
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180537_image.png
-- file: research/images/2026_live05_248839_68_9e0c706ccf.png
-- size: 1845x2048
-- sha256: 9e0c706ccfe4afbdc80df961d18736716de17777d9affbcfa0996a10ec2a4b52
-```text
-ae … 이미
-To 베고 1 e 1+
-일 플레이 기록
-Ley: Sk ae ~ ip oe
-SA’ “ita if … » Gee
-CD > 실시간 매치로 진행되는 친선전을 즐겨보세요!
-OTE iy 020
-2 ㄱ
-. 8
-^ 시 a | 때 ㆍ
-2 171 10
-a” =
-a “bad (8
-Real aw c
-si \
-3: =e RT
-L Pe al
-i
-참여자로 입장 관전자로 입장
-참여자로 입장 시 로비로 입장하여 상호 작용이 가능합니다.
-관전자로 입장 시 상호 작용 없이 경기만 관전할 수 있습니다. .
-```
-
-### image 69
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260526_180550_image.png
-- file: research/images/2026_live05_248839_69_8e5e609d72.png
-- size: 618x235
-- sha256: 8e5e609d7250d925fffd5c09ecc705baa612f08d157b55dd2381a715564a613e
-```text
-54
-프리미엄 출석 체크 25회차 보상
-시그니처 카드 구단선택팩
-프리미엄 시그니처 카드 구단선택팩
-신규 유저 지원 패키지 2 구성품
-시그니처 카드 선택팩
-프리미엄 시그니처 카드 선택팩
-신규 유저 지원 패키지 3 구성품
-임팩트 카드 선택팩
-프리미엄 임팩트 카드 선택팩
-복귀 유저 지원 패키지 1 구성품
-시그니처 카드 선택팩
-프리미엄 시그니처 카드 선택팩
-복귀 유저 지원 패키지 2 구성품
-임팩트 카드 선택팩
-프리미엄 임팩트 카드 선택팩
-```
-
-### image 70
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
-- file: research/images/2026_live05_248839_70_de4b4525e1.png
 - size: 780x200
 - sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
 ```text
