@@ -1111,6 +1111,761 @@ Cc
 구릉 26
 ```
 
+## 2026_live19_307490
+- source: https://cpbv-community.com2us.com/board/3/307490
+
+업로드 이미지: 23개
+
+### image 2
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171450_image.jpeg
+- file: research/images/2026_live19_307490_02_159331357e.jpg
+- size: 780x200
+- sha256: 159331357e5273214eef8a0aafd808e4587b15452db6b36bddbce110df976c0c
+```text
+~ ST
+SAY,
+>
+~ ㅅ프로야구. 해,
+= 구도
+%
+|
+22 -
+ㅠㅠ
+of=
+erence
+```
+
+### image 5
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171630_image.png
+- file: research/images/2026_live19_307490_05_b2fa428faf.png
+- size: 680x1147
+- sha256: b2fa428faf6a99f9d28918d39ef0cc3209fda621f83987702c18e6cf63ec1826
+```text
+[가을사나이] 임팩트 신규 리스트 (18명)
+KIA 전상현 cP 74
+KIA 정해영 RP 73
+KIA 카스트로 18 71
+KIA 김도영 3B 77
+kt 장진혁 나 73
+kt 힐리어드 CF 78
+LG 이우찬 RP 71
+LG 박해민 CF 77
+LG 박종호 28 73
+NC 김영규 RP 72
+NC 루친스키 SP 78
+SSG (SK) 정대현6 RP 70
+SSG (SK) 김성현 SS 69
+두산 홍건희 RP 72
+삼성 구자욱 DH 72
+삼성 박승규 나 76
+삼성 후라도 SP 79
+삼성 이승민 RP 74
+```
+
+### image 6
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171635_image.png
+- file: research/images/2026_live19_307490_06_9af321180e.png
+- size: 681x743
+- sha256: 9af321180ec242ed6c6fab9baea3adfaf393678fea8ed564227092c91b25fe53
+```text
+슬로우 스타터] 임팩트 신규 리스트 (11명)
+소속팀
+선수 이름
+포지션
+종합 오버롤
+kt
+배제성
+SP
+75
+NC
+천재환
+CF
+72
+NC
+박석민
+3B
+72
+SSG
+아빌라
+SP
+77
+두산
+세베리노
+18
+70
+두산
+타카다
+RP
+71
+롯데
+한동희
+3B
+70
+롯데
+김주찬
+CF
+76
+1B
+70
+키움
+데이비슨8
+키움
+조영건
+RP
+71
+한화
+최인호
+CF
+70
+```
+
+### image 7
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171640_image.png
+- file: research/images/2026_live19_307490_07_f5fc03da45.png
+- size: 683x510
+- sha256: f5fc03da4583961661c6182d0140a74e463ee9c657021df9575fb4a548f8f931
+```text
+[얼리 스타터] 임팩트 신규 리스트 (7명)
+SSG(SK) 박경완 C 72
+롯데 현도훈 RP 73
+롯데 최준용 CP 75
+키움 박동원 C 72
+한화 이민우 RP 71
+한화 권혁 RP 75
+한화(빙그레) 이정훈 CF 76
+```
+
+### image 8
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171646_image.png
+- file: research/images/2026_live19_307490_08_36fe049e68.png
+- size: 675x217
+- sha256: 36fe049e68a07b83e9c904685c8693b9293e302eaa2628cfe6c9fee460c35d6a
+```text
+[빅게임 헌터] 임팩트 신규 리스트 (2명)
+종합 오버롤
+쿠에바스
+78
+정민태
+SP
+78
+키움(현대) |
+|
+```
+
+### image 9
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171653_image.png
+- file: research/images/2026_live19_307490_09_17be652f65.png
+- size: 681x219
+- sha256: 17be652f65a6d9b0cbf2bcf7b4890e3f915a9dd28c4fdb8458e98f096bb055c2
+```text
+[여름사나이] 임팩트 신규 리스트 (2명)
+LG 김진성 RP 73
+두산 심재학 RF 76 |
+```
+
+### image 10
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171658_image.png
+- file: research/images/2026_live19_307490_10_c9ac4f93d2.png
+- size: 668x288
+- sha256: c9ac4f93d203309cf9f6d893221804bfd738d7f304479b08c5b4e77fd321aec8
+```text
+- 셨
+es
+시
+월한국 시리즈
+«
+ies
+우금 S0t OME
+마이 이벤트 WH
+ME.
+|[올사나이 ::
+< 47
+```
+
+### image 11
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171701_image.png
+- file: research/images/2026_live19_307490_11_18a6a0443b.png
+- size: 668x288
+- sha256: 18a6a0443b5220f0ca31d3fa00ac7d8c32addd789b6d7a123a7aad9865cc66ca
+```text
+"에
+2
+IMBAC
+0
+가을 사나이
+출시 기념 플레이 이벤트; ok
+608
+a —
+Le
+=
+```
+
+### image 12
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171714_image.png
+- file: research/images/2026_live19_307490_12_d5353bca0d.png
+- size: 728x915
+- sha256: d5353bca0de92823e893dc4b860d68645a33b1b05d85b79b302bbb7d11a6eecf
+```text
+신규 국가대표 타자 리스트 (14명)
+KIA 김도영'26 72
+KIA 박재현'26 LF 66
+kt 안현민'26 RF 62
+LG 문정빈'26 1B 59
+NC 김휘집'26 38 62
+NC 김주원'26 55 68
+SSG 조형우'26 C 60
+두산 안재석'26 38 62
+두산 김민석'26 나 64
+롯데 한동희'26 38 61
+삼성 이재현'26 55 61
+삼성 김지찬'26 CF 68
+한화 허인서'26 ( 62
+한화 문현빈'26 LF 67
+```
+
+### image 13
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171717_image.png
+- file: research/images/2026_live19_307490_13_3d3797f71d.png
+- size: 734x914
+- sha256: 3d3797f71dc7f8c0f0bea7100931cba8e5ae7cdb2a3c93e6df5994bcd4305a28
+```text
+신규 국가대표 투수 리스트 (14명)
+KIA 성영탁'26 64
+KIA EVA C'26 SP 65
+LG BSP '26 RP 64
+LG 박시원$'26 SP 65
+LG 우강훈'26 RP 64
+NC 이준혁'26 RP 63
+SSG 김민준'26 SP 66
+SSG 김건우5$'26 SP 66
+SSG 이로운'26 RP 65
+롯데 최준용'26 CP 66
+롯데 김진욱'26 SP 69
+롯데 박정민'26 RP 66
+키움 전준표'26 SP 64
+한화 조동욱'26 RP 65
+```
+
+### image 14
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171828_image.png
+- file: research/images/2026_live19_307490_14_690ba3af2d.png
+- size: 1350x471
+- sha256: 690ba3af2d2b9bbae3554d6122380f503a841e2a86a54d9a75ffafbbc2f19155
+```text
+스킬 아이콘 및 이름
+스킬 설명
+＊ㅜ
+~ |
+>
+타자의 모
+드 늦렬
+ㄴㄴ ie |
+치가
+<)
+[1/1/1/2/2/3/3/4/4/5] 증가합니다.
+|
+y)
+백투백 홈런
+직전 타자가 홈런을 쳤다면 상대 투수의 구위, 제구 능력치를
+[10/10/10/10/12/12/12/14/14/14] 감소시킴니다.
+클럽 대전, 홈런 레이스, 클럽 홈런 레이스인 경우
+파워.
+전화 능력
+on on
+치가 추가로 [2/3/3/4/5/6/7/8/9/10] 증가합니다.
+```
+
+### image 15
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171832_image.png
+- file: research/images/2026_live19_307490_15_baba5fabe2.png
+- size: 1440x199
+- sha256: baba5fabe2ef89a37e0b532806ec70b1d1e274d16a3ea7e5c6f0f0670615dd7e
+```text
+아이템명 필요 클럽 코인 구매 가능 횟수 구매 조건 판매 기간
+백투백 홈런 확정 고급 스킬변경권 x1 10,000 계정당 1회 클럽 대전 누적 경기100희 -
+정밀 타격 확정 고급 스킬변경권 ×1 30,000 계정당 1회 - ~ 2027/02/09(화) 23:59 까지
+```
+
+### image 16
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171844_image.png
+- file: research/images/2026_live19_307490_16_e560e37548.png
+- size: 673x1115
+- sha256: e560e37548697089bab26c3eb2adb9bfef010830949753f310b3e01a686cb801
+```text
+7436 +
+124 |
+"전
+치
+클럽 상점
+계정 구매 제한 0/1
+457
+anor
+SMILE CHANGE
+Ayia? hh
+9 0875.
+클럽 대전 누적경기
+클럽 대전 누적경기
+100회 달성 후 구매 가능 200회 달성 후 구매 가능
+on
+2 ee
+1
+정밀타격 확정 고급
+스킬변경권
+30,000
+계정 구매 제한 071
+분기 구매 제한 073
+NX
+클럽 대전 누적경기
+100 회 달성 후 구매 가능
+1 MAPAS:
+MPAC
+SELECT PACK.
+ANDOM PACK
+원클럽맨 임팩트 카드
+원클럽맨 임팩트 카드
+선택팩
+랜덤팩
+2,000
+© 2,000
+주간 구매 제한 0/5
+월간 구매 제한 071
+월간 구매 제한 0/1
+PREMIUM
+TF
+(07000 )
+|
+ㅣ 미까태페대
+—
+Giese,
+~
+|
+|
+|
+Bet 카드
+2y
+(55
+<뒤로가기
+```
+
+### image 17
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171850_image.png
+- file: research/images/2026_live19_307490_17_260d0b6fad.png
+- size: 774x246
+- sha256: 260d0b6fad02c2d56a9ea2ed56b7ef90248bfe194b4b354227ae391a5d02a29d
+```text
+클럽 대전 매치 기존 보상 개선 보상
+DAW 스타 x50 스타 x50
+TOT 클럽 코인 x200 클럽 코인 x250
+스타 x20 스타 x20
+패배
+클럽 코인 x100 클럽 코인 x200
+```
+
+### image 18
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171913_image.png
+- file: research/images/2026_live19_307490_18_3604bd3b55.png
+- size: 1000x2048
+- sha256: 3604bd3b5573ef77f8a36d76e399b013270fc2f343ce65e2c065b5db5af966ba
+```text
+ㆍ ㆍ
+~ 000
+ll
+ㅜ ~
+자자
+도
+. ㅠㅜ
+기
+—
+—!
+|
+2 few
+|
+| |
+2]
+(a
+- ee
+i 너머
+9
+ens
+SIAN A
+oe
+x,
+<n
+a
+es.
+pate
+oa,
+it, 그
+‘oe
+oo,
+IT. Fae aap ent
+~
+a 0
+도 그
+At
+경기 보상
+Sa
+매치 보상
+oO 1
+순위 보상
+순위
+보상
+승리
+1k &
+WIN
+x 300
+OAH
+ToT
+> &
+DRAW
+$
+×50
+×200
+패배
+1k &
+LOSE
+x20
+x 100
+```
+
+### image 19
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171916_image.png
+- file: research/images/2026_live19_307490_19_69cbcc3cae.png
+- size: 1006x2048
+- sha256: 69cbcc3cae283c0b7f3e0552a911f9ab477a1c73f1eca573aee17a20e5e09dc0
+```text
+ㅜㅠ
+「
+|] 2222
+^ 주
+Cee
+~ 겨
+id 스지 개
+YY
+=!
+|
+=
+Poe Se.
+…
+~
+| |
+~
+ㅁㅁ |)? |
+a -
+ee
+내
+=
+=
+= 7
+i …
+2, “w
+om
+Roe
+ala gsiad
+가 ye
+et ae
+0
+~~
++o
+cin
+하 개 al
+~
+경기 보상
+드 그
+At
+순위 보상
+을
+=
+순위
+보상
+시 ，, | ¢
+WIN
+더
+|
+×100
+×300
+무승
+m1 BS
+=
+DRAW
+호
+|
+×250
+패배
+LOSE
+호
+|
+×200
+```
+
+### image 20
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171927_image.png
+- file: research/images/2026_live19_307490_20_9c46bf8390.png
+- size: 1047x250
+- sha256: 9c46bf839045663566b12fc4f5a050e6687a59b45b68e86c22a26db0cf43aba5
+```text
+역할군
+기존 효과
+개선 효과
+상대 에이스의 OVR 평균이
+노으 겨으
+프르 oT
+상대 에이스의 OVR 평균이
+노으 겨으
+프르 oT
+에이스 킬러
+자신의 OVR +3
+자신의 OVR +4
+오프너
+OVRO| 비공개 상태인 상대를 SAS 경우
+OVRO| 비공개 상태인 상대를 SAS 경우
+자신의 OVR +1
+자신의 OVR +3
+```
+
+### image 21
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_171947_image.png
+- file: research/images/2026_live19_307490_21_e74e393c6b.png
+- size: 1002x2048
+- sha256: e74e393c6bd703069bd85b95ae1e460ca6adbc75fab28a3d5e4b2d003e6a8686
+```text
+ne
+클럽 대전 역할 정보
+고
+* 배치된 구장의 매치 스코어 제공 점수 다음과 같이 변경
+5/3/2
+~~
+6/4/2
+느 다의
+* 에이스 플레이어
+ㄴ 2
+매치 승리 시, 보상 2배 획득
+* 에이스를 공격하는 유저는 단판 보상 2배
+(승리/패배/무승부 모두)
+에이스
+* 에이스끼리 대결 시, 단판 보상 3배 획득
+(승리/패배/
+TST
+oAw
+모두)
+* 상대(에이스 제외)의 OVR 평균이
+ko FO
+me oT
+자신의
+OVR +2
+* 상대 에이스의 OVR 평균이
+노으 FO
+me oT
+자신의 OVR
++3
+* 상대 공격 실패 시, 상대방의 방어 OVR 감소 없음
+에이스 킬러
+(OVR 계산시, 방어 성공으로 인한 OVR A
+0
+소
+를 포함)
+르 DAS
+* OVRO| 비공개 상태인 상대
+2o te
+경우 자신의
+OVR +1
+* 공격 실패 시, 상대 OVR 2 감소 (동일 대상 매치 기준
+마 저요
+최대 1회까지
+oe >)
+QL
+* 본인의 방어 OVR -2로 시작
+* 자신의 라인업으로 플레이 시
+,Loe2
+XK
+4
+2=
+레이 모드(백투백
+플레이) 선택 가능
+백투백 플레이 모드 진행 시, 단판 보상 2배 획득(상대
+A 고겨
+에이
+— 가 열
+시 최대 3배, 승리/패배/무승부 모두 적용
+배트배 프
+7 ㄱㄱ “ㅋ 0”
+레이 모드로 공
+ZA A!
+a |
+=
+패 시, 상대 OVR 2
+&
+증가(빠
+meote ee
+= 지핸 Ck SH
+라인업 사용 시 미적용
+배트배 프
+지저 프
+-ㄱㄱㄱ —|
+레이 모드에서
+fon — Ba —]
+레이하는 타자의 Et
+서 도아
+ㄱㄴ
+OVR +1
+백투백 히터
+프
+진전 =
+a 호러
+백투백
+2
+레이 모드에서
+ㄱ녀 2
+레이로 3타자 연
+on i —
+후
+승리 시, 매치 포인트 +1 추가 획득(매치당 1회)
+, 배트배 프
+지저 프
+소 츠근
+ioe es ees Ee —|
+레이 모드에서
+io ff - Ft —]
+레이로 3타자 연
+ㅋ 2 ㅜ
+시, 추가 보
+At sI=
+ou™mm™
+(매치당 1회)
+역할은 클럽 대전 시작 전까지
+클런장고
+로브
+| 부클럽
+자
+oO
+이설
+전미 AA
+oO
+xX TO
+가능합니다
+xX
+```
+
+### image 22
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261110_172008_image.png
+- file: research/images/2026_live19_307490_22_b3165abf6d.png
+- size: 1011x2048
+- sha256: b3165abf6d7be27167ef73ad5e5d21a214afaf567fa4d4315cdc612069cc5c5a
+```text
+클럽 대전 역할 정보
+es
+* 배치된 구장의 매치 스코어 제
+그
+o aT
+AA
+다음과 같이 변경
+5/3/2
+>
+6/4/2
+* 에이스 플레이어는 당일 매치 승리 Al, 보상 2배 획득
+* 에이스를 공격하는 HME 단판 보상 2배
+(승리/패배/
+ToT
+oAw
+모두)
+에이스
+* 에이스끼리 대결 시, 단판 보상 3배 획득
+(승리/패배/무승부 모두)
+tro WO
+* 상대(에이스 제외)의 OVR 평균이
+rma oT
+자신의
+OVR +2
+노으 겨으
+* 상대 에이스의 OVR 평균이
+me oT
+자신의 OVR
++4
+에이스 킬러
+* 상대 공격 실패 시, 상대방의 방어 OVR 감소 없음
+AO
+(OVR 계산 시, 방어
+oo
+로 인한 OVR 감소를 포함)
+* OVRO| 비공개 상태인 SL
+= 고겨한 겨
+eon
+oO
+우 자신의
+OVR +3
+* 공격 실패 Al, 상대 OVR 2 감소 (SS 대상 매치 기준
+최대 1회까지
+마 전요
+Le 105
+오프너
+* 본인의 방어 OVR -2& 시작
+저요 프
+* 자신의 라인업으로 플레이 시
+,Loe2
+레이 모드(백투백
+플레이) 선택 가능
+백투백 플레이 모드 진행 시, 단판 보상 2배 획득(상대
+ㅅ 고겨
+에이
+—_ OI
+시 최대 SHH, 승리/패배/무승부 모두 적용
+백투백 플레이 모드로 공격 실패 시, 상대 0\ 2
+지해 (Ch 크런
+&
+증가(빠른
+(Ry ㄴ — 2 — |
+라인업 사용 시 미적용)
+배트배 프
+199 2 0902 비 - |
+레이 모드에서
+지저 프
+“a =
+레이하는 타자의 Et
+Ad 도아
+TON
+OVR +1
+백투백 히터
+백투백 플레이 모드에서 직접 플레이로 3타자 연
+a 호런
+a i —
+후
+승리 시, 매치 포인트 +1 추가 획
+=
+aay |
+(매치당 1회)
+지저 프
+소 츠근
+» HHEBH 프
+a ㅋ 2
+레이 모드에서
+7H 2
+레이로 3타자 연
+on 2 ㅜㅜ
+시, 추가 보
+At 회드
+2-ㄱ
+(매치당 1회)
+클러자
+미 스저
+역할은 클럽 대전 시작 전까지
+2HO
+과 부클럽장이 설정
+xX TO
+가능합니다.
+xX
+```
+
+### image 23
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
+- file: research/images/2026_live19_307490_23_de4b4525e1.png
+- size: 780x200
+- sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
+```text
+| 컴투
+스프로야구
+구릉 26
+```
+
 ## 2026_live18_305099
 - source: https://cpbv-community.com2us.com/board/3/305099
 
@@ -7189,2032 +7944,6 @@ ret
 ### image 26
 - url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
 - file: research/images/2026_live08_266019_26_de4b4525e1.png
-- size: 780x200
-- sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
-```text
-| 컴투
-스프로야구
-구릉 26
-```
-
-## 2026_live07_259354
-- source: https://cpbv-community.com2us.com/board/3/259354
-
-업로드 이미지: 62개
-
-### image 2
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164613_image.jpeg
-- file: research/images/2026_live07_259354_02_a2e9a89b44.jpg
-- size: 780x200
-- sha256: a2e9a89b44b76784afce4bb3dae9e3844143813ab0acf821075e5c002cf6fde5
-```text
-프로야구 . 26
-UPDATE
-데이트
-0620 0 제
-7.
-Sey
-~ \
-Creo.
-```
-
-### image 5
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164716_image.png
-- file: research/images/2026_live07_259354_05_cdd5b949aa.png
-- size: 384x773
-- sha256: cdd5b949aa3c87978192c469073fafc5be4b4ede4405f35098a4a3fd25537f02
-```text
-벼
-x
-KIA
-RP
-곽도규
-KIA
-김민규5
-LF
-KIA
-시라카와
-SP
-LG
-박시원5
-RP
-NC
-원종해
-RP
-SSG
-최용준
-RP
-SSG
-해치
-SP
-RP
-두산
-김동주
-롯데
-김세민
-38
-롯데
-조세진
-RF
-삼성
-김상준
-55
-한화
-유민
-LF
-```
-
-### image 7
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164741_image.png
-- file: research/images/2026_live07_259354_07_e98efad55d.png
-- size: 558x1494
-- sha256: e98efad55d6079c59fec6c6358076126efe614438b843a8a61f402c6028adc3e
-```text
-순위
-정산 보상
-홈런 코인 x470
-포지션 특훈 효과 재설정권 ×1
-재료 카드 리셋권 x3
-위
-500 특훈 카드 ×1
-50,000 훈련카드 ×7
-5성 강화 박스 (+1~+3) x3
-5성 시즌카드 랜덤팩 x1
-훈련 돌
-노노 2
-파권 x100
-홈런 코인 x470
-포지션 특훈 효과 재설정권 ×1
-재료 카드 리셋권 x3
-500 특훈 카드 ×1
-위
-50,000 훈련카드 ×7
-5성 강화 박스 (+1~+3) x3
-5성 시즌카드 랜덤팩 x1
-훈련 돌
-노노 2
-파권 x100
-홈런 코인 x470
-포지션 특훈 효과 재설정권 ×1
-재료 카드 리셋권 x3
-500 특훈 카드 ×1
-위
-50,000 훈련카드 7
-5성 강화 박스 (+1~+3) x3
-5성 시즌카드 랜덤팩 x1
-훈련 돌
-노노 2
-파권 x100
-홈런 코인 x470
-포지션 특훈 효과 재설정권 ×1
-재료 카드 리셋권 x3
-위
-50,000 훈련카드 7
-5성 강화 박스 (+1~+3) x3
-5성 시즌카드 랜덤팩 x1
-훈련 돌
-노노 2
-파권 x100
-홈런 코인 x470
-Es
-포지션
->t
-효과 재설정권 ×1
-재료 카드 리셋권 x3
-위
-50,000 훈련카드 ×7
-5성 강화 박스 (+1~+3) x3
-5성 시즌카드 랜덤팩 x1
-훈련 돌
-노노 2
-파권 x100
-홈런 코인 x470
-포지션
->t
-Es
-효과 재설정권 ×1
-재료 카드 리셋권 x3
-위
-50,000 훈련카드 ×7
-5성 강화 박스 (+1~+3) x3
-5성 시즌카드 랜덤팩 x1
-훈련 돌
-노노 2
-파권 x100
-```
-
-### image 8
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164748_image.png
-- file: research/images/2026_live07_259354_08_cbd3fae393.png
-- size: 1845x2048
-- sha256: cbd3fae393380715070575c50f54d25b16f0eb275a1e42d68fc81f2fe54d5aa9
-```text
-】
-계배 ㆍ 새마
-때
-그/ =
-aimed
-_ = = HATA
-nama 여
-ee ten
-ee
-시즌 정산 보상
-1드클래스
-순위
-보상
-*
-141
-%
-¥
-t
-x 470
-x]
-x3
-x]
-x]
-SE
-&
-*
-더
-¥
-t
-24]
-x 470
-x]
-x3
-x]
-x]
-@
-*
-3
-t
-3위
-×470
-x]
-x3
-x]
-x]
-KF
-4위
-+
-x]
-x3
-x]
-“3
-ee
-—
-4
-wank
-%,
-*
-5위
-00
-0
-중
-ae
-or
-@
-|
-F
-시즌 정산 BYE 한 시즌 동안의 경기 결과에 따라 순위를 책정하여
-시즌 정산 이후 우편함으로 제공됩니다.
-xX
-```
-
-### image 9
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164803_image.png
-- file: research/images/2026_live07_259354_09_56b1adf5fc.png
-- size: 1845x2048
-- sha256: 56b1adf5fc4be4daeb4a7b356d84efba70157e0b447e47882509dc8be69d2329
-```text
-ais
-——
-0
-가르
-——
-0
-= —
-ee ies
-—e
-도
-가오
-보상 리스트
-타점 배틀 익스퍼트 달성
-xl
-aa =
-타점 배들 마스터 달성
-단계
-xl
-타점 배틀 메이저 달성
-단계
-xl
-타점 배틀 SAE 달성
-단계
-x]
-Les hand
-ERT tm
-S292
-타점 배틀 HAIN 달성
-단계
-x]
-ata,
-타점 배틀 월드클래스
-S292
-달성
-단계
-x]
-aie
-도 a
-ee
-때
-```
-
-### image 10
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164808_image.png
-- file: research/images/2026_live07_259354_10_0125154954.png
-- size: 1845x2048
-- sha256: 012515495425a18465777fb5129df5c67ffa61ba01455f6a15e80d4e0bd17f6b
-```text
-eee nents
-ares
-=
-a
-래더 그에
-고
-a
-ers
-0"
-개호
-—-
-=o
-—
-ee
-타점 배틀 월드 클래스 달성 상자
-LET Bate
-E
-EF Hh
-EMS 배
-2 — Cc
-CraA
-3
-J I|SGOS 준비한 선물
-종금 달성
-상사입니다.
-보
-O At
-0
-TT TO
-a
-perc
-```
-
-### image 11
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164814_image.png
-- file: research/images/2026_live07_259354_11_db3e430733.png
-- size: 1845x2048
-- sha256: db3e430733deb011415a4cd409a1ff3e52b863fb506b126e2bf46973027ea98a
-```text
-—_—
-aa
-ii
-1 [에
-제
-22
-MPAR
-FLEGT PACK
-11111
-(상위 임팩트
-포지션 특훈 효과
-선택팩
-재설정권
-x]
-x4
-==
-"가르
-Seas
-ae
-a
-ee
-Pane
-```
-
-### image 12
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164817_image.jpeg
-- file: research/images/2026_live07_259354_12_ab9a78c603.jpg
-- size: 1845x2048
-- sha256: ab9a78c603eb6d365430781fcab32d72eb7a84e67d01f31f35f8ee7cb59ddcd7
-```text
-= =
-구성품 미리보기 /
-전체
-—
-i
-0/200
-06305 ㅁ
-때"
-wernt SL
-…/
-ih
-——
-——
--
-상위
-~
-~ wansanat ”
-WARS
-WAR-2t41
-김시진
-이승엽
-바.
-충식
-최
-조소 주 5
-68
-고 개
-RP
-68 week SL
-tee
-^ wane
-WAR-2tH
-WAR
-이만수
-정현욱
-권오준
-김상엽
-67
-6/7
-6) wren SL
-2B
-ween SL
-RF
-went SL
-G/ 주 수 은 SL
-상위
-\&-상위
-WAR
-성주
-ow
-김성래
-구자욱
-긴하수
-0/ 고 SL
-=
-67 xnaeknt St,
-D
-66 **** 6
-x
-고 08
-ee
-```
-
-### image 13
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164826_image.png
-- file: research/images/2026_live07_259354_13_d8ae0ca89a.png
-- size: 498x604
-- sha256: d8ae0ca89a54e828e1915859a7298e64a7fb09a2c6f5561b45806366dc91fb85
-```text
-달성 레벨
-선택지 및 효과
-좌타자 파워 +2
-104
-우타자 파워 +2
-전체 타자 정확 +2
-108
-1~2 라운드 타자 정확 +1
-112
-3~4 라운드 타자 파워 +1
-116
-5~6 라운드 타자 파워 +1
-발사각 15도 이하 타자 정확 +2
-120
-발사각 16도 이상 타자 정확 +2
-전체 타자 선구,인내 +1
-```
-
-### image 14
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164832_image.png
-- file: research/images/2026_live07_259354_14_1dae95fae3.png
-- size: 1845x2048
-- sha256: 1dae95fae32974fd5dd4bcce14c1daaab826de462c1524d19e384a38f8e509cf
-```text
-0
-0+ 속
-300 + @
-90/90
-타점배톨레벨 1 0%
-‘a
-fe fi
-좌타
-우타
-ir
-19)
-ROUND
-4
-3-4
-4
-Ser
-세 ~~ ha
-19
-16
-로기기
-```
-
-### image 15
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164841_image.png
-- file: research/images/2026_live07_259354_15_4746b71bff.png
-- size: 1968x1529
-- sha256: 4746b71bff9748d59315007dbf0f69b70f06a7b7a1787053c4a8ea09122f42c9
-```text
-도전 과제
-Vv.
-@ =
-————
-————
-Vv
-P
-0+ *&
-300 + @
-90/90 +
-플레이
-업적 리스트
-모두 받기
-타점 배틀 1경기 홈런 6개
-달성 1회
-…
-닥성 1 외
-타점 배틀 1경기 홈런 4개
-기아, 0 1
-E
-|점 배틀 1경기 홈런 27H
-드
-달성 1회
-7
-0
-```
-
-### image 16
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164852_image.png
-- file: research/images/2026_live07_259354_16_ef4df3cb6f.png
-- size: 1845x2048
-- sha256: ef4df3cb6f3e5a906916a4d99eae3b4eb19e3ec199ccbecd7ba22bfcff23bd9b
-```text
-보상 리스트
-타점 배틀 1경기 홈런
-A
-‘|
-271 달성 13]
-x90
-타점 배틀 1경기 홈런
-A 0
-\ |
-271 SS 33]
-단계
-×00
-타점 배틀 1경기 홈런
-| 0
-|
-2개 달성 5회
-단계
-x90
-타점 배틀 1경기 홈런
-A
-\ |
-271 달성 7회
-단계
-x50
-타점 배틀 1경기 홈런
-A 0
-\ |
-271 달성 10회
-단계
-x90
-타점 배틀 1경기 홈런
-ww
-271 달성 153!
-단계
-x90
-```
-
-### image 17
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164857_image.png
-- file: research/images/2026_live07_259354_17_14dfeadd7d.png
-- size: 1845x2048
-- sha256: 14dfeadd7d8c323b86b02b8d6daf1e04b58a90ddad3508fbdf7424702a1f7465
-```text
-보상 리스트
-타점 배틀 1경기 홈런
-A
-‘|
-4개 달성 12
-x100
-타점 배틀 1경기 홈런
-A 0
-\ |
-단계
-4개 달성 3회
-x100
-타점 배틀 1경기 홈런
-| 0
-|
-4개 달성 5회
-단계
-×100
-타점 배틀 1경기 홈런
-A
-\ |
-4개 달성 72
-단계
-×100
-A 0
-타점 배틀 1경기 홈런
-\ |
-471 달성 10회
-단계
-×100
-타점 배틀 1경기 홈런
-4개 달성 15회
-ww
-단계
-×100
-```
-
-### image 18
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164900_image.png
-- file: research/images/2026_live07_259354_18_11ba11bd8f.png
-- size: 1845x2048
-- sha256: 11ba11bd8f852fd3e478cf2a3046091d7df1017b4e26775bc856e35fa57c6d31
-```text
-보상 리스트
-타점 배틀 1경기 홈런
-A
-‘|
-67H SS 13]
-«150
-타점 배틀 1경기 홈런
-A 0
-\ |
-단계
-6개 달성 3회
-×100
-타점 배틀 1경기 홈런
-| 0
-|
-6개 달성 5회
-단계
-×190
-타점 배틀 1경기 홈런
-A
-\ |
-67H 달성 7회
-단계
-×190
-A 0
-타점 배틀 1경기 홈런
-\ |
-67H 달성 103
-단계
-×100
-타점 배틀 1경기 홈런
-6개 달성 15회
-ww
-단계
-×190
-```
-
-### image 19
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164925_image.png
-- file: research/images/2026_live07_259354_19_443af966d7.png
-- size: 1968x1540
-- sha256: 443af966d717425eef754c4b28acb853164015ec48a24fb28bf1012451488a27
-```text
-도전 과제
-Vv.
-@ =
-vy ®
-0+ *&
-300 + @
-90/90 +
-플레이
-업적 리스트
-모두 받기
-홈런 레이스 친선 경기
-103 이상 참여
-기아, OS FSS | en
-15
-홈런 레이스 친선 경기
-0/1
-올콤보 1회 달성
-홈런 레이스 친선 경기
-0/5
-5외 진행
-0
-```
-
-### image 20
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164936_image.png
-- file: research/images/2026_live07_259354_20_983a13464a.png
-- size: 1845x2048
-- sha256: 983a13464ad0952d6e3465058ad5d36d678bffaa0afba5a14721874e8153ddf6
-```text
-은
-—
-= ——
-2 oe
-= ve
-ies —
-a
-보상 리스트
-홈런 레이스 친선 경기
-A
-10명 이상 참여
-\ |
-«100
-로
-홈런 레이스 친선 경기
-4
-20명 이상 참여
-단계
-×200
-홈런 레이스 친선 경기
-30명 이상 참여
-단계
-×000
-홈런 레이스 친선 경기
-=
-403 이상 참여
-단계
-×400
-홈런 레이스 친선 경기
-=a
-508 이상 참여
-단계
-×000
-steer
-cert
-=
-```
-
-### image 21
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164940_image.png
-- file: research/images/2026_live07_259354_21_0a33d93c2e.png
-- size: 1845x2048
-- sha256: 0a33d93c2e21b3519f088fedb25420e9afb4db9ed2c76987512c1318b0d25b53
-```text
-saa
-—
-ae
-보상 리스트
-홈런 레이스 친선 경기
-올콤보 1회 달성
-600
-50
-홈런 레이스 친선 경기
-올
-코
-| oe |
-보 5회 달성
-60
-단계
-50
-홈런 레이스 친선 경기
-600
-올콤보 10회 달성
-단계
-200
-)
-홈런 레이스 친선 경기
-코
-=
-co
-보 20회 달성
-단계
-300
-홈런 레이스 친선 경기
-)
-올콤보 30회 달성
-단계
-400
-ci
-sen
-Seer
-```
-
-### image 22
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164943_image.png
-- file: research/images/2026_live07_259354_22_129ff05f17.png
-- size: 1845x2048
-- sha256: 129ff05f17aa50f623b88755c4a420af308de710f40506b7919c75944b071c5f
-```text
-—
-a
-보상 리스트
-홈런 레이스 친선 경기
-5회 진행
-100
-홈런 레이스 친선 경기
-10회 진행
-단계
-100
-홈런 레이스 친선 경기
-600
-단계
-20회 진행
-×100
-)
-홈런 레이스 친선 경기
-30회 진행
-단계
-100
-)
-홈런 레이스 친선 경기
-40회 진행
-단계
-100
-홈런 레이스 친선 경기
-)
-50회 진행
-단계
-500
-2
-```
-
-### image 23
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_164955_image.png
-- file: research/images/2026_live07_259354_23_ca4f975ba6.png
-- size: 1845x2048
-- sha256: ca4f975ba6f84b2a845b62c36b9ce1881ede34baffdf1fefff8e12682f065ad4
-```text
-스킬변경
-님
-@ =
-스킬 변경
-확률 정보
-/'
-SP
-(2
-S
-\
-\ te
-3)
-J
-/
-펴저시
-와근즈전
-우타킬러
-000.
-| '"
-ce
-il
-IF
-vw 2 2 2
-원태
-25
-——
-스킬 변경할 카드를
-를 선택하세요.
-타자
-EA
-ng EE
-rn
-A. A. A A.
-vv y
-Try
-2626.62 2
-KKKK
-amen
-PRKKKE
-| 22626
-72
-00] 066 인
-Sf il
-i Sal
-| oil ,
-Gi
-it
-13)”
-SS
-th,
-SP
->
-Ve
-SP
-cs
-000
-xe
-RP
-RP
-> RP
-Be AG
-‘
-S| MET.
-yi ㆍ
-선발 . 77.
-Aly
-\
-Li EVI
-00S
-hi
-IVE V1.
-Ss
-aR
-20
-Saf IMWEYI) ~ C7 IWEV I.
-57) |
-a 73 ~
-~
-원태인'25
-Fae P| Cae ~ 오클리'26
-양창섭'26
-배찬승'26
-미야지'26
-김태훈6'26
-백정현'26
-0021
-RAK
-RRR KK
-PARK
-6202
-0!
-aL
-68ea 71
-&) 69
-% 6
-ao 60
-Fey
-RP
-CP
-SS
-나
-‘ap SP
-SP
-)S RP
-a)
-Ny,
-ey
-2022V3 in SA
-LEVI) OFF 09]
-LIVE. EVI)
-A 003 274
-f LIVE]
-—
-22272 8 4
-: 김재윤26 |
-최원태'26
-|
-S26
-이상민 22
-| 원태인'26
-스킬변
-고급 스킬변경권
-(시즌&라이브)
-SOE
-x10
-+
-(시즌&라이브)
-ae
-| >
-B x10
-| 스킬 변경하기 스킬 변경하기 |
-< 뒤로가기
-```
-
-### image 24
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165039_image.png
-- file: research/images/2026_live07_259354_24_893ece4027.png
-- size: 1845x2048
-- sha256: 893ece4027b2e42461d05e6d353ad09fbf27cb0c052ab1ca3f0bbbcc8c90f3e9
-```text
-a
-ice
-ea er eee ee
-SBE
-/
-스킬 변경하기
-스
-선수의 스킬이 모두
-벼겨된
-_Oti
-니다. 변
-겨으 지해
-ore Lo
-하시겠
-번
-니까?
-——
-a
-aya
-Oe
-소스
-'
-"SS
-ra de
-2.
-2.
-2.
-shies
-평정심
-완급조절
-우타킬러
-고정상태
-ws
-~
-9
-?결?/
-평정심
-아마추어 - 메이저
-아마추어 - 메이저
-고정상태
-```
-
-### image 25
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165042_image.png
-- file: research/images/2026_live07_259354_25_c0971bf0c5.png
-- size: 1845x2048
-- sha256: c0971bf0c5dbfcc0fcef34450450e6e11d0cb0fd840ce3db95967f5de39dc886
-```text
-오아 으으으
-ois
-우아
-때가
-= as
-ia
-ln rea
-noe
-SBE
-/
-스킬 변경하기
-선수의 스킬이 모두
-벼겨되
-L_Okt
-니다. HSS 진행하시겠습니까?
-두
-ee
-as
-——
-ii eee
-Oe
-소스
-졌
-,
-들
-eee 이 그이 ee
-2.
-2.
-2.
-평정심
-완급조절
-우타킬러
-고정상태
-~
-ws
-2
-Yo @
-평정심
-아마추어 - 메이저
-아마추어 - 메이저
-고정상태
-```
-
-### image 26
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165056_image.png
-- file: research/images/2026_live07_259354_26_27cf6997e8.png
-- size: 901x406
-- sha256: 27cf6997e8b48aad2271a206c17273dc9349ee22cfb56b4dd43f38aff98378cb
-```text
-40701 른 |
-<, 수 — — — — ya SSS ‘
-WN @
-옴스타전 성적이 반영된 라이브 올스타 카드 능력치를 확인하세요!
-```
-
-### image 27
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165105_image.png
-- file: research/images/2026_live07_259354_27_1042706d5b.png
-- size: 512x512
-- sha256: 1042706d5bb702a3aa1c9bcc146ce9fe2895d335eef302647f326e2e3925573c
-```text
-안스
-대
-```
-
-### image 28
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165113_image.png
-- file: research/images/2026_live07_259354_28_1a48d85100.png
-- size: 880x1326
-- sha256: 1a48d8510023a786cb9d8cdc28283eb60ef7832d26a37fcd01a5ed931bcd9267
-```text
-구단 40레벨 달성 선물 상자
-(@) 9일승용 >
-상품 설명
-구단 40레벨 달성을 기념한 선물 상자입니다.
-계정 구매 제한 0/1
-| < | 『,
-tid, ^ \ 5 7
-구단 42레벨 1,000 한계 ZOIE
-달성 선물 상자 돌파 카드 조다는
-1 1 1,000,000
-| |
-```
-
-### image 29
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_182607_image.png
-- file: research/images/2026_live07_259354_29_552e94496b.png
-- size: 558x616
-- sha256: 552e94496bf1f36b198355560c31b11be2558425df5ac5dadaa189fe748f93f1
-```text
-달성 구단 레벨 보상
-구단 레벨 42 달성 선물 상자 ×1
-40 1,000 한계 돌파 카드 x1
-포인트 x1,000,000
-구단 레벨 44 달성 선물 상자 x1
-42 500 특훈 카드 ×1
-포인트 <1.,000,000
-구단 레벨 46 달성 선물 상자 XI
-44 임팩트 조합 카드 x]
-포인트 </1.000,000
-구단 레벨 48 달성 선물 상자 XI
-46 시그니처 조합 카드 ×1
-포인트 </1.000,000
-구단 레벨 50 달성 선물 상자 x1
-48 팀 고급 확정권 ×1
-포인트 <1.,000,000
-골든글러브 트로피 x3,000
-50 HOE x5,000,000
-```
-
-### image 30
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165130_image.png
-- file: research/images/2026_live07_259354_30_e01549b994.png
-- size: 512x512
-- sha256: e01549b9941f3c22a1eeb3a75e8b7127fdc7a3da835dae0aebe0cc3cf20c6681
-```text
-RETRAINING
-oF
-```
-
-### image 31
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165142_image.png
-- file: research/images/2026_live07_259354_31_e8ecde4fd8.png
-- size: 990x153
-- sha256: e8ecde4fd8c532720a6aeeb909f58a0d69c6c990cdb3aeead0c6525a746de853
-```text
-아이템명 및 제작 개수 제작 재료 필요 포인트 제작 가능 횟수
-임팩트 선수 카드 x1
-특훈 재훈련권 ×1 5성 제작/선수 카드 x5 10.000.000 분기 별 1회
-코인 합계 x1,000
-```
-
-### image 32
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165147_image.png
-- file: research/images/2026_live07_259354_32_fec6b2ed28.png
-- size: 1845x2048
-- sha256: fec6b2ed28db4deb6f6a9d7074981cccb4bf4f475bffb53e0155b5f544a0bd4d
-```text
-소
-4
-a
-Vv
-P
-0
-0+ 속
-300 /F) [=
-특별 제작소
-가
-———
-특훈 재훈련권 > 1
-=
-ES A
-변경된
-으으
-대도 디오니 스오 ey ve gee ener eg ee
-특훈 재훈련에 사용하는 아이템입니다. SS MES 시 기존
-ST
-치와
-Low
-oe 4
-a aa
-특훈 수치 중에서 선택할 수 있습니다.
-사용할 MES 선택하세요.
-UE
-o>
-cS
-~
-0/1000
-ac;
-제작 목록 (매주 월요일, 매월 12, 1/4/7/10월 12, 매년 1일 초기화)
-빼
-아이템
-t 0/1
-연간 제한 0/1
-계정 제한 0/1
-분기 제한 0/1
-연간 제한 0/1
-월간 제한 0/1
-분기 제한 0/1
-분기 제한 0/1
-—
-e
-e
-와 소집권
-4
-RETRAINING
-}
-~
-01
-a)
--』
-제작식
-제작식
-81110
-해금 필요
-해금 필요
-1 조합
-[|
-FA 영입 계악서
-[기
-국가대표 AU
-Fe
-Ee
-계승권
-el
-al
-라이브 SAE}
-Se 재훈련권
-[=
-카드 랜덤팩
-a
-re 자
-®
-0
-제작하기
-<뒤로가기
-```
-
-### image 33
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165156_image.png
-- file: research/images/2026_live07_259354_33_b2217f447e.png
-- size: 560x285
-- sha256: b2217f447e88e4e98574117b76c43f6550d56dde70a33ac9bc96462ced213c93
-```text
-보장 능력치 수치
-+2
-임팩트 선수 카드(『ㅅ포함)
-한
-시그니쳐 선수 IS FARR)
-시즌선수카드 ㆍ
-골든글러브 선수 카드
-'국가대표 선수 카드
-+3
-```
-
-### image 34
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165206_image.jpeg
-- file: research/images/2026_live07_259354_34_d86204e07e.jpg
-- size: 1845x2048
-- sha256: d86204e07ec750c8380c488a46b3ede02aad2bd503f566e3889071eba0e254c2
-```text
-® =
-=
-———
-Vv
-P
-0+ 솜
-300 + @
-110/110 주
-특훈 재훈련
-확률 정보
-…”
-나
-he
-0
-노지
-f
-BE 1 선구 4 주루 11
-i]
-l9\ aa 4 주루
-=.
-~ '
-시
-YS
-BE
-GH if
-rts
-f ig
-en
-bis
-구자욱
-——
-1777
-Y 특훈 재설정
-bee
-wi
-RETRAINING
-^
-특훈 재훈련권 투입 시 특훈 카드나 선수 카드는
-Mee At
-요하 스 어스
-oe T Hei
-s
-~~“
-a
-_ xi
-—
-특훈 재훈련 재료로 사용할 카드를 선택하세요.
-0659032ㅁ
-RETRAINING
-^
-s
-“A
-aD
-x0
-EXP: 500
-EXP: 500
-EXP: 500
-<
-LV]
-GREAT
-»
-es eee
-=? Lo
-재훈련
-< 뒤로가기
-```
-
-### image 35
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165209_image.jpeg
-- file: research/images/2026_live07_259354_35_3497bf5239.jpg
-- size: 1845x2048
-- sha256: 3497bf523985ee5c5d25affdbf436f7b7030da4c6f4b52c39abd59f98a133466
-```text
-~
-= 때
-oe
-— >.
-® Md
-2
-— ==
-99990
-—_
-w«
-——~
-Oc)
-am
-—~
-달기:
-= |}
-_—_—
-—
-= me AL
-— —
-2 AN
-=) Sf
-| 내여
-…
-조 — |
-LL =
-배량
-al
-ㅣ
-lies
-대리 |
-GREAT
-4
-a
-nf
-Fides
-peo rs
-ets
-cal
-\
-ELEY
-seth
-aa
-파워
-정확
-선구
-개
-ay
-Gl
-{i
-fl
-ble ahd
-b
-iad
-eee oe
-96
-96 +1
-100+ 1
-5
-대 0
-이 개
-a
-om
-oe
-=
-=
-!내
-주루
-수비
-7]
-93 +1
-96
-ut
-a
-Prt)
-mt
-1111
-TT
-| [|
-*
-on
-sr 뿌
-HD bees
-I
-hes
-he = 6
-=o,
-di
-pal
-eh,
-oi
-더
-it
-sea A. ebeharst
-A
-py eee
-Ss
-1!
-「
-+,
-AS 분배량
-a
-+
-GREAT
-파워
-정확
-선구
-96
-96 +1
-100+ 1
-인내
-주루
-수비
-78 +1
-92
-96
-inane
-특훈 재설정
-|
-기
-ea
-~
-Es 재훈련 그
-```
-
-### image 36
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165225_image.png
-- file: research/images/2026_live07_259354_36_bcca53f047.png
-- size: 555x362
-- sha256: bcca53f04737220b9890da3b792e427896f1c5d6572defde4fb9a8358827d877
-```text
-임팩트 선수 카드(『ㅅ포함) 1
-시즌 선수 카드 1
-국가대표 선수 카드 1
-시그니처 선수 카드([&포함) 2
-골든글러브 선수 카드 3
-```
-
-### image 37
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165241_image.png
-- file: research/images/2026_live07_259354_37_6f7cd0b98d.png
-- size: 2048x1928
-- sha256: 6f7cd0b98dd70a7afd02b4b4d5e13602943b6833209703e5962f8a8a1422a349
-```text
-+ ~ ^
-ey (| 쓰
-나 ~ iy
-```
-
-### image 38
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165246_image.png
-- file: research/images/2026_live07_259354_38_5dc12f8a36.png
-- size: 2048x2048
-- sha256: 5dc12f8a36de41d31e37b41e2b2fc55956a0cf66febcf4a798bbb3bc35ba248b
-```text
-aa
-~
->
-```
-
-### image 39
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165252_image.png
-- file: research/images/2026_live07_259354_39_b5351b7b75.png
-- size: 2048x2048
-- sha256: b5351b7b75d411b248b34dfbe6150a7a6485aac733635a449dc16cb6110a5c12
-```text
-~
-우스
-```
-
-### image 40
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165257_image.png
-- file: research/images/2026_live07_259354_40_980898535f.png
-- size: 2048x2048
-- sha256: 980898535fac291c20d12e23f4aedfaceddfc139954634c8d26594c905e8dafd
-```text
-EE
-ai
-——
-a
-—_
-=
-gL
-~.
-y
-기
-“
-기
-|
-|
-개 Nie,
-a
-4
-/
-/
-\
-|
-|
-W
-|
-\
-|
-1
-0
-|
-| |
-| 7
-ed zk
-```
-
-### image 41
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165309_image.png
-- file: research/images/2026_live07_259354_41_125a19de4c.png
-- size: 2048x1512
-- sha256: 125a19de4cfa7feac1c733a7b3c8f496b6ca58498b3c7c0dd0ee7a91903e8479
-```text
-~
-@ “
-CO
-```
-
-### image 42
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165313_image.png
-- file: research/images/2026_live07_259354_42_097e1c7bf1.png
-- size: 2033x2048
-- sha256: 097e1c7bf1dc85c1bceaf4b42a308f17c1a617f624bd0a0cecc49de3d86e5f9c
-```text
-\+
-SS
-car Wwe
-^,
-0
-```
-
-### image 43
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165319_image.png
-- file: research/images/2026_live07_259354_43_9d30eff457.png
-- size: 2032x2048
-- sha256: 9d30eff457c164d390fdc319e52cdfdf8343afa4cc09ee152d723fef38421af9
-```text
-\ —_
-SS
-——
-ae
-```
-
-### image 44
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165333_image.png
-- file: research/images/2026_live07_259354_44_c7e8559013.png
-- size: 2043x2048
-- sha256: c7e85590131fb0c7e7c07289aaff39678196cd7f322dbdfe1df4a90dc4d8184a
-```text
-Ns
-vf
-pon
-~
-Soe)
-rapt
-wh 4
-```
-
-### image 45
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165637_image.png
-- file: research/images/2026_live07_259354_45_828bac820d.png
-- size: 668x288
-- sha256: 828bac820d9050d83a9019998880e91668f32f2c039278c50b5b3bc1f14d1024
-```text
-{25 (0
-Koh ely 펠세64486.
-```
-
-### image 46
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165652_image.png
-- file: research/images/2026_live07_259354_46_2796509fcd.png
-- size: 1086x1889
-- sha256: 2796509fcdb41ef29a7ffb91b8a1e75e675491a03ee0894c4b41356982d54066
-```text
-,/ 클럽상세정보 / x ㆍ
-평균 OVR 645 주력 콘텐츠 클럽 친목
-클럽원 명단
-랭킹철린지 실시간매치 홈런레이스
-클럽원 정보 지난시즌순위 지난시즌순위 지난시즌순위
-9 0 0 0
-& 0 0 0
-| 9 0 0 0
-9 0 0 0
-9 0 0 0
-; 0 0 0
-:
-0 0 0 0
-```
-
-### image 47
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165655_image.png
-- file: research/images/2026_live07_259354_47_19d2f57515.png
-- size: 1086x1888
-- sha256: 19d2f5751529419b4cf962c58a7a4571814483930fd4f52bd497ff6a21faa2e8
-```text
-——
-때
-——
-,/ 클럽상세정보 /
-2
-77198
-평균 OVR
-64.5
-주력 콘텐츠
-클럽 친목
-클럽 콘텐츠
-표 에브런
-클럽 대
-= Oo
-콘텐츠 랭킹
-ae
-뼈
-클럽 대전
-1위
-= 에
-6위
-6위
-8
-10
-96시즌
-97시즌
-98시즌
-99시즌
-100시즌
-```
-
-### image 48
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165714_image.png
-- file: research/images/2026_live07_259354_48_31868f6345.png
-- size: 1086x1888
-- sha256: 31868f6345c276d6dfc7fd96692dd6f2b41576f1ebbb7385b11b81ab2feeb1f5
-```text
-— : e
-~ 149,820,150 + +4 22000 + @ 90/90 +
-클럽 가입
-추천 | 클럽 대전 랭킹
-~ =
-1
-평균 OVR 59.4 어제 출석 인원 0
-클럽 대전 랭킹 지난주1위 클럽 대전 참여 지난주 0회
-@
-50
-평균 OVR 71.7 OAlBA ols 0
-클럽 대전 랭킹 지난주 2위 클럽 대전 참여 지난주 0회
-@
-40
-평균 OVR 63.0 어제 BA 인원 0
-클럽 대전 랭킹 지난주 39] 클럽 대전 참여 지난주 0회
-@
-es ㅠㅜ : 입단테스트
-~ ie T
-| 클럽 창단 |
-< 뒤로가기
-```
-
-### image 49
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165722_image.png
-- file: research/images/2026_live07_259354_49_a1754a887c.png
-- size: 1086x1889
-- sha256: a1754a887c380d7510c728426a534e705b188d5c4e2b3b7eb946047728023ea5
-```text
-커뮤니 ㅜ ®,
-v 0+ te 99,999,600 + @ 110/110 +
-클럽 메인
-클럽 정보 클럽원 명단 클럽 업적 클럽미션 클럽관리 클럽 라인업
-클럽 & 클럽마스터 31/20
-(2 OVR 홈구장 고척
-COLREN 창단일 2026.06.23
-제 주력 콘텐츠 클럽 대전
-1
-0/160 (6 랭킹 스코어 1000
-클럽 레벨 효과 7 시즌 순위 0 위
-HEZIII 시즌 전적 0승 0무 0패
-클럽 대표 엠블럼
-' 들 벤 - 그 — ‘
-PERFECT) Club Match Club atch -
-후 공지 사항 lA
-클럽 공지사항입니다.
-@ 클럽 가입을 축하합니다. =
-출석 체크
-One
-주간 미션 X 4일 9시간 26분
-호르 ㅅ 히프 0 >,
-© 홈런레이스 1008] 플레이 바로가기 | 2
-0/100
-< 뒤로가기
-```
-
-### image 50
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165731_image.png
-- file: research/images/2026_live07_259354_50_46315bd7bf.png
-- size: 494x988
-- sha256: 46315bd7bfa7f00b02cde157b3132fe162bf8739c46acae2cb060441c78249fb
-```text
-커뮤니티 ㅜ Cy
-w® 회 술 0) @ 120520
-친구
-친구목록 진구 요청 목록
-2120 1명접속중
-e
-Tv wee (fa) o 00 집소 191
-< 뒤로가기
-```
-
-### image 53
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_171323_페라자노다웃좌20260609084406.gif
-- file: research/images/2026_live07_259354_53_994bac5d89.jpg
-- size: 768x432
-- sha256: 994bac5d89a8205e96a6ea1a879f3793e6539f6ed85a9bf7811f6ebda9f7cd19
-```text
-ROA
-y
-a
-If
-ing
-Si
-aiLES
-el
-(
-Tua 느
-cuu
-Wy
-runcTer
-개 '
-re
-hy
-deed
-Tair Ss —— -겨메재조~
-저그
-ㄴㄴ 3
-=
-=
-Seer
-『 ㆍ 2000
-——
-0
-2000406
-SSS SS SS
-to
-Bue:
-wanes
-Aa ial
-“sent Bile to
-me | 400먼드
-+내006 、곰러불
-TaN
-|
-~
-그
-ㄴ =터
-아가
-```
-
-### image 54
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_171459_페라자노다웃우202606090902371.gif
-- file: research/images/2026_live07_259354_54_a3c205a909.jpg
-- size: 768x432
-- sha256: a3c205a9095c9ecceab2e7fd69ca08ac468f06b2c74c1b7efa9dcbbdf1a4c9f5
-```text
-0
-208
-~
-a
-“4
-oe,
-ine COFFEE |
-al
-som 5
-—
-——
-roa
-a
-eo
-comics
-es
-/
-Weer,
-Ae
-nee
-ow ure
-ch
-#2
-0
-SSS
-—
-ee
-a 00000
-ran a Ser
-rie A
-4
-Haz.
-LUNCTEA
-We WEF 6396 “er LE
-a 때
-Su
-iu
-N
-=
-0
-——
-Deiegeen nee
-ane
-Ce rereeirenne:
-ee
-—
-——
-```
-
-### image 55
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165813_image.png
-- file: research/images/2026_live07_259354_55_b1b887d6fe.png
-- size: 1484x416
-- sha256: b1b887d6fe87362e5e0721bb8215ed9c9c73e067ca3e158385616622ca86051f
-```text
-“ 】 =, ~ a ; 1. § ~를스 ~ —
-> re 7° 5 j 7 6 4 ; " iy 2. | is j ~ ee 4 ;
-CULTURE wy CULTURE |: .
-Cc “ Cc
-LAND 1례떤드 LAND 1례떤드
-```
-
-### image 57
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165837_image.png
-- file: research/images/2026_live07_259354_57_cb16a012cc.png
-- size: 1845x2048
-- sha256: cb16a012cc7d64a0452e162e6adb069679e1bfe3685dcea375c8bd06c3a84368
-```text
-ao
-sols eb
-ay
-| =
-~
-~
-0+ *%
-300 + @
-90/90 주
-1A 도감
-삼성
-구자욱
-임팩트
-1@ 위시 전체 등록
-0/17
-피크 시 클 으 그
-설
-스스 수 SL 13° wake 1% I’
-<—&
-werk SL 2” 소소 수 ㆍ & / | 소소 수 wir! | 0 ㅠㅠ
-소소 수 SL
-0"
-“aD
-구자
-니이
-&
-= "
-구 44
-|
-s4io#
-=
-NAF
-(
-4
-4 ty
-ites
-was
-~. 구자욱
-7 구자욱
-7_ 구자욱
-~. 구자욱
-구자욱
-a
-“ar FHS
-^
-i
-werk SL 10 xreknk SL 8
-nas
-werk St 69
-RE...
-+ 수 수 SL 69 kek ^
-0 kerk yt OZ
-a ~
-주
-는
-+a
-&=
-ais
-OD
-Ay
-wamtent
-%
-an
-1809
-7,
-『
-Ins
-| ㅣ
-\ is
-os,
-ak
-“SS
-호 Vay
-구자욱
-~. 구자욱
-~ _ 구자욱
-~. ARS
-~. 구자욱
-~. 구자욱
-구자욱
-50 | 소소 수 SL
-0 kkk Si 50
-wrk SL
-RF
-RF
-— ^,
-Oo:
-2
-"
-1
-| |
-) WW
-ye
-~. 구자욱
-~. ARS
-~. 구자욱
-로가기
-```
-
-### image 58
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165840_image.png
-- file: research/images/2026_live07_259354_58_34003080d7.png
-- size: 1845x2048
-- sha256: 34003080d76b8218286bec23811a156f14655a32016ad59689b91cd07f846fb6
-```text
-eee
-See
-——
-ee
-,/ 알림 /
-조건 검색된 모든 MAS
-xa
-위시리스트에 전체 등록하시겠
-Lo |
-니까?
-A
-취
-pal 뼈
-——
-```
-
-### image 59
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165855_image.png
-- file: research/images/2026_live07_259354_59_20698a5cea.png
-- size: 1845x2048
-- sha256: 20698a5ceaca16f1c60361f4e63128df93a3b64286a2763e5b4bc2369c2f252e
-```text
-Vv ® 0+ *% 30 + @ 90/90 [+
-| ㅋㅋ 가
-GH) 위시 전체 해제
-O/T 이 해 5 카-
-73 고 숨 숨 g? 73 고 술술 g? 72 고스 술술 g? 72 xk sg 72 고 수 숨 g 7 wxXwnkk gS 71 + 수 숨 @
-RF IF 나 RF £ Boo 바 = RF
-one NN NSS "se 「 aie 0
-(ee Pe be Fe ws | = 후
-» ms ~. 구자욱 ~ . 구자욱 ~. ARS ~. 구자욱 구자욱 Zi 구자욱
-7 wren sg? 70 고속 술술 62 BY sally § EY 00 g 69 aly g 67 + 수 술술 g? 62 | \; g
-LF 바 gs REO ie ~ 바스" 바 바 69
-"1 s A) et \ _ 110" ing ' (omg < 스고 | 본
-. We Sa | a ey a eS nate be! ae
-LM 구지욱 ^ TAS ^, TNS ) a 구자묵 < 구자욱 ^ 구자욱 ^ 구자욱
-| 50 고 술술 sg 0 0“ no 50 xwnknk gs? |
-LF x RF Sa RF
-jj} nt yj ) i 1
-| a aun 4 a ~
-```
-
-### image 60
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165858_image.png
-- file: research/images/2026_live07_259354_60_91d18dae38.png
-- size: 1845x2048
-- sha256: 91d18dae3832c0a13537dcff41b4c1ba7c855211246fc13a9884106b6829ef13
-```text
-때
-eee
-See
-——
-베바
-1"
-0
-아이스
-,/ 알림 /
-조건 검색된 DE MAS
-xa
-위시리스트에서 전체 해제하시겠
-[=|
-니까?
-취
-pal 뼈
-A
-——
-```
-
-### image 61
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260623_165908_image.png
-- file: research/images/2026_live07_259354_61_d4c5defc18.png
-- size: 1062x1348
-- sha256: d4c5defc18effb37db643d3a895f3ae4500d555f1db6ca8efad55447d7165c84
-```text
-FA 0주 선수 목록 || 확률정보 ㅣ
-PREMIUM 9 000 7 |. PLAYER PACK Z AN
-10회 연속 구매 시 iG »
-선호구단선수학성. ^ (20 3
-누적 구매 횟수 0회 최종보상까지 7003
-보상보기 | 수 0/4 스카우트 보너스 초기화까지 202
-© ; (P) | 최종보상
-300:000 2 500.000 ag iii 때 _
-| 0회 ) 11500
-20 40 60 80
-스카우트 횟수에 따라 보상을 획득합니다.
-13] 구매하기 | 10회구매하기. a
-연속 구매하기
-무료 (1/1) 수
-10회 뽑기 시 선호 구단 선수 확정
-```
-
-### image 62
-- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
-- file: research/images/2026_live07_259354_62_de4b4525e1.png
 - size: 780x200
 - sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
 ```text

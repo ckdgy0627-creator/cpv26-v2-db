@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "idx": "307490",
+      "title": "[업데이트] 19차 Live 업데이트 안내",
+      "regdate": "2026-11-10 18:00",
+      "url": "https://cpbv-community.com2us.com/board/3/307490"
+    },
+    {
       "idx": "305099",
       "title": "[업데이트] 18차 Live 업데이트 안내",
       "regdate": "2026-11-03 18:00",
@@ -77,12 +83,6 @@
       "title": "[업데이트] 6차 Live 업데이트 안내",
       "regdate": "2026-06-09 18:00",
       "url": "https://cpbv-community.com2us.com/board/3/251160"
-    },
-    {
-      "idx": "248839",
-      "title": "[업데이트] V.5.02.00 &amp; 5차 Live 업데이트 안내",
-      "regdate": "2026-05-26 19:05",
-      "url": "https://cpbv-community.com2us.com/board/3/248839"
     }
   ],
   "error": null
