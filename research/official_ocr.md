@@ -1114,7 +1114,564 @@ Cc
 ## 2026_live20_316842
 - source: https://cpbv-community.com2us.com/board/3/316842
 
-PAGE ERROR: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+업로드 이미지: 16개
+
+### image 2
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_182609_260410V26780port24.jpg
+- file: research/images/2026_live20_316842_02_36706aec87.jpg
+- size: 780x200
+- sha256: 36706aec87a81d5c4457b01895cb10023c52471057874169e12829724a38bee6
+```text
+- 4 QQ " 초크 t | 7 .프로야구 26,
+= ' _% 시 4 ㆍ ail
+“LIVE SO
+```
+
+### image 5
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173030_image.png
+- file: research/images/2026_live20_316842_05_c9ab2f96d7.png
+- size: 618x923
+- sha256: c9ab2f96d70104d8592df67e197dc2393b2308d4cc48019e15b1d0a49f17a17b
+```text
+70 ^ ^ 20
+>
+： ^ 2
+ESO NE oe
+| Pon °*. . | \ '
+& a * vw — ad 세
+) ~ <a 2s =
+{ ) LF ~ 7° .
+OLE LIVE V3 Mp
+|
+```
+
+### image 6
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173033_image.png
+- file: research/images/2026_live20_316842_06_f40b9e507f.png
+- size: 620x930
+- sha256: f40b9e507f84c461ff01f5117a27d106a5f728f4918b574fedb0edffc14c062e
+```text
+\ ~%^^ ~:
+< ey EX WN 시 ae
+a i \. 2
+> 너지 엽 、
+=김도영'26
+```
+
+### image 7
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173100_image.png
+- file: research/images/2026_live20_316842_07_b4eda3211f.png
+- size: 995x2048
+- sha256: b4eda3211f0ee53dfabf4e75f5418fe3f06aad57e9de3d0c5d8396f7761ac082
+```text
+~ ~
+고래 “WN Sie S24 A 3 - - 더 i ' ,
+그 LIVE V3 Mp sea 4
+ZT MS '26
+특이폼/페이스 미리보기
+@』 구자욱 '26
+0
+RAEN RIN ET OE AL ICN |
+12 12°
+파워 드 770 “70 인내 70 [08
+정확 se 83 주루 ee 73
+선구 —_ 70 73 수비 =a «63
+Se oa
+획득처 보기 | (&) 위시리스트 등록
+<4 ° >
+```
+
+### image 8
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173121_image.png
+- file: research/images/2026_live20_316842_08_2d3fd18ec8.png
+- size: 986x2048
+- sha256: 2d3fd18ec89edde6503582a5b8eee680c6a43814d925840a7c6b6901c84b02d1
+```text
+we Ss EF
+0-0
+il
+«| Gf LG
+63
+it?
+@)』 삼성
+0 0015
+El 대
+Sa]
+91. °°
+넷
+내촌 16
+】
+20
+1니
+ANE
+Om
+스브그ㅅ
+AAA
+es
+oTLN
+ve
+홈런
+0타수 0안타
+타율
+000
+0 타점
+0
+1
+i
+1번 타자
+~.
+aim,
+»
+322
+ee
+==
+ae
+SSS SSS
+—=
+ee
+/
+gs
+fh)
+4
+>
+~ 고저
+ㅜㅜ
+~
+Ns
+/ 하야
+=<
+=)
+ne
+=
+- ~
+<a
+==
+a
+——
+——
+~
+—
+으으으
+—
+^
+2
+yt
+pe
+- es.
+가
+』
+gar
+A
+「
+~
+> -
+aaa
+ee ee
+———
+sett ts
+— =——
+-
+67 ㆍ RRR 그 =
+| SP
+“~
+227.
+.)
+000
+oS
+nN
+나
+~
+타선지원
+평정심
+진검승부
+=
+— _=-=--ㅡ- ~
+ee
+Se eee =
+‘QQ
+aN,
+——
+Sit Q-O ERA 0.00
+SS
+je
+eo?
+#0 (0
+ㆍ
+=
+개
+ZX
+<==
+최원
+태*를
+A
+See ~ 2
+~ ~“?
+a MAF
+Fos
+「 we
+0
+@ PLAY BALL
+Y 트윈스
+팀 간의 올시즌 첫 scHa0 비츠 대구 삼성 라이온
+즈 파크에서 펼쳐7
+é
+'
+~“
+12”
+으으
+SNE ES
+```
+
+### image 9
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173128_image.png
+- file: research/images/2026_live20_316842_09_a1e0bd4b27.png
+- size: 668x288
+- sha256: a1e0bd4b27ed5d8ae8ab93443de860700fc5b4efaa985067a0fcdca0142bee42
+```text
+[| a 708 <,
+| ~ | HE Maciel 40040 200
+ai 이브
+sgua a 8 “oy my 라이브 [Oleg
+_ Al ow i 000 ee
+```
+
+### image 10
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173145_image.png
+- file: research/images/2026_live20_316842_10_c03eb1da28.png
+- size: 989x2048
+- sha256: c03eb1da28f89abb495f56a55781ab9cfc460b0e5fdaa1cdb38f8e09d6a88839
+```text
+A
+이달의 4
+TT
+® =
+메인
+라이브
+스페셜
+라이브 기록실
+스카우트
+월간 일정 11.0112:00 ~ 12.01 09:59
+»
+EA
+타자
+재우
+올스타 타사
+올스타 투수
+SEFS! AlZ SLG 7위
+| LIVE V3
+wea
+Mt Be
+kw
+^
+D
+TE
+Sis
+ed
+gtr
+%
+i gh
+386
+te
+/
+a
+가 0;
+vay
+fh) ¥
+eee 나
+#
+@
+86:
+nt
+*~
+\¥)
+AGLEs
+S
+50
+r—
+be
+~
+~"
+LIVE 13, 4
+LIVE iB 7)
+= //2/2 AD
+Live V3 AD
+쁘
+양의지'26
+St
+티아즈'26
+강백호 26
+한동희'26
+{-
+eetvne
+_
+~
+LN
+hij
+yr |
+3 kee
+Ke
+64 keke
+2
+<
+~
+2
+4
+로
+레바
+세
+4 a
+Sr
+~" ay
+MSS
+섰지
+『'
+|i
+Ss
+>
+0
+i)
+=e «CM
+Onder
+TWy,
+ee,
+a~
+47
+an
+SS
+LIVE V3 MD
+Ftv 7}
+iWeV3 Mp
+pet s4'26
+데이비슨626
+에레디아'26,
+b-
+7 QAF'26
+Mt
+44)
+3 Keak
+7)
+GL
+RE
+Ls Be 54
+vs
+Ss
+0
+아해
+, SE,
+"Tey
+tT
+#
+5
+~
+LIVE V3 WD
+LE V3 h
+박건우6'26
+12윌리어드'26
+4
+\y, MES 팀과 동
+의
+2
+한 팀이 Of
+LU 겨으 는련
+로 2 = ㅋㄱ
+치 버프는 적용되지 않습니다.
+6
+Gi
+M
+; MES 스코어 10이상, 잠재력 등급이 AS 고정됩니다.
+이달의 선수
+선
+[=e
+정 시 라이브/스페셜 MES 효과가 모두 AS SHH.
+< 뒤로가기
+```
+
+### image 11
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173147_image.png
+- file: research/images/2026_live20_316842_11_fa3d8aee6d.png
+- size: 993x2048
+- sha256: fa3d8aee6d09c39254d2b70d79614e8781f3359674ca2a166b3cd75e40185fb1
+```text
+이달의 선수
+\A
+Cit]
+이
+——
+월간 일정 TLOT 12200 ~ 12.019: >
+MOBS 시즌./0,으 7위
+소스 주
+Dy
+소은 주 S7/
+65
+:
+68
+germ Ld
+por 4
+RP.
+&
+Re
+Von.
+aan
+0
+yy
+ue
+0075
+『
+FAGLES \
+NS
+베는
+에
+Ta
+a
+LIVE V3 A
+와
+WE ~ Lf)
+, LIVEV? Mp
+^
+<a
+김재윤
+oats 26
+APNG
+o1sar'2gs
+© ovr+t4
+66
+Ke
+8 소스 주
+6/
+T
+0 Dy
+00,
+fas
+@
+@
+TW
+(
+a
+%S
+개
+ME
+6
+^,
+LIVE V3 AD
+26
+a t/)
+이투
+126
+Awe 267
+66
+a
+9 소스 수
+CP
+I.
+poem
+Bae
+(Foye
+AX
+LG
+of
+0)
+LE V3 Ap
+LIVE V3 AD
+see 2g
+worm,
+AS 는
+, AES 팀과 동일한 팀이 아닐
+ㅎ2ㅜㅠㅜ
+력치 버프는 적용되지 않습니다.
+“를
+Th
+(4
+/ MES] 스코어 10이상, 잠재력 등급이 AS 고정됩니다.
+oes 선수 선정 시 라이브/스페셜 MES 효과가 모두 적용됩니다.
+% 뒤로가기
+```
+
+### image 12
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173200_image.png
+- file: research/images/2026_live20_316842_12_33e7ea3c9a.png
+- size: 618x924
+- sha256: 33e7ea3c9ad7ce5949dcd05861c298d8e0d28059a06f084f3c5d0dee0224c4eb
+```text
+? e*eane
+sik
+I\
+\
+3B
+=~)
+/
+wee
+~“
+mN
+A
+ire fy 4
+meat
+at
+영' 26
+```
+
+### image 13
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173202_image.png
+- file: research/images/2026_live20_316842_13_9390dafee0.png
+- size: 620x927
+- sha256: 9390dafee0a93adf73a970ace1c5ab368030d9894e754b261f0db408efd16d64
+```text
+09 ce PSS |
+A,
+(/
+4 Ke
+3s
+ee
+~
+=X
+Al
+C26
+```
+
+### image 14
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173206_image.png
+- file: research/images/2026_live20_316842_14_3b90e5e7c6.png
+- size: 620x923
+- sha256: 3b90e5e7c64d3c45e56f06e595a15dc2d4a2fde21a1cac7cc177d1d2eaa57385
+```text
+ia
+8 **
+2 bs
+CE
+개 ss
+\
+WW
+김지찬 26
+```
+
+### image 15
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20261119_173209_image.png
+- file: research/images/2026_live20_316842_15_79d455947d.png
+- size: 616x924
+- sha256: 79d455947d3f05f375c0acab40eb9c4a676b2ea0376aefd47d6e61869d02d032
+```text
+속
+7D
+68 °°"
+소기
+SS
+ae
+y
+/
+SS
+<=
+ar? 26
+```
+
+### image 16
+- url: https://hive-fn.qpyou.cn/webdev/community_cpbv22/upload/20260423_143421_260123V26780x200.png
+- file: research/images/2026_live20_316842_16_de4b4525e1.png
+- size: 780x200
+- sha256: de4b4525e119302dd82db6653beed51c9e3f9be1fc63e5e98e345d22765a536c
+```text
+| 컴투
+스프로야구
+구릉 26
+```
 
 ## 2026_live19_307490
 - source: https://cpbv-community.com2us.com/board/3/307490
